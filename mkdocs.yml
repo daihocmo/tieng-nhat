@@ -11,7 +11,7 @@ theme:
 nav:
   - 'Hướng dẫn':
     - 'Học': 'guide.md'
-  - 'Công cụ & Cài đặt':
+  - 'Công cụ':
     - 'Yomitan': 'setup-yomichan.md'
     - 'Đào câu': 'sentence-mining.md'
   - 'Tài nguyên':
@@ -51,5 +51,8 @@ theme:
     - search.share
   name: material
 
+plugins:
+  - open-in-new-tab
+  
 extra:
   generator: false
