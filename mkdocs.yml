@@ -1,6 +1,6 @@
 site_name: Tôi luyện Tiếng Nhật - Khu học mở
 site_description: Mày tránh ra để t học Tiếng Nhật.
-site_author: onlyduyy  
+site_author: duykhanh471  
 theme:
   name: material
   features:
@@ -9,20 +9,18 @@ theme:
     primary: indigo
 
 nav:
+  - 'Trang chủ':
+    - 'Trang chủ': 'index.md' 
   - 'Hướng dẫn':
     - 'Học': 'guide.md'
+    - 'Comprehensible Input': 'input.md'
   - 'Công cụ':
     - 'Yomitan': 'setup-yomichan.md'
     - 'Đào câu': 'sentence-mining.md'
-  - 'Tài nguyên':
+  - 'Tài nguyên học':
     - 'Tài nguyên': 'resources.md'
-  - 'Nội dung tiêu thụ':
-    - 'Youtube': 'youtube.md'
-    - 'Podcast': 'podcasts.md'
-    - 'Anime': 'anime.md'
-    - 'LN & VN': 'novel.md'
-    - 'Sách': 'sach.md'
-    - 'Sách nói': 'audiobook.md'
+  - 'Nội dung Tiếng Nhật':
+    - 'Recommendation': 'recommendation.md'
       
 theme:
   palette:
@@ -45,13 +43,18 @@ theme:
         name: Switch to light mode
   features:
     - navigation.instant
-    - navigation.tabs
+    - navigation.instant.progress
+    - navigation.sections
+    - navigation.expand
     - search.suggest
     - search.highlighting
     - search.share
   name: material
-
+markdown_extensions:
+  - attr_list
+  
 plugins:
+  - privacy
   - open-in-new-tab
   
 extra:
