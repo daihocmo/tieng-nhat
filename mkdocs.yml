@@ -1,12 +1,7 @@
 site_name: Tôi luyện Tiếng Nhật - Khu học mở
 site_description: Mày tránh ra để t học Tiếng Nhật.
 site_author: duykhanh471  
-theme:
-  name: material
-  features:
-    - navigation.sections
-  palette:
-    primary: indigo
+
 
 nav:
   - 'Trang chủ':
@@ -44,7 +39,7 @@ theme:
   features:
     - navigation.instant
     - navigation.instant.progress
-    - navigation.sections
+    - navigation.tabs
     - navigation.expand
     - search.suggest
     - search.highlighting

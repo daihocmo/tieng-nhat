@@ -21,7 +21,6 @@ Bạn chỉ cần tập trung vào TheMoeWay, ở đây gần như sẽ có tấ
 **Nhắc nhỏ:** Đọc nhiều là cách tốt nhất để học Kanji
 
 - [Goshintai Grindmaster](https://goshintai.xyz/projects/grindmaster/) - Trang ôn tập Kanji
-- [Goshintai Flagquiz](https://goshintai.xyz/projects/flag-quiz/)
 - [Kanji Guess](https://leb2.github.io/kanji-guess/) - Trang trò chơi đoán cách đọc của Kanji và đo lượng từ vựng mình biết ước tính
 - [Goshintai - Neko Kanji Quiz](https://goshintai.xyz/projects/neko-kanji)
 - [Bộ thủ Kanji](https://ankivn.com/bo-the/ngoai-ngu/tieng-nhat/bo-thu-chu-han/) - Học bộ thủ giúp việc học Kanji trở lên đơn giản hơn 
@@ -29,6 +28,7 @@ Bạn chỉ cần tập trung vào TheMoeWay, ở đây gần như sẽ có tấ
 - [Học Kanji thông qua truyện và hình ảnh](https://ankivn.com/uncategorized/deck-tango-n321vietsub/) - Bạn kéo xuống dưới trang để tìm nha
 - [KanjiFluent](https://kanji.fluentcards.com/)
 - [Kanken](https://ankiweb.net/shared/info/1833474130) - Bộ thẻ Kanken
+
 ### Từ vựng
 - [Kaishi 1.5k](https://ankiweb.net/shared/info/1196762551) - Bộ thẻ từ vựng được làm bởi cộng đồng TheMoeWay, đây là bản dịch sang Tiếng Việt do mình làm
 - [Bộ Tango từ N3-N1](https://ankivn.com/uncategorized/deck-tango-n321vietsub/) - Được làm bởi cộng đồng Anki Việt Nam.
