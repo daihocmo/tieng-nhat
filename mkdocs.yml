@@ -55,6 +55,8 @@ theme:
     - search.highlighting
     - search.share
   name: material
+  favicon: img/favicon.png
+  logo: img/moe.svg
   icon:
     repo: fontawesome/brands/github
 markdown_extensions:
