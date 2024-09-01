@@ -1,1 +1,5 @@
-Đây là một trang học Tiếng Nhật.
+[https://learnjapanese.moe](https://learnjapanese.moe)
+
+# Repository for learnjapanese.moe (TheMoeWay)  
+
+Made with Material for Mkdocs

@@ -1,29 +1,39 @@
-site_name: Tôi luyện Tiếng Nhật - Khu học mở
-site_description: Mày tránh ra để t học Tiếng Nhật.
+site_name: TheMoeWay - Tự học Tiếng Nhật
+site_description: Moe Moe Moe Moe Moe Moe Moe
 site_author: duykhanh471  
-
+repo_url: https://github.com/shoui520/shoui520.github.io
+repo_name: Open a pull request
 
 nav:
-  - 'Trang chủ':
-    - 'Trang chủ': 'index.md' 
+  - 'Trang chủ': 'index.md'
   - 'Hướng dẫn':
-    - 'Học': 'guide.md'
-    - 'Comprehensible Input': 'input.md'
-  - 'Công cụ':
-    - 'Yomitan': 'setup-yomichan.md'
-    - 'Đào câu': 'sentence-mining.md'
-  - 'Tài nguyên học':
-    - 'Tài nguyên': 'resources.md'
-  - 'Nội dung Tiếng Nhật':
-    - 'Recommendation': 'recommendation.md'
-      
+    - 'Hướng dẫn chính': 'guide.md'
+    - '30 ngày Tiếng Nhật': 'routine.md'
+    - 'speaking.md'
+    - 'animejp.md'
+    - 'kanji.md'
+    - 'readingtips.md'
+    - 'monolingual.md'
+    - 'faq.md'
+    - 'Fixing your font': 'font.md'
+    - 'How to use 5ch': '2ch.md'
+  - 'Visual Novel':
+    - 'Học Tiếng Nhật bằng VN': 'vn.md'
+    - 'Cài đặt Visual Novel': 'vn-setup.md'
+  - 'Yomitan':
+    - 'Hướng dẫn cài đặt Yomichan': 'yomichan.md'      
+  - 'Tài nguyên':
+    - 'Tài nguyên': 'resources.md' 
+  - 'Khác':
+    - 'Donate': 'donate.md'
 theme:
   palette:
+
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: grey
+      primary: purple
+      accent: cyan 
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -31,26 +41,50 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: grey
+      primary: deep purple
+      accent: cyan 
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
   features:
     - navigation.instant
     - navigation.instant.progress
-    - navigation.tabs
+    - navigation.sections
     - navigation.expand
     - search.suggest
     - search.highlighting
     - search.share
   name: material
+  icon:
+    repo: fontawesome/brands/github
 markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - meta
+  - admonition
   - attr_list
-  
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+
 plugins:
-  - privacy
+  - search:
+      lang:
+        - en
+        - vi
+        - ja
   - open-in-new-tab
-  
+
 extra:
-  generator: false
+  - generator: false
+
+
