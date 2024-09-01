@@ -85,6 +85,6 @@ plugins:
   - open-in-new-tab
 
 extra:
-  - generator: false
+  generator: false
 
 
