@@ -4,7 +4,7 @@ Hướng dẫn bắt đầu thực sự về việc đọc
 
 Để giỏi Tiếng Nhật hơn, đọc sách gần như là cách hiệu quả nhất. 
 
-“đọc nhiều hơn” thường là lời khuyên đầu tiên trong việc học Tiếng Nhật mà những người học Tiếng Nhật ở trình độ cao gợi ý bất kỳ người mới bắt đầu nào, và điều gì cũng có lý do của nó.
+“Đọc nhiều hơn” thường là lời khuyên đầu tiên trong việc học Tiếng Nhật mà những người học Tiếng Nhật ở trình độ cao gợi ý bất kỳ người mới bắt đầu nào, và điều gì cũng có lý do của nó.
   
 Bài viết cho bạn những lời khuyên và nói về những lo lắng mà bạn có thể gặp phải khi đọc.
 

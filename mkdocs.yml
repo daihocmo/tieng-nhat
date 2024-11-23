@@ -1,8 +1,6 @@
 site_name: TheMoeWay - Tự học Tiếng Nhật
 site_description: Moe Moe Moe Moe Moe Moe Moe
-site_author: duykhanh471  
-repo_url: https://github.com/shoui520/shoui520.github.io
-repo_name: Open a pull request
+site_author: shoui  
 
 nav:
   - 'Trang chủ': 'index.md'
@@ -88,5 +86,10 @@ plugins:
 
 extra:
   generator: false
-
-
+  alternate:
+    - name: English
+      link: https://learnjapanese.moe/
+      lang: en
+    - name: Tiếng Việt
+      link: /
+      lang: vi

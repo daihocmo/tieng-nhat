@@ -16,29 +16,8 @@ Tuy nhiên, trên thiết bị di động, VN sẽ được phân phối dưới
 
 Có Visual Novel rồi thì chọn cách cài đặt ở dưới đây cho từng nền tảng.
 
-<h2>Máy tính</h2>  
-
-[:fontawesome-brands-windows: Windows](vn-win.md){: .md-button .windows}
-
-[:fontawesome-brands-apple: macOS](vn-mac.md){: .md-button .mac}	
-
-[:fontawesome-brands-linux: Linux](vn-linux.md){: .md-button .linux}  
-
-[:fontawesome-brands-freebsd: FreeBSD](vn-bsd.md){: .md-button .freebsd}
-
-<h2>Điện thoại</h2>  
-
-[:fontawesome-brands-android: Android](vn-android.md){: .md-button } 	
-
-[:material-apple-ios: iOS](vn-ios.md){: .md-button }  
-
-<h2>Legacy</h2>  
-
-[:material-microsoft-windows-classic: Windows XP VM](vn-winxp.md){: .md-button } 
-
-
- 
-
+!!! info "Nhắc nhỏ"
+    Phần còn lại của bài viết sẽ không được dịch nên bạn cần đọc ở trang gốc bằng Tiếng Anh
 
 
 

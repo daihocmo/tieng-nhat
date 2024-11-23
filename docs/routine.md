@@ -437,8 +437,6 @@ Thử Love Live (2013).
 
 Trang [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) có bộ sưu tập phụ đề Tiếng Nhật cho Anime lớn nhất.
 
-**(LƯU Ý: Nếu không truy cập được trang trên thì truy cập trang này: **[**bấm vào liên kết truy cập này**](/kitsubackup.html#/ja)**)**
-
 Tìm “Love Live!” (Bạn bấm Ctrl + F để tìm trên trình duyệt - máy tính) và tải tệp nén “Love Live! (01-13) (Webrip).zip”.
 
 Sau khi giải nén tệp, sẽ có một số tệp .SRT.

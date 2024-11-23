@@ -63,13 +63,11 @@ Bạn có thể bấm vào nút ![audio](img/yomichan-audio.png) để nghe phá
 
 Trên thanh công cụ trình duyệt, nếu bạn chọn biểu tượng Yomitan, sau đó chọn biểu tượng ![search icon](img/yomitan-search.png) hoặc dùng tổ hợp phím tắt `Alt+ Insert`, bạn có thể truy cập vào "Yomitan Search" - bạn có thể sử dụng Yomitan như một từ điển Tiếng Nhật riêng (Hoàn toàn Offline).
  
+Có thể chỉnh kích cỡ Pop-up trong cài đặt và cả giao diện tối nữa.
 
-Pop up box size can be edited with advanced settings enabled.  
-A full dark mode can be enabled in the settings too.  
+**Jitendex** là từ điển Nhật-Anh, được xây dựng dựa trên JMDict và lấy ví dụ câu từ dự án Tatoeba.
 
-**Jitendex** is a free and openly licensed Japanese-to-English dictionary. Jitendex is built upon data provided by multiple free and open projects. Most notably the JMdict project, which is used on many Japanese dictionary projects such as Jisho.org, Akebi, Shirabe Jisho, Takoboto etc. 
-
-**新和英** (Shinwaei) is a Japanese-English dictionary intended for Japanese people. It has many example sentences which can prove to be very useful for Japanese learners. A variation of this with even more example sentences is called `[Bilingual] 研究社　新和英大辞典　第５版.zip` can also be found in my dictionaries collection.  
+**新和英** (Shinwaei) Từ điển Nhật-Anh được làm cho người Nhật, có nhiều câu ví dụ
 
 **KANJIDIC** Từ điển Kanji.
 
@@ -79,13 +77,13 @@ A full dark mode can be enabled in the settings too.
 
 ## Từ điển đo độ phổ biến của từ 
 
-Yomitan supports the use of frequency dictionaries that tell you how common a word is.  
+Yomitan hỗ trợ từ điển tần suất để cho bạn biết độ phổ biến của từ này
 
-**JPDB** - A frequency list made from jpdb.io, which is a site that has analyzed many light novels, visual novels, Anime and j-drama. In turn, this is a frequency list from Japanese fictional media.  
+**JPDB** - Danh sách làm bởi JPDB, tổng hợp từ light novels, visual novels, Anime and j-drama. 
 
-**CC100** - Frequency list of corpus data from Japanese internet. Formal words will appear more common in this frequency list . Example: 審議会 (council) is 9733 frequency on CC100 and 58730 on JPDB.  
+**CC100** - Danh sách tần suất các từ xuất hiện trên Internet của Nhật, các từ trang . Ví dụ: 審議会 (council) có độ phổ biến 9733 trong CC100 và 58730 trong JPDB.  
 
-**What is a common word?**  
+**Thế nào là từ phổ biến?**  
 
 Rất phổ biến: 1-10,000  
 Phổ biến: 10,001-20,000    
@@ -95,52 +93,6 @@ Không phổ biến: 40,001-50,000
 Hàng hiếm: 50,001-80,000  
 Người-bản-ngữ-chắc-cũng-không-biết: 80,000+  
 
-## Allowing access to file URLs
-
-Enabling this allows you to use Yomitan on local files such as .HTML files.  
-
-!!! failure "PDF Files"
-    On Chrome, you need to use [PDF.js](https://mozilla.github.io/pdf.js/web/viewer.html). Click on the diagonal up arrow thingy to load a pdf.  
-
-Chromium:  
-	- Right click the ![yomi icon](img/yomichan-icon.png)  
-	- Click "Manage Extensions"  
-	- Enable "Allow access to file URLs"  
-
-Firefox:  
-	- Mặc định.  
-
-## Bonus: Adding Forvo extra audio source  
-
-You may encounter missing audio with the default Yomitan audio sources, adding [Forvo](https://ja.forvo.com/) will help fill in the gaps.  
-
-Thanks to [jamesnicholas](https://github.com/jamesnicolas/yomichan-forvo-server) for this wonderful add-on!
-
-This requires you to have Anki (2.1 and newer) installed and open on your computer to work.  
-
-1. Copy this code `580654285`
-2. In Anki, in the menu at the top, click on **Tools**, then **Add-ons**.
-3. In the new window, click **Get Add-ons...** and paste the code `580654285` into the text box and click **OK**
-4. Restart Anki by closing it and opening it back up again.
-5. In the Yomitan settings page ![cog](img/yomitan-cog.png), click **Audio** on the left, and then click on **Configure audio playback sources...**
-6. Click **Add** and then select **Custom** from the drop down menu. 
-7. Now where it says **Custom audio source (?)**, select the type **JSON** from the drop down menu.
-8. In the URL text box, enter this `http://localhost:8770/?expression={expression}&reading={reading}`
-
-## Thêm: Sử dụng trên Android với Kiwi Browser
-
-Kiwi Browser là trình duyệt Chromium hỗ trợ tiện ích mở rộng, bao gồm Yomichan. Bấm vào đường dẫn bên dưới để tải xuống.  
-[Google Play](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)  
- 
-You can access the Yomichan settings page by going in :material-dots-vertical: > Yomichan	![yomi icon](img/yomichan-icon.png) > Settings.  
-
-Please see above for link to download the extension, link to the dictionaries collection and recommended starter dictionaries.  
-Importing a dictionary is a very processor intensive process and will take a long time depending on your phone. Please be patient.  
-
-Tap on a word to look it up. In the case that it is not working, you may need to turn off the modifier key.  
-
-![Yomichan Android](img/yomichan_android_alt.png)  
-
 ## Cài đặt Anki
 
 Đọc trên trang của [kuri](https://donkuri.github.io/learn-japanese/setup/#anki-setup).
@@ -149,5 +101,5 @@ Tap on a word to look it up. In the case that it is not working, you may need to
 
 [Đọc hướng dẫn tại đây](https://github.com/themoeway/local-audio-yomichan)  
 
-### Thấy có ích không? Có gì nhớ donate qua Patreon nhá.
-[:fontawesome-brands-patreon: Support me on Patreon](https://www.patreon.com/shoui){: .md-button }
+!!! info "Nhắc nhỏ"
+    Phần còn lại của bài viết sẽ không được dịch nên bạn cần đọc ở trang gốc bằng Tiếng Anh
