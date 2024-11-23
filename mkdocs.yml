@@ -1,5 +1,5 @@
 site_name: TheMoeWay - Tự học Tiếng Nhật
-site_description: Moe Moe Moe Moe Moe Moe Moe
+site_description: Moe Moe Moe Moe Moe Moe Moe (Nhưng là bản dịch Tiếng Việt)
 site_author: shoui  
 
 nav:
@@ -13,8 +13,7 @@ nav:
     - 'readingtips.md'
     - 'monolingual.md'
     - 'faq.md'
-    - 'Fixing your font': 'font.md'
-    - 'How to use 5ch': '2ch.md'
+    - 'Sửa phông chữ': 'font.md'
   - 'Visual Novel':
     - 'Học Tiếng Nhật bằng VN': 'vn.md'
     - 'Cài đặt Visual Novel': 'vn-setup.md'
