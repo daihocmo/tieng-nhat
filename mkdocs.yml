@@ -1,0 +1,57 @@
+site_name: Tự luyện Tiếng Nhật
+site_description: meow meow meow meow meow meow meow meow
+site_author: duykhanh471  
+site_url: https://daihocmo.github.io
+repo_url: https://github.com/daihocmo/tieng-nhat
+repo_name: Chỉnh sửa trang
+
+nav:
+  - 'Trang chủ': 'index.md'
+  - 'Hướng dẫn':
+    - 'Lộ trình': 'guide.md'
+    - 'Hướng dẫn đơn ngữ': 'monolingual.md'
+  - 'Setup': 'setup.md'
+  - 'Nội dung Tiếng Nhật': 'noi-dung-tieng-anh.md'
+  - 'Tài nguyên học': 
+    - 'Tổng hợp': 'resources.md'
+    - 'Comprehensible Input': 'input.md'
+    - 'Tham gia cộng đồng học': 'join.md'
+  - 'Recommendations': 'recommendation.md'
+
+
+      
+theme:
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  logo: assets/logo.svg
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.follow
+    - search.highlighting
+    - search.share
+    - search.suggest
+  name: material
+      
+plugins:
+  - search
+  - open-in-new-tab
+
+extra:
+  generator: false
