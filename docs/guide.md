@@ -1,169 +1,116 @@
 # Một hướng dẫn học Tiếng Nhật
 
-## Nhiều người học Tiếng Nhật "thất bại" là do đâu? 
-Bạn hãy đọc bài [Trước khi bắt đầu học](https://daihocmo.github.io/ngoai-ngu/truoc-khi-bat-dau/) từ trang [Tự luyện ngoại ngữ](https://daihocmo.github.io/ngoai-ngu). Bạn hoàn toàn có thể bỏ qua và đọc luôn mục tiếp theo.
+## Trước khi bắt đầu học
 
-## Cách học Tiếng Nhật
+> Bạn hãy đọc bài [Trước khi bắt đầu học](https://daihocmo.github.io/ngoai-ngu/truoc-khi-bat-dau/) từ trang [Tự luyện ngoại ngữ](https://daihocmo.github.io/ngoai-ngu) để có cái nhìn tổng quan về phương pháp học ngoại ngữ. Bạn hoàn toàn có thể bỏ qua và đọc luôn phần hướng dẫn này.
 
-### Quá trình học tập ban đầu
+Đi du lịch Nhật để nói chuyện với người Nhật, xem anime không phụ đề, đọc manga và light novel bằng Tiếng Nhật đều yêu cầu bạn phải... _học Tiếng Nhật_. 
 
-Quá trình học tập mở đầu bao gồm bao gồm:
+Chỉ riêng hướng dẫn này là không đủ để có thể *dạy* bạn Tiếng Nhật, nhưng ít nhất bạn sẽ có được định hướng để có thể tự mình học Tiếng Nhật.
 
--   Làm quen với Tiếng Nhật.
--   Học từ vựng cơ bản sử dụng *Anki*.
--   Học ngữ pháp.
--   Bắt đầu Immersion với những nội dung đơn giản và lặp đi lặp lại. **Đây là nhiệm vụ cần phần lớn thời gian học của mình**.
+## Hệ thống chữ viết Tiếng Nhật
 
-### Bảng chữ cái
+Hệ thống chữ viết Tiếng Nhật bao gồm ba hệ thống chữ viết: hiragana, katakana và kanji.
 
-Bảng chữ cái Tiếng Nhật (Tiếng Nhật: English alphabet) hiện đại là một bảng chữ cái Latinh gồm 26 chữ cái. 
+### Kana
 
-![](img/main_guide/alphabet.png)
+Hiragana và katakana, hay kana, là hai hệ thống chữ viết ngữ âm, mỗi bảng bao gồm 46 ký tự. 
 
-## Học từ vựng
+Hiragana (ひらがな) được sử dụng cho các phần ngữ pháp và từ không có dạng kanji hoặc người viết chọn không sử dụng kanji. Katakana (カタカナ) được sử dụng cho các từ mượn và nhấn mạnh (tương tự như in nghiêng), cùng với các mục đích khác. Bạn có thể đọc thêm [Hiragana và Katakana: Hướng dẫn toàn diện cho người mới học](https://mochidemy.com/blog/hiragana-va-katakana/) được viết bởi Mochidemy.
 
-Bạn nên học bộ thẻ từ vựng Anki dành cho người mới bắt đầu. Đây là một bộ thẻ bao gồm khoảng *1700* từ, giúp bạn học những từ Tiếng Nhật thông dụng nhất để khởi đầu quá trình học Tiếng Nhật của mình.
+### Kanji
 
-### Cài đặt Anki nhanh
+Kanji là phần thứ ba của hệ thống chữ viết Tiếng Nhật.
 
-Anki là một phần mềm flashcard được thiết kế để giúp bạn ghi nhớ lượng lớn thông tin, chẳng hạn như từ vựng.
+Học sinh cao trung Nhật Bản (tương đương với học sinh THPT bên nước mình) cần phải học ít nhất 2136 Kanji trong chương trình học, nhưng có tới khoảng 3000 Kanji được sử dụng thường xuyên trong cuộc sống.
 
-Truy cập vào [Trang tải xuống của Anki](https://apps.ankiweb.net/), và tải phiên bản Anki cho hệ điều hành bạn đang dùng (Windows, MacOS, Linux) và chạy tệp cài đặt.
+## Học Tiếng Nhật
 
-![](img/ankidownload.png)
+### Ngữ pháp
 
-Khi mở Anki lần đầu tiên bạn sẽ cần chọn ngôn ngữ hiển thị, bạn có thể để mặc định (English). 
+Học ngữ pháp Tiếng Nhật tương đối đơn giản: Chọn một hướng dẫn ngữ pháp và đọc nó. Nếu học bằng Tiếng Anh thì có một số hướng dẫn ngữ pháp như Tae Kim hoặc Ammo Misa chẳng hạn
 
-Bộ thẻ dành cho người mới bắt đầu mà mình gợi ý là [1700 từ vựng cơ bản](https://drive.proton.me/urls/YMRA0WG5G4#OwdCA78y6sTr) có thể tải xuống thông qua [đường dẫn này](https://drive.proton.me/urls/YMRA0WG5G4#OwdCA78y6sTr) (là tệp có đuôi `.apkg`)
+Bạn không nên cố ghi nhớ mọi thứ ngay lần đầu đọc trong bất kỳ hướng dẫn nào bạn chọn, và mục tiêu chính là ta cần phải *hiểu*. Mục đích của hướng dẫn ngữ pháp không phải là để giúp bạn "làm chủ" ngôn ngữ (điều này chỉ có được khi thực hành và tiếp xúc với ngôn ngữ đủ nhiều), mà chỉ đơn giản là giúp xây dựng những nguyên tắc cơ bản của ngôn ngữ và cung cấp cho bạn nền tảng mà bạn cần để bắt đầu đọc Tiếng Nhật.
 
-Sau khi quá trình tải xuống hoàn tất, hãy thêm bộ thẻ vào Anki bằng cách chọn "Import file" và điều hướng đến chỗ mà bạn đã tải tệp xuống (.apkg) rồi chọn "Import" ở trên cùng bên phải.
+Khi đã đọc hết hướng dẫn mà bạn chọn, bạn có thể bắt đầu đọc nội dung Tiếng Nhật và xem lại hướng dẫn để củng cố kiến thức nếu cần. Đọc Tiếng Nhật là một cách thực hành ngữ pháp *chủ động* (actively practicing) vì bạn cần ngữ pháp để hiểu những gì bạn đang đọc. Manga là một lựa chọn phổ biến cho những người mới bắt đầu tập đọc, ví dụ như [Yotsubato](https://en.wikipedia.org/wiki/Yotsuba%26!). Bạn cũng có thể sử dụng [Bộ thẻ ngữ pháp DoJG](http://dojgdeck.neocities.org/) để củng cố những gì bạn đã học.
 
-### Hướng dẫn sử dụng Anki nhanh
+Đây chưa phải là điểm kết thúc của việc học ngữ pháp. Bạn mới chỉ học xong *ngữ pháp cơ bản*. Bạn có thể (cá nhân mình gợi ý) học hết các cấu trúc ngữ pháp JLPT. Cá nhân mình gợi ý bạn học trên trang [Nihongo-Kyoshi: JLPT文法解説まとめ](https://nihongokyoshi-net.com/jlpt-grammars/) hoặc bất kì nguồn tài nguyên nào bạn muốn học.
 
-Trước khi bắt đầu học, bạn nên thay đổi một số cài đặt. Nhấp vào biểu tượng răng cưa bên cạnh bộ thẻ và tiếp tục *Options*.
+### Từ vựng
 
-Thay đổi *Maximum reviews/day* từ `200` ĐẾN `9999`. Đừng lo lắng về con số này, số lượng Reviews (Thẻ bạn cần ôn tập trong Anki) của bạn có thể sẽ không bao giờ đạt đến mức cao như vậy, nó chỉ giúp bạn vượt qua giới hạn đánh giá hàng ngày để có trải nghiệm tối ưu.
+[Anki](https://apps.ankiweb.net/) là một chương trình flashcard giúp bạn học và ghi nhớ từ vựng thông qua [SRS](https://en.wikipedia.org/wiki/Spaced_repetition). Khá nhiều người học Tiếng Nhật khi bắt đầu học Tiếng Nhật và sử dụng Anki sẽ lựa chọn sử dụng bộ thẻ Core đã được làm sẵn (Dao động từ khoảng 1500 - 2000 từ). 
 
-Đối với *New cards/day*, `20` có thể hơi quá khó với một số người. Nếu bạn cảm thấy khó khăn khi học 20 từ mới mỗi ngày, hãy thử giảm xuống `10` hoặc thấp hơn.
+Sau khi hoàn thành bộ thẻ Core, cá nhân mình gợi ý bạn bắt đầu xây dựng một bộ thẻ *mining* cho mình. Bộ thẻ *mining* hay **mining deck** là bộ thẻ từ vựng mà bạn tự tạo để học và ghi nhớ những từ (bạn chưa biết) mà bạn bắt gặp trong quá trình tiêu thụ Tiếng Nhật của mình. Tiện ích trình duyệt [Yomitan](https://yomitan.wiki/) giúp bạn tạo thẻ một cách đơn giản hơn nhiều bằng cách di chuột vào từ bạn chưa biết rồi bấm dấu **+** ở trong hộp thoại hiện lên.
 
-Anki giúp bạn ghi nhớ mọi thứ bằng cách kiểm tra khả năng nhớ nội dung ở mặt sau thẻ của bạn. Kiểm tra xem liệu bạn có biết nghĩa và cách phát âm của từ đó hay không. Các nội dung khác trên thẻ chỉ để hỗ trợ bạn trong quá trình học.
+### Học Kana và Kanji
 
-Hãy nhớ là dù *1700 Từ vựng cơ bản* có các câu ví dụ, nó chỉ được thiết kế để dạy những từ đơn lẻ.
+Bạn sẽ cần phải học cả ba hệ thống chữ viết để có thể đọc được Tiếng Nhật. Với hiragana và katakana thì do có số lượng không nhiều và cách viết không quá phức tạp nên có thể học nhanh được. Đối với Kanji, do số lượng lớn và phức tạp nên có nhiều cách tiếp cận khác nhau.
 
-![](img/main_guide/front.png)
+Không có phương pháp nào được mô tả dưới đây vượt trội hơn một cách khách quan so với các phương pháp khác. Điều quan trọng nhất của bất kỳ phương pháp nào không phải là nó "hiệu quả" như thế nào mà là bạn có thích nó hay không, hay ít nhất là cảm thấy có đủ động lực để hoàn thành nó. Đừng ngại thử các phương pháp khác nhau và xem phương pháp nào phù hợp nhất với bạn.
 
-Khi thấy một thẻ Anki bạn chưa học (thẻ mới), nên chọn *Show Answer* để có thể thấy những gì ở mặt sau của thẻ.
+Dưới đây sẽ là một số phương pháp mà bạn có thể thử và _không phương pháp nào là hơn phương pháp nào_. Phương pháp tốt nhất chính là phương pháp mà bạn thấy muốn học và học có hiệu quả với bạn. Bạn có thể thử xem phương pháp nào là bạn học vào đầu nhất.
 
-![](img/main_guide/back.png)
+### Về việc học Kanji đơn lẻ
 
-Khi đã xem xong nội dung thẻ rồi, hãy nhấn *Again* (Bằng với việc "Ôn lại"). Với những thẻ tiếp theo, hãy làm tương tự vì đây cũng là thẻ mà bạn thấy lần đầu.
+Có hai cách chính để tiếp cận Kanji: 
 
-Lần tiếp theo bạn nhìn thấy thẻ đó là khi kiểm tra lại nội dung mặt sau của thẻ. Hãy cố gắng hết sức để nhớ lại nghĩa và cách đọc ở mặt sau thẻ và tự chấm điểm.
+- Đơn giản nhất là học cả từ mà không cần học từng chữ Kanji riêng lẻ. 
+- Cách thứ hai là học từng Kanji một cách riêng biệt để tìm hiểu ý nghĩa và thành phần của nó. 
 
-Về cơ bản, đây là cách chúng ta học từ vựng ở giai đoạn mới bắt đầu. Khi bạn đã hoàn thành các thẻ từ mới trong ngày, hãy nhớ quay lại vào ngày hôm sau để xử lý phần thẻ cần phải ôn tập.
+Học Kanji đơn lẻ có thể giúp bạn có khả năng viết tay và khiến việc học từ vựng trở nên dễ dàng hơn. 
 
-## Ngữ pháp
+Hãy nhớ rằng việc nhận dạng được mặt chữ và có thể tự viết ra là hai kĩ năng khác nhau. Thực hành việc này sẽ giúp cho việc kia dễ dàng hơn, ta cần luyện tập "nhận dạng" Kanji để có thể tăng khả năng nhận dạng Kanji và điều này cũng tương tự với việc tập tự viết.
 
-Học ngữ pháp vừa đơn giản lại vừa phức tạp. Ban đầu sẽ khá khó học nhưng quá trình học sẽ dần trở nên dễ dàng hơn nếu vẫn học đều đặn. Có rất nhiều tài liệu ngữ pháp, tốt cũng có mà không tốt cũng có. Việc chỉ có một nguồn học ngữ pháp là không đủ cho tất cả mọi người.
+### Học Kanji thông qua từ vựng
 
-Dưới đây là một số hướng dẫn được xếp hạng dựa trên mức độ gợi ý cho tất cả những người mới bắt đầu. Không cần phải học từng hướng dẫn một, chỉ cần chọn một hướng dẫn phù hợp với bạn là được:
- 
-- [**Study English Grammar - Văn Phạm**](https://www.youtube.com/playlist?list=PLLx8_1BoESGF1wy1P8vhAjw6gdupa2TyE) - Giải thích ngữ pháp rõ ràng, không quá khó hiểu và tập trung vào ngữ pháp Tiếng Nhật thay vì cấu trúc ôn thi. Nếu bạn không thích đọc thì có thể xem danh sách bài giảng này.
-- [**Hướng dẫn tự học ngữ pháp Tiếng Nhật**](https://thu-tram.github.io/toi-hoc-ngu-phap-tieng-anh/) - Hướng dẫn do mình tổng hợp và viết lại.
+Nếu bạn chọn không học Kanji đơn lẻ, bạn vẫn sẽ học được cách nhận biết ý nghĩa và cách đọc của Kanji khi học từ mới. Dù sao đi nữa, học từ vựng mới là điều bạn cần phải làm, vì vậy nhiều người bỏ qua việc học kanji đơn lẻ. 
 
-Đây là thời điểm tốt nhất để bắt đầu Immersion khi bạn đã học được một số cấu trúc ngữ pháp mới. Xem cách áp dụng ngữ pháp đã học vào thực tế sẽ giúp hiểu rõ hơn về chúng.
+Cả hai phương pháp đều sẽ giúp bạn học được, miễn là bạn kiên trì. Vì vậy, việc lựa chọn cách học sẽ hoàn toàn do bạn. Nếu bạn không muốn học Kanji, bạn có thể chỉ học thông qua bộ thẻ từ vựng. Tuy nhiên, nếu bạn học từ vựng có Kanji chậm hoặc khó có thể ghi nhớ được từ, hãy cân nhắc việc học Kanji đơn lẻ.
 
-## Immerse cho người mới bắt đầu
+### Cách ghi nhớ Kanji đơn lẻ
 
-Comprehensible Input là Input mà bạn có thể hiểu được, cứ mỗi vài câu lại có một số mảnh ghép bị thiếu. Với kiểu Immersion này, trong tiềm thức bạn sẽ tự điền thêm vào những phần bạn thấy chưa hiểu bằng cách đoán ý dựa trên ngữ cảnh, đó là điều giúp cho Input trở nên hữu ích cho việc học ngôn ngữ.
+Phương pháp ghi nhớ sử dụng những câu chuyện ngắn hoặc sử dụng hình ảnh giúp cho việc học Kanji bớt khó khăn hơn nhiều. Một trong những bộ sách mà mình gợi ý là bộ [Hack não Kanji](https://www.youtube.com/c/Ti%E1%BA%BFngNh%E1%BA%ADt21Ng%C3%A0y) (Họ cũng có một danh sách các video bài giảng miễn phí trên Youtube cho những người không muốn đọc sách).
 
-Có một vấn đề. Bạn sẽ làm gì nếu không có nguồn Comprehensible Input? Là người mới bắt đầu học hoặc mất gốc, không có quá nhiều nội dung dễ hiểu. Trên thực tế, đây là lý do tại sao mọi người thường lạc lối và bắt đầu đọc từ tài liệu này sang tài liệu khác. Mặc dù Incomprehensible Input cũng có những tác dụng nhất định và hỗ trợ cho việc học, nhưng sẽ rất khó để có thể vượt qua rào cản ban đầu ấy.
+Bạn cũng có thể học Kanji một cách riêng biệt mà không cần sử dụng sách hay bất cứ các phương pháp ghi nhớ ở trên bằng cách sử dụng một bộ thẻ Anki. Bạn sẽ cần học bộ thủ trước. Điều duy nhất bạn cần tập trung trong quá trình học Kanji đơn lẻ là học từng chữ Kanji với ý nghĩa và âm Hán Việt của nó.
 
-Việc không hiểu được nội dung mình muốn xem/đọc khá khó chịu, trừ khi bạn có một hướng tư duy cụ thể về nó - cảm thấy vui khi biết rằng mình đang tiến bộ dần dần kể cả khi khó có thể thấy được một cách rõ rệt. 
+Một trong những sai lầm phổ biến mà nhiều người mới học mắc phải là bạn học cách phát âm của Kanji (a.k.a âm kun, âm on). Việc học như vậy là **HOÀN TOÀN SAI** vì sẽ có nhiều cách phát âm khác nhau và trong các từ vựng khác nhau sẽ có cách phát âm khác nhau. Một thống nhất chung là cách đọc Kanji chỉ nên được học thông qua từ vựng. Bạn có thể đọc bài viết [Learning Kanji](http://learnjapanese.moe/kanji/) và xem [You Don’t Have to Study Kanji](https://www.youtube.com/watch?v=exkXaVYvb68) để tìm hiểu thêm.
 
-Để duy trì tư duy này mọi lúc không hề dễ dàng, không nên dựa vào nó để làm động lực thúc đẩy cho sự kiên trì trong học tập - chìa khóa số một để thành thạo bất kỳ kỹ năng nào.
 
-Vậy làm cách nào để không phải cảm thấy áp lực khi phải tiêu thụ các nội dung khó hiểu? Chọn những gì bạn thích. 
+### Cách học bộ thủ
 
-Bằng cách chọn những gì bạn muốn xem/đọc, bạn có thể duy trì liên kết của bản thân với ngôn ngữ và có động lực để tiếp tục immerse. Và dần dần, khi trải nghiệm ngôn ngữ của bạn phát triển, chúng ta sẽ thấy mình hiểu nhiều hơn và mục tiêu từng tưởng chừng như không thể đó là tìm Comprehensible Input giờ đây đã trở thành một điều hiển nhiên, với mục tiêu mới là tiếp tục tìm những nội dung khó hơn để thúc đẩy bản thân tiếp tục học. 
+Bạn sẽ có hai bước sau:
 
-## Cách Immersion
+1. Học bộ thủ thông qua video [185 BỘ THỦ CƠ BẢN trong tiếng Nhật](https://www.youtube.com/watch?v=7M1A2IGUwuM) để hiểu trước đã.
+2. Sử dụng một bộ thẻ Anki để ghi nhớ. Cá nhân mình sử dụng [Bộ Thủ Chữ Hán (Tiếng Nhật)](https://ankiweb.net/shared/info/1364084349)
 
-### Đọc & Từ điển
 
-Để giúp cho việc đọc Tiếng Nhật trở lên dễ dàng hơn thì bạn có thể cài đặt Yomitan trên trình duyệt. Đọc hướng dẫn cài đặt thông qua [đường dẫn này](setup.md) 
+## Vậy thì mình cần làm gì để học Tiếng Nhật?
 
-### Lựa chọn nội dung Immersion
+Trong hướng dẫn dưới dây mình sẽ cần immerse Tiếng Nhật. **Immerse** (động từ) hay **Immersion** (danh từ) là việc thu thập thật nhiều đầu vào (Input), nói cách khác là phải nghe và đọc thật nhiều nội dung như tin tức, phim, video, sách, truyện tranh... bằng ngôn ngữ bạn đang học (Trong ngữ cảnh này thì là Tiếng Nhật). 
 
-Chọn bất cứ nội dung gì bạn muốn. Nó có thể là phim, drama, tiểu thuyết, game hoặc YouTube.
+Quá trình học dưới đây về cơ bản sẽ là học kiến thức Tiếng Nhật là dành thời gian để tiêu thụ nội dung Tiếng Nhật càng nhiều càng tốt, và ta cũng sẽ học Tiếng Nhật từ chính nội dung ta tiêu thụ (xem, nghe, đọc) - một vòng lặp học tập. Càng tiếp tục thực hiện vòng lặp này thì kĩ năng Tiếng Nhật của bạn sẽ càng giỏi.
 
-Nếu bạn không nghĩ được gì để xem thì bạn có thể xem [English Media Recommendation](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-anh/). Chỉ cần bạn thích bất cứ thứ gì bạn chọn để immerse là được.
+1. **Học và luyện tập Kana** thông qua [DJT Kana](https://djtguide.neocities.org/kana/index.html). Bạn cần phải nắm chắc Hiragana trước khi sang bước tiếp theo, Katakana cũng quan trọng nhưng bạn chưa cần phải học kĩ ngay bây giờ để có thể bắt đầu sang bước sau. 
+2. **Thiết lập Anki và sử dụng bộ thẻ từ vựng cơ bản**. Một trong những bộ thẻ từ vựng cá nhân mình gợi ý là bộ [Kaishi1.5k](https://ankiweb.net/shared/info/1196762551) (Bạn cũng có thể sử dụng bộ [Kaishi1.5k Tiếng Việt](https://github.com/duy103zxc/kaishi-vi/releases)).
+3. **Nếu bạn muốn học Kanji hoặc bộ thủ đơn lẻ**, quay lại lên trên bài viết và đọc phần học Kanji. Bạn có thể học trước khi bắt đầu học từ vựng hoặc học cả hai cùng lúc đều được. Nhưng bạn nên cố hoàn thành sau một vài tháng để có thể tập trung vào việc học từ vựng.  
+4. Vì bạn sẽ học từ vựng, ngữ pháp với immerse trong quá trình học, bạn nên học cách đi từng bước, giữ nhịp học ổn định (xây dựng thói quen học). Tuy nhiên, điều này không có nghĩa là bạn không nên thúc đẩy bản thân. Bạn có thể thay đổi số lượng thẻ mới mỗi ngày trong Anki. Khi mới bắt đầu học, hãy để mặc định là 20 và xem bạn có theo được không. Bạn có thể tăng số lượng thẻ nếu bạn thấy mình có thể học thêm và giảm số lượng thẻ xuống nếu bạn cảm thấy quá tải. Khi bắt đầu đi vào vòng lặp ổn định, tổng số thẻ cần ôn tập của bạn sẽ gấp khoảng 10 lần số lượng thẻ mới mỗi ngày (Nếu bạn học 20 thẻ mới mỗi ngày thì bạn cần ôn khoảng 200 thẻ mỗi ngày).
+5. Để học ngữ pháp, bạn có thể bắt đầu bằng [Hướng dẫn ngữ pháp của Tae Kim](http://www.guidetojapanese.org/learn/grammar) hoặc [Tiếng Nhật hữu cơ](https://thu-tram.github.io/tieng-nhat-huu-co) hay bất kì hướng dẫn nào bạn muốn học.
+6. Khi bạn đã đọc xong hướng dẫn ngữ pháp cơ bản mà bạn đã chọn, bạn đã sẵn sàng để bắt đầu đọc Tiếng Nhật. Việc đọc sẽ trở nên dễ dàng hơn nếu bạn đã học được khoảng 1000–2000 từ vựng (Có thể thông qua bộ thẻ **Kaishi1.5k** ở trên) vào thời điểm này (dù sao bạn cũng sẽ phải tra rất nhiều từ, nhưng có vốn từ vựng cơ bản sẽ giúp bạn đỡ mệt hơn).  
+7. Bắt đầu xây dựng bộ thẻ mining sau khi hoàn thiện phần từ mới ở bộ thẻ **Kaishi1.5k** (hoặc bộ thẻ từ vựng cơ bản mà bạn chọn). Bộ thẻ mining là bộ thẻ từ vựng mà bạn thêm những từ bạn không biết mà bạn bắt gặp khi đọc. Bạn nên sử dụng Yomitan để giúp cho việc thêm thẻ từ vựng dễ dàng hơn. 
+8. **Thực hiện Immersion**: Trong quá trình khi mới bắt đầu đọc, mình gợi ý bạn dành thời gian cho việc nghe nhiều nhất có thể (Việc nghe sẽ giúp bạn phát triển kĩ năng ngôn ngữ tự nhiên và cải thiện khả năng nói và phát âm Tiếng Nhật của bạn). Khi mới bắt đầu thì mình gợi ý để tỉ lệ **nghe:đọc** là **7:3**, về sau bạn có thể nâng lên là **5:5**.
+9. **Đọc nhiều hơn**: Ban đầu việc đọc sẽ rất chậm do ta chưa quen với Tiếng Nhật viết. Nhưng cách để đọc nhanh hơn là **đọc nhiều hơn** và cách để tăng khối lượng từ vựng cũng là **đọc nhiều hơn**
+10. Tiếp tục immerse (nghe và đọc) thật nhiều đồng thời output (nói, viết) thường xuyên. 
+11. Làm bất kì điều gì bạn muốn với ngôn ngữ. Ví dụ như thi JLPT chẳng hạn
 
-### Cách để thực hiện Listening Immersion 
+Hướng dẫn ở trên khá tóm lược, mình khuyến khích bạn nên đọc thêm về hướng dẫn học Tiếng Nhật:
 
-Chúng ta không muốn suy nghĩ quá nhiều về mọi thứ khi đang nghe. Thả mình theo dòng chảy (flow) cho đến khi bạn nghe thấy thứ mà bạn muốn tra.
+- [TheMoeWay](http://learnjapanese.moe/)
+- [donkuri](https://donkuri.github.io/learn-japanese/guide/)
 
-Có một số cấp độ nhất định khi nghe. Cấp độ một sẽ là nghe free-flow, nghe theo flow mà không tra từ. Cấp độ hai sẽ là tra những phần bạn muốn tra nhưng vẫn để bài listening chạy. Cấp độ ba sẽ dừng ở mỗi từ chưa biết và tra.
+### Tài nguyên
 
-Ở giai đoạn sơ cấp đến trung cấp, kỹ năng nghe hoàn toàn nằm ở cấp độ một và cấp độ hai. Đừng suy nghĩ quá nhiều về điều đó và hãy để ý tất cả những cơ hội nhỏ mà bạn bắt được trong khi nghe.
-
-#### Nghe chủ động và thụ động
-
-Nghe chủ động là khi bạn tập trung hoàn toàn vào việc nghe của mình. Bạn đang thực hiện Immersion tất cả các khía cạnh của nó như là nhìn vào màn hình và xem phim. Đây là kiểu *nghe* có lợi nhất.
-
-Nghe thụ động là khi bạn làm việc khác và *nghe* ở chế độ nền. Điều này giúp ích khi bạn thỉnh thoảng nghe phần nghe của mình trong những khoảnh khắc ngắn ngủi, nó có thể mang lại lợi ích to lớn cho bạn nếu bạn có lối sống bận rộn. Bạn nên thực hành thực hiện Immersion thụ động để lấp đầy những khoảng trống mà bạn không học Tiếng Nhật trong lúc đó.
-
-### Làm thế nào để immerse với việc đọc
-
-Ngược lại với việc nghe, đọc là một cách tiếp cận đòi hỏi phân tích và cần nhiều thời gian. Bạn có thể dành bao nhiêu thời gian tùy thích để đọc câu và tra cứu từ.
-
-### Tỷ lệ lý tưởng giữa nghe và đọc
-
-Ở giai đoạn đầu, bạn nên theo tỷ lệ nghe và đọc là 7:3. Do nghe là hình thức tự nhiên nhất của ngôn ngữ, vì vậy mình tin rằng việc ưu tiên nó là điều cần thiết để khiến bộ não của bạn xử lý Tiếng Nhật một cách tự nhiên hơn. Bạn có thể bắt đầu giảm thời lượng nghe xuống theo tỷ lệ đều 5:5 khi Tiếng Nhật của bạn đã tốt hơn.
-
-## Vòng lặp học tập của người mới học
-
-### Cách làm sai
-> Học bảng chữ cái, sau đó học TẤT CẢ 1700 từ trong bộ thẻ cơ bản, sau đó học TẤT CẢ ngữ pháp trước khi bạn thử Immersion lần đầu tiên..
- 
-Đây là một cách học tệ. **Cần thực hiện mỗi thứ một chút mỗi ngày**.
-
-### Cách làm đúng 
-
-Khi bạn mới bắt đầu học, bạn nên thử xem nội dung gì đó bằng Tiếng Nhật mà không có phụ đề để xây dựng tinh thần immersion. Nó có thể là bất cứ điều gì bạn thích và bạn không cần phải hiểu bất cứ cái gì.
-
-Sau đó bạn nên học từ vựng và ngữ pháp cùng một lúc. Bạn nghĩ thế nào về việc học 10 từ mới và học 2 cấu trúc ngữ pháp mỗi ngày? Và trong cùng ngày đó, hãy thực hiện immersion nhiều hơn.
-
-### "Mình nên immerse bao lâu mỗi ngày?"
-
-Mình khuyên bạn nên dành khoảng 1 giờ đến 2 giờ khi bạn mới bắt đầu immerse. Bạn hoàn toàn có thể dành nhiều thời gian hơn thế và bạn sẽ tiến bộ nhanh hơn khi thực hiện Immersion nhiều hơn mỗi ngày.
-
-## Về nói và viết (Output)
-
-Mọi người thường nghĩ rằng việc tập nói và viết nhiều là cách cải thiện khả năng ngôn ngữ, nhưng trên thực tế không phải vậy, vì "input" mà chúng ta có được từ việc nghe và đọc cách người bản ngữ sử dụng ngôn ngữ mới thực sự giúp mình cải thiện khả năng ngôn ngữ.
-
-Mặc dù output không trực tiếp cải thiện trình độ ngôn ngữ của bạn, nhưng việc output vẫn khá quan trọng, cho dù đó là bằng cách nhắn tin hay tập nói, bởi vì input và output luôn song hành với nhau. Việc thực hiện output một cách hiệu quả buộc bộ não của bạn phải đảm bảo rằng nó hiểu chính xác những từ bạn đang nghe và trong tiềm thức, bạn có thể bắt đầu tìm kiếm cơ hội để có thể sử dụng những gì bạn nghe được trong khối lượng Input đó. Về cơ bản thì nhiệm vụ của bạn là:
-
-### **Nạp input thường xuyên song song với việc output thường xuyên**.
-
-## Phát âm
-
-Nghe nhiều hơn để có một phát âm tự nhiên và giống người nói Tiếng Nhật bản ngữ nhất.
-
-Những người học muốn tiến xa hơn có thể thử học IPA, lý tưởng nhất là càng sớm càng tốt.
-
-## Kết thúc hướng dẫn: giai đoạn sau và hơn thế nữa
-
-Quá trình học Tiếng Nhật chỉ đơn giản là thực hiện Immersion thật nhiều và học từ vựng với ngữ pháp. Bạn thực sự có thể thông thạo Tiếng Nhật bằng phương pháp này.
-
-Bạn cũng sẽ bắt đầu tự làm thẻ từ vựng của mình từ những từ mình tiếp xúc trong quá trình học Tiếng Nhật, được gọi là *mining*. Bạn có thể đọc [Hướng dẫn Mining của mình](https://daihocmo.github.io/ngoai-ngu/mining/) hoặc [Hướng dẫn mining của donkuri](https://donkuri.github.io/learn-japanese/mining/). Mining về cơ bản sẽ trở thành phần trọng tâm của *việc học* Tiếng Nhật.
-
-Cảm ơn bạn rất nhiều vì đã dành thời gian đọc hướng dẫn này. Nếu bạn có bất kỳ câu hỏi nào, bạn có thể hỏi trên kênh Discord của chúng mình.
-
-[Tham gia cộng đồng học trên Discord](join.md) 
-
-Bạn có thể đọc thêm về 4 kĩ năng ngoại ngữ trong trang [Tự luyện ngoại ngữ](https://daihocmo.github.io/ngoai-ngu/nghe/)
+Bạn có thể đọc trang tổng hợp tài nguyên tự học trong trang [Tài nguyên học](resources.md)
 
 ### Nguồn bài viết
 
-Bài viết này được dịch từ bài [Japanese Guide](https://learnjapanese.moe/guide/) và đã hiệu đính lại để phù hợp với những người học Tiếng Nhật
+Hướng dẫn này được dịch từ [hướng dẫn của DJT](https://djtguide.neocities.org/guide) và được chỉnh sửa lại nội dung kha khá.

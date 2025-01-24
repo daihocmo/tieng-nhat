@@ -7,11 +7,10 @@ repo_name: Chỉnh sửa trang
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Hướng dẫn':
-    - 'Lộ trình': 'guide.md'
-    - 'Hướng dẫn đơn ngữ': 'monolingual.md'
+  - 'Hướng dẫn': 'guide.md'
   - 'Setup': 'setup.md'
-  - 'Nội dung Tiếng Nhật': 'noi-dung-tieng-anh.md'
+  - 'Câu hỏi thường gặp': 'faq.md'
+  - 'Nội dung Tiếng Nhật': 'noi-dung-tieng-nhat.md'
   - 'Tài nguyên học': 
     - 'Tổng hợp': 'resources.md'
     - 'Comprehensible Input': 'input.md'
@@ -25,7 +24,7 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
+      primary: black
       accent: grey
       toggle:
         icon: material/brightness-7
@@ -34,7 +33,7 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
+      primary: black
       accent: grey
       toggle:
         icon: material/brightness-4
