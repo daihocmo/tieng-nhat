@@ -1,5 +1,7 @@
 # Một hướng dẫn học Tiếng Nhật
 
+![](img/welcome_nunko.png)
+
 
 ## Trước khi bắt đầu học
 
@@ -19,11 +21,15 @@ Hiragana và katakana, hay kana, là hai hệ thống chữ viết ngữ âm, m�
 
 Hiragana (ひらがな) được sử dụng cho các phần ngữ pháp và từ không có dạng kanji hoặc người viết chọn không sử dụng kanji. Katakana (カタカナ) được sử dụng cho các từ mượn và nhấn mạnh (tương tự như in nghiêng), cùng với các mục đích khác. Bạn có thể đọc thêm [Hiragana và Katakana: Hướng dẫn toàn diện cho người mới học](https://mochidemy.com/blog/hiragana-va-katakana/) được viết bởi Mochidemy.
 
+![Kana](img/hiragana_katakana_LARGE.png)
+
 ### Kanji
 
 Kanji là phần thứ ba của hệ thống chữ viết Tiếng Nhật.
 
 Học sinh cao trung Nhật Bản (tương đương với học sinh THPT bên nước mình) cần phải học ít nhất 2136 Kanji trong chương trình học, nhưng có tới khoảng 3000 Kanji được sử dụng thường xuyên trong cuộc sống.
+
+![Kanji](img/kanji2.jpg)
 
 ## Học Tiếng Nhật
 

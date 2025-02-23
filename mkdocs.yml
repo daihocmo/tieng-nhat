@@ -1,18 +1,28 @@
-site_name: Tự luyện Tiếng Nhật
+site_name: Tiếng Nhật - Khu học mở
 site_description: meow meow meow meow meow meow meow meow
 site_author: duykhanh471  
 site_url: https://daihocmo.github.io
 repo_url: https://github.com/daihocmo/tieng-nhat
-repo_name: Chỉnh sửa trang
+repo_name: Đóng góp chỉnh sửa trang
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Hướng dẫn': 'guide.md'
-  - 'Setup': 'setup.md'
-  - 'Câu hỏi thường gặp': 'faq.md'
-  - 'Nội dung Tiếng Nhật': 'noi-dung-tieng-nhat.md'
+  - 'Hướng dẫn': 
+    - 'Hướng dẫn học': 'guide.md'
+    - 'Thiết lập môi trường học': 'setup.md'
+    - '30 ngày Tiếng Nhật': 'routine.md'
+    - 'Nói Tiếng Nhật': 'speaking.md'
+    - 'Tiếng Nhật trong Anime': 'animejp.md'
+    - 'Học Hán Tự': 'kanji.md'
+    - 'Mẹo và chiến lược cho việc đọc': 'readingtips.md'
+    - 'Hướng dẫn đơn ngữ': 'monolingual.md'
+    - 'Câu hỏi thường gặp': 'faq.md'
+  - 'Visual Novel':
+    - 'Học Tiếng Nhật bằng VN': 'vn.md'
+    - 'Cài đặt Visual Novel': 'vn-setup.md'
   - 'Tài nguyên học': 
     - 'Tổng hợp': 'resources.md'
+    - 'Nội dung Tiếng Nhật': 'noi-dung-tieng-nhat.md'
     - 'Comprehensible Input': 'input.md'
     - 'Tham gia cộng đồng học': 'join.md'
   - 'Recommendations': 'recommendation.md'
@@ -40,13 +50,34 @@ theme:
         name: Switch to light mode
   logo: assets/logo.svg
   features:
-    - navigation.tabs
+    - navigation.instant
+    - navigation.instant.progress
     - navigation.sections
-    - toc.follow
+    - navigation.expand
+    - search.suggest
     - search.highlighting
     - search.share
-    - search.suggest
+  custom_dir: overrides/
   name: material
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - meta
+  - admonition
+  - attr_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
       
 plugins:
   - search

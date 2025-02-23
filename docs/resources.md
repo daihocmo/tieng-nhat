@@ -1,4 +1,5 @@
-Trang của mình chỉ tổng hợp một phần nhỏ các tài nguyên mà mình thấy hay nhưng không tìm thấy ở các trang được gợi ý ở [Các khu tài nguyên gợi ý](#khu-tài-nguyên-gợi-ý)
+# Khu tài nguyên tự học Tiếng Nhật
+Trang của mình chỉ tổng hợp một phần nhỏ các tài nguyên mà mình thấy hay nhưng không tìm thấy ở các trang được gợi ý ở **Các khu tài nguyên gợi ý**
 
 
 ## Khu tài nguyên gợi ý
