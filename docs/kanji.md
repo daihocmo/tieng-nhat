@@ -1,23 +1,21 @@
 # Học Hán Tự
 
-Khi mọi người nói "học Kanji" thì nó nghe khá khó chịu, vì điều này rất vô lý.  
-
-Bạn không thể chỉ **học** một chữ Kanji vì Kanji có rất nhiều các phần cấu thành nên nó và không thể chỉ đơn giản nói là "Mình đã học nó". Nó giống như khi mình nói, "Mình học một cái xe", "Mình học chơi game", hoặc thậm chí "Mình học Tiếng Nhật" chẳng hạn. Ý bạn là gì khi nói "Mình học Kanji?"
+Khi mọi người nói "học Kanji" thì nó nghe khá là *vô lý*. Bạn không thể chỉ **học** một chữ Kanji vì Kanji có rất nhiều các phần cấu thành nên nó và không thể chỉ đơn giản nói là "Mình đã học nó". Nó giống như khi mình nói, "Mình học một cái xe", "Mình học chơi game", hoặc thậm chí "Mình học Tiếng Nhật" chẳng hạn. Ý bạn là gì khi nói "Mình học Kanji?"
 
 Trang này sẽ trình bày mức độ hữu ích của việc học Kanji đơn lẻ, đó là điều mà hầu hết mọi người làm và nghĩ đến khi họ nói "học Kanji". Tất cả chúng ta đều nên biết rằng việc học Kanji về lâu về dài sẽ là Kanji với từ vựng. 
 
 ### Học nghĩa - Tương đối hữu ích
 
-Học nghĩa của "Kanji" thì ổn nếu đó là một từ, ví dụ như [麓](https://jisho.org/search/%20%23kanji%20%E9%BA%93)、[源](https://jisho.org/search/%20%23kanji%20%E6%BA%90)、[力](https://jisho.org/search/%20%23kanji%20%E5%8A%9B) .v.v. Tuy nhiên, đó có thể được coi là học một *từ* chứ không phải là một *Kanji*.
-Hơn nữa, việc học ý nghĩa của Kanji **có thể hữu ích** cho những từ như [連続](https://jisho.org/word/%E9%80%A3%E7%B6%9A), âm Hán Việt là "LIÊN" có nghĩa là "tiếp tục". Ghi nhớ điều này có thể hữu ích khi bạn thường quên nghĩa của một từ nào đó. Tuy nhiên, hiệu quả của việc nhớ nghĩa Kanji vẫn còn gây tranh cãi. Rồi dần dần khi bạn giỏi Tiếng Nhật hơn thì việc ghi nhớ nghĩa của Kanji đó sẽ dần dần không còn giá trị nữa, khi đó thì, kể cả khi bạn chưa bao giờ học nghĩa Kanji, bạn vẫn sẽ biết được [連](https://jisho.org/search/%E9%80%A3%20%23kanji) nghĩa là gì. Nếu bạn học [茶](https://jisho.org/search/%E8%8C%B6%20%23kanji) như một từ vựng, bạn sẽ biết nó nghĩa là *trà*. Vì vậy nếu bạn bắt gặp từ [紅茶](https://jisho.org/word/%E7%B4%85%E8%8C%B6) và [抹茶](https://jisho.org/search/%E6%8A%B9%E8%8C%B6) bạn có thể sẽ đoán được rằng chúng cũng là một loại *trà* nào đó.
+Học nghĩa của "Kanji" thì ổn nếu đó là một từ, ví dụ như [麓](https://mazii.net/vi-VN/search/word/javi/%E9%BA%93)、[源](https://mazii.net/vi-VN/search/word/javi/%E6%BA%90)、[力](https://mazii.net/vi-VN/search/word/javi/%E5%8A%9B) .v.v. Tuy nhiên, đó có thể được coi là học một *từ* chứ không phải là một *Kanji*.
+Hơn nữa, việc học ý nghĩa của Kanji **có thể hữu ích** cho những từ như [連続](https://mazii.net/vi-VN/search/word/javi/%E9%80%A3%E7%B6%9A), âm Hán Việt là "LIÊN" có nghĩa là "tiếp tục". Ghi nhớ điều này có thể hữu ích khi bạn thường quên nghĩa của một từ nào đó. Tuy nhiên, hiệu quả của việc nhớ nghĩa Kanji vẫn còn gây tranh cãi. Rồi dần dần khi bạn giỏi Tiếng Nhật hơn thì việc ghi nhớ nghĩa của Kanji đó sẽ dần dần không còn giá trị nữa, khi đó thì, kể cả khi bạn chưa bao giờ học nghĩa Kanji, bạn vẫn sẽ biết được [連](https://mazii.net/vi-VN/search/word/javi/%E9%80%A3%20%23kanji) nghĩa là gì. Nếu bạn học [茶](https://mazii.net/vi-VN/search/word/javi/%E8%8C%B6%20%23kanji) như một từ vựng, bạn sẽ biết nó nghĩa là *trà*. Vì vậy nếu bạn bắt gặp từ [紅茶](https://mazii.net/vi-VN/search/word/javi/%E7%B4%85%E8%8C%B6) và [抹茶](https://mazii.net/vi-VN/search/word/javi/%E6%8A%B9%E8%8C%B6) bạn có thể sẽ đoán được rằng chúng cũng là một loại *trà* nào đó.
 
-Thêm vào đó, người Nhật sẽ mô tả 連 tương đương với "[連勝](https://jisho.org/word/%E9%80%A3%E5%8B%9D)の連" hoặc "[連射](https://jisho.org/word/%E9%80%A3%E5%B0%84)の連" v.v. chứ không phải là phần nghĩa mà bạn đã học.
+Thêm vào đó, người Nhật sẽ mô tả 連 tương đương với "[連勝](https://mazii.net/vi-VN/search/word/javi/%E9%80%A3%E5%8B%9D)の連" hoặc "[連射](https://mazii.net/vi-VN/search/word/javi/%E9%80%A3%E5%B0%84)の連" v.v. chứ không phải là phần nghĩa mà bạn đã học.
 
 Tóm tắt: Khá hữu ích khi mới bắt đầu học, nhưng không thực sự cần thiết.
 
 ### Bỏ việc chỉ học cách đọc Kanji
 
-Ở đây không phải là về học cách đọc từ vựng, ví dụ như [夢中](https://jisho.org/word/%E5%A4%A2%E4%B8%AD) cùng với một câu ví dụ :slight_smile:  
+Ở đây không phải là về học cách đọc từ vựng, ví dụ như [夢中](https://mazii.net/vi-VN/search/word/javi/%E5%A4%A2%E4%B8%AD) cùng với một câu ví dụ :slight_smile:  
 
 Ý mình là cái này:
 >	Kanji: 涯  
@@ -26,7 +24,7 @@ Tóm tắt: Khá hữu ích khi mới bắt đầu học, nhưng không thực s
 
 <h3> ↑ ĐỪNG HỌC KANJI KIỂU NÀY ↑ </h3>
 
-Học cách đọc Kanji riêng lẻ rất lãng phí thời gian. Cách đọc Kanji không nhất quán. Nhiều chữ Kanji có nhiều onyomi và kunyomi, ví dụ, [家路](https://jisho.org/word/%E5%AE%B6%E8%B7%AF)[いえじ], [通路](https://jisho.org/word/%E9%80%9A%E8%B7%AF)[つうろ], [家賃](https://jisho.org/word/%E5%AE%B6%E8%B3%83)[やちん], [漫画家](https://jisho.org/word/%E6%BC%AB%E7%94%BB%E5%AE%B6)([まんがか], [小学校](https://jisho.org/word/小学校)[しょうがっこう],[袋小路](https://jisho.org/word/袋小路)[ふくろこうじ], [素足](https://jisho.org/word/素足)[すあし],[素人](https://jisho.org/word/素人)[しろうと],[恋人](https://jisho.org/word/恋人)[こいびと],[日本人](https://jisho.org/word/日本人)[にほんじん], [狩人](https://jisho.org/word/狩人)[かりゅうど] and our favourite: [生](https://jisho.org/search/%20%23kanji%20%E7%94%9F), [先生](https://jisho.org/word/先生/)[せんせい], [生涯](https://jisho.org/word/生涯)[しょうがい], [生粋](https://jisho.org/word/生粋)[きっすい], [芝生](https://jisho.org/word/芝生)[しばふ], [生き残る](https://jisho.org/word/生き残る)[いきのこる], [生ビール](https://jisho.org/word/生き残る)[なまびーる], [生真面目](https://jisho.org/word/生真面目)[きまじめ],[生い茂る](https://jisho.org/word/生い茂る)[おいしげる]
+Học cách đọc Kanji riêng lẻ rất lãng phí thời gian. Cách đọc Kanji không nhất quán. Nhiều chữ Kanji có nhiều onyomi và kunyomi, ví dụ, [家路](https://mazii.net/vi-VN/search/word/javi/%E5%AE%B6%E8%B7%AF)[いえじ], [通路](https://mazii.net/vi-VN/search/word/javi/%E9%80%9A%E8%B7%AF)[つうろ], [家賃](https://mazii.net/vi-VN/search/word/javi/%E5%AE%B6%E8%B3%83)[やちん], [漫画家](https://mazii.net/vi-VN/search/word/javi/%E6%BC%AB%E7%94%BB%E5%AE%B6), [まんがか], [小学校](https://mazii.net/vi-VN/search/word/javi/小学校)[しょうがっこう],[袋小路](https://mazii.net/vi-VN/search/word/javi/袋小路)[ふくろこうじ], [素足](https://mazii.net/vi-VN/search/word/javi/素足)[すあし],[素人](https://mazii.net/vi-VN/search/word/javi/素人)[しろうと],[恋人](https://mazii.net/vi-VN/search/word/javi/恋人)[こいびと],[日本人](https://mazii.net/vi-VN/search/word/javi/日本人)[にほんじん], [狩人](https://mazii.net/vi-VN/search/word/javi/狩人)[かりゅうど] and our favourite: [生](https://mazii.net/vi-VN/search/word/javi/%E7%94%9F), [先生](https://mazii.net/vi-VN/search/word/javi/先生/)[せんせい], [生涯](https://mazii.net/vi-VN/search/word/javi/生涯)[しょうがい], [生粋](https://mazii.net/vi-VN/search/word/javi/生粋)[きっすい], [芝生](https://mazii.net/vi-VN/search/word/javi/芝生)[しばふ], [生き残る](https://mazii.net/vi-VN/search/word/javi/生き残る)[いきのこる], [生ビール](https://mazii.net/vi-VN/search/word/javi/生き残る)[なまびーる], [生真面目](https://mazii.net/vi-VN/search/word/javi/生真面目)[きまじめ],[生い茂る](https://mazii.net/vi-VN/search/word/javi/生い茂る)[おいしげる]
 
 Hơn nữa, việc nhớ Kanji theo cách này cũng rất khó:
 
@@ -34,7 +32,7 @@ Hơn nữa, việc nhớ Kanji theo cách này cũng rất khó:
 `Kun: はて`
 `On: ガイ`
 
-Việc ghi nhớ nó bằng một từ sẽ dễ dàng hơn nhiều, chẳng hạn như [生涯](https://jisho.org/word/生涯) trong Anki hay gì đó. Nếu bạn đã học [涙腺](https://jisho.org/word/涙腺)「るいせん」 và tình cờ thấy [熱涙](https://jisho.org/word/熱涙), bạn hoàn toàn sẽ có thể đọc được [涙](https://jisho.org/search/%E6%B6%99%20%23kanji) là るい đúng không?
+Việc ghi nhớ nó bằng một từ sẽ dễ dàng hơn nhiều, chẳng hạn như [生涯](https://mazii.net/vi-VN/search/word/javi/生涯) trong Anki hay gì đó. Nếu bạn đã học [涙腺](https://mazii.net/vi-VN/search/word/javi/涙腺)「るいせん」 và tình cờ thấy [熱涙](https://mazii.net/vi-VN/search/word/javi/熱涙), bạn hoàn toàn sẽ có thể đọc được [涙](https://mazii.net/vi-VN/search/word/javi/%E6%B6%99%20%23kanji) là るい đúng không?
 
 Ngoài ra, cách đọc sẽ dễ nhớ hơn trong ngữ cảnh của các từ thực tế mà bạn thực sự có thể sử dụng. Về cơ bản, việc ghi nhớ cách đọc riêng lẻ là hoàn toàn lãng phí thời gian. 
 

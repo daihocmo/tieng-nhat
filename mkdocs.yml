@@ -9,23 +9,22 @@ nav:
   - 'Trang chủ': 'index.md'
   - 'Hướng dẫn': 
     - 'Hướng dẫn học': 'guide.md'
-    - 'Thiết lập môi trường học': 'setup.md'
     - '30 ngày Tiếng Nhật': 'routine.md'
+    - 'JLPT N5-N1': 'jlpt.md'
     - 'Nói Tiếng Nhật': 'speaking.md'
     - 'Tiếng Nhật trong Anime': 'animejp.md'
     - 'Học Hán Tự': 'kanji.md'
-    - 'Mẹo và chiến lược cho việc đọc': 'readingtips.md'
     - 'Hướng dẫn đơn ngữ': 'monolingual.md'
     - 'Câu hỏi thường gặp': 'faq.md'
-  - 'Visual Novel':
-    - 'Học Tiếng Nhật bằng VN': 'vn.md'
+    - 'Visual Novel': 'vn.md'
+  - 'Setup':
+    - 'Thiết lập môi trường học': 'setup.md'
     - 'Cài đặt Visual Novel': 'vn-setup.md'
   - 'Tài nguyên học': 
     - 'Tổng hợp': 'resources.md'
+  - 'Đề xuất & Gợi ý': 
     - 'Nội dung Tiếng Nhật': 'noi-dung-tieng-nhat.md'
-    - 'Comprehensible Input': 'input.md'
-    - 'Tham gia cộng đồng học': 'join.md'
-  - 'Recommendations': 'recommendation.md'
+    - 'Đầu vào dễ hiểu': 'input.md'
 
 
       
@@ -49,6 +48,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   logo: assets/logo.svg
+  favicon: assets/logo.png
   features:
     - navigation.instant
     - navigation.instant.progress

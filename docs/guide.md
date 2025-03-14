@@ -2,7 +2,6 @@
 
 ![](img/welcome_nunko.png)
 
-
 ## Trước khi bắt đầu học
 
 > Bạn hãy đọc bài [Trước khi bắt đầu học](https://daihocmo.github.io/ngoai-ngu/truoc-khi-bat-dau/) từ trang [Tự luyện ngoại ngữ](https://daihocmo.github.io/ngoai-ngu) để có cái nhìn tổng quan về phương pháp học ngoại ngữ. Bạn hoàn toàn có thể bỏ qua và đọc luôn phần hướng dẫn này. Bạn cũng có thể đọc [bản dịch Tiếng Việt của TheMoeWay](https://thu-tram.github.io/tmw-vi/).
