@@ -1,5 +1,5 @@
 site_name: Tiếng Nhật - Khu học mở
-site_description: meow meow meow meow meow meow meow meow
+site_description: Một hướng dẫn tự học Tiếng Nhật thông qua Comprehensible Input và Immersion, hoàn toàn miễn phí.
 site_author: duykhanh471  
 site_url: https://daihocmo.github.io
 repo_url: https://github.com/daihocmo/tieng-nhat
@@ -8,24 +8,21 @@ repo_name: Đóng góp chỉnh sửa trang
 nav:
   - 'Trang chủ': 'index.md'
   - 'Hướng dẫn': 
-    - 'Hướng dẫn học': 'guide.md'
+    - 'Hướng dẫn chính': 'guide.md'
     - '30 ngày Tiếng Nhật': 'routine.md'
-    - 'JLPT N5-N1': 'jlpt.md'
-    - 'Nói Tiếng Nhật': 'speaking.md'
-    - 'Tiếng Nhật trong Anime': 'animejp.md'
-    - 'Học Hán Tự': 'kanji.md'
+    - 'Học Hán tự': 'kanji.md'
     - 'Hướng dẫn đơn ngữ': 'monolingual.md'
-    - 'Câu hỏi thường gặp': 'faq.md'
-    - 'Visual Novel': 'vn.md'
-  - 'Setup':
+    - 'Tự học JLPT N5-N1': 'jlpt.md'
     - 'Thiết lập môi trường học': 'setup.md'
-    - 'Cài đặt Visual Novel': 'vn-setup.md'
+    - 'Câu hỏi thường gặp': 'faq.md'
+  - 'Học Tiếng Nhật thông qua':
+    - 'Anime': 'animejp.md'
+    - 'Light Novel': 'novel.md'
+    - 'Visual Novel': 'vn.md'
+    - 'Manga': 'manga.md'
+    - 'Comprehensible Input': 'input.md'
   - 'Tài nguyên học': 
     - 'Tổng hợp': 'resources.md'
-  - 'Đề xuất & Gợi ý': 
-    - 'Nội dung Tiếng Nhật': 'noi-dung-tieng-nhat.md'
-    - 'Đầu vào dễ hiểu': 'input.md'
-
 
       
 theme:

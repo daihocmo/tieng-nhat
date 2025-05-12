@@ -1,9 +1,8 @@
-## Comprehensible Input
+# Comprehensible Input
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NiTsduRreug?si=mTudFcBjDjIXuSax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Để tìm hiểu về phương pháp, bạn hãy xem video từ chính tác giả của giả thuyết này - Stephen Krashen: [Input Hypothesis](https://youtu.be/4Ir4206DfvQ). Đây là một video khác đã có phụ đề Tiếng Việt. 
-
-Nếu bạn muốn xem video khởi đầu cho giả thuyết này, [đây chính là đường dẫn](https://www.youtube.com/watch?v=NiTsduRreug) (Lưu ý: Không có phụ đề Tiếng Việt nhưng có phụ đề Tiếng Nhật).
-
 
 Để khởi đầu cho Tiếng Nhật, có thể bạn sẽ muốn thử [Danh sách phát gần 2000 video Comprehensible Input Tiếng Nhật](https://youtube.com/playlist?list=PLiPR3922q7iAsSm2EsQVMou0kCVavNR2c)
 

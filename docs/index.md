@@ -6,13 +6,24 @@ Chào mừng đã đến với trang học Tiếng Nhật này. Đây là trang 
 
 ### Trước khi bắt đầu học
 
-Bạn sẽ học Tiếng Nhật thông qua Comprehensible Input và Immersion. Toàn bộ các nội dung liên quan đến phương pháp và hướng dẫn học bạn có thể đọc trên trang [Tự luyện ngoại ngữ](https://daihocmo.github.io/ngoai-ngu/).
+Bạn sẽ học Tiếng Nhật thông qua Comprehensible Input và Immersion. Bạn nên đọc trang [Tự luyện ngoại ngữ](https://daihocmo.github.io/ngoai-ngu/) (có thể đọc trước hay sau khi đọc xong hướng dẫn này đều được, và nên đọc!).
 
-Trang hướng dẫn Tiếng Nhật này sẽ tập trung nhiều hơn vào các nội dung khác như **Hướng dẫn tự học Tiếng Nhật**, **Tổng hợp tài nguyên tự học Tiếng Nhật** và các bài viết tương tự. Đồng thời, giải đáp những thắc mắc mọi người thường gặp khi học Tiếng Nhật.
+Nếu bạn đọc trang [Tự luyện ngoại ngữ](https://daihocmo.github.io/ngoai-ngu/) trước và đã nắm được tương đối phương pháp tự học, bạn bây giờ có thể đọc bất kì trang nào bạn muốn đọc trong trang hướng dẫn tự học Tiếng Nhật này. Cá nhân mình gợi ý đọc theo thứ tự sau:
 
-### Hướng dẫn bắt đầu
+Bước 1: Đọc [Hướng dẫn tự học](guide.md) để tìm hiểu về việc học Tiếng Nhật thông qua việc áp dụng phương pháp bạn đã đọc ở trang [Tự luyện ngoại ngữ](https://daihocmo.github.io/ngoai-ngu/).
 
-Sau khi bạn đọc qua trang [Tự luyện ngoại ngữ](https://daihocmo.github.io/ngoai-ngu/) và nắm được tương đối phương pháp tự học, bạn bây giờ có thể đọc bất kì trang nào bạn muốn đọc trong trang Tiếng Nhật này vì mình không viết theo một thứ tự nào cả. Cá nhân mình gợi ý đọc [Hướng dẫn tự học](guide.md) và [Tiếng Nhật 30 ngày](routine.md) của TMW trước rồi sau đó chuyển qua trang [Tài nguyên tự học](resources.md) và bắt đầu tự học theo nhu cầu của bạn.
+Bước 2: Đọc [Tiếng Nhật 30 ngày](routine.md) để bắt đầu tự học Tiếng Nhật cơ bản trong 30 ngày đầu tiên.
+
+Bước 3: [Thiết lập môi trường học](setup.md) và thói quen học tập hàng ngày (30 ngày trong chương trình ở Bước 2, và quá trình tự học về sau)
+
+Sau khi hoàn thành xong thì bạn có thể đọc thêm:
+
+- [Học Hán tự](kanji.md) - Hướng dẫn cách học Hán tự đúng cách.
+- [Tài nguyên tự học](resources.md) - Trang để bạn sử dụng trong toàn bộ quá trình học.
+- [Tự học JLPT từ N5 -> N1](jlpt.md) - Hướng dẫn tự học JLPT + các tài nguyên ôn thi miễn phí trên Internet.
+
+Và các bài viết khác.
+
 
 ### Lời cảm ơn
 
