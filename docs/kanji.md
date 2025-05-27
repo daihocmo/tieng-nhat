@@ -1,20 +1,25 @@
 # Học Hán tự (Kanji)
 
 !!! info "Nguồn"
-    Bài viết là bản dịch Tiếng Việt cho bài [Learning Kanji](http://learnjapanese.moe/kanji/) được viết bởi shoui.
+    Bài viết là bản dịch Tiếng Việt cho bài [Learning Kanji](http://learnjapanese.moe/kanji/) được viết bởi shoui. Đã được viết lại đôi chút cho người học Việt.
 
-Khi mọi người nói "học Kanji" thì nó nghe khá là *vô lý*. Bạn không thể chỉ **học** một chữ Kanji vì Kanji có rất nhiều các phần cấu thành nên nó và không thể chỉ đơn giản nói là "Mình đã học nó". Nó giống như khi mình nói, "Mình học một cái xe", "Mình học chơi game", hoặc thậm chí "Mình học Tiếng Nhật" chẳng hạn. Ý bạn là gì khi nói "Mình học Kanji?"
+Khi mọi người nói "học Kanji" thì nó nghe khá là *vô lý*. Bạn không thể chỉ **học** một chữ Kanji vì Kanji có rất nhiều các phần cấu thành nên nó và không thể chỉ đơn giản nói là "Mình đã học chữ Kanji [gì đó]". Nó kiểu như: "Mình học một cái xe", "Mình học chơi game", hoặc thậm chí "Mình học Tiếng Nhật" chẳng hạn. Ý bạn là gì khi nói "Mình học Kanji?"
 
 Trang này sẽ trình bày mức độ hữu ích của việc học Kanji đơn lẻ, đó là điều mà hầu hết mọi người làm và nghĩ đến khi họ nói "học Kanji". Tất cả chúng ta đều nên biết rằng việc học Kanji về lâu về dài sẽ là Kanji với từ vựng. 
 
-### Học nghĩa - Tương đối hữu ích
+### Học âm Hán Việt tương ứng & nghĩa - Tương đối hữu ích
 
-Học nghĩa của "Kanji" thì ổn nếu đó là một từ, ví dụ như [麓](https://mazii.net/vi-VN/search/word/javi/%E9%BA%93)、[源](https://mazii.net/vi-VN/search/word/javi/%E6%BA%90)、[力](https://mazii.net/vi-VN/search/word/javi/%E5%8A%9B) .v.v. Tuy nhiên, đó có thể được coi là học một *từ* chứ không phải là một *Kanji*.
-Hơn nữa, việc học ý nghĩa của Kanji **có thể hữu ích** cho những từ như [連続](https://mazii.net/vi-VN/search/word/javi/%E9%80%A3%E7%B6%9A), âm Hán Việt là "LIÊN" có nghĩa là "tiếp tục". Ghi nhớ điều này có thể hữu ích khi bạn thường quên nghĩa của một từ nào đó. Tuy nhiên, hiệu quả của việc nhớ nghĩa Kanji vẫn còn gây tranh cãi. Rồi dần dần khi bạn giỏi Tiếng Nhật hơn thì việc ghi nhớ nghĩa của Kanji đó sẽ dần dần không còn giá trị nữa, khi đó thì, kể cả khi bạn chưa bao giờ học nghĩa Kanji, bạn vẫn sẽ biết được [連](https://mazii.net/vi-VN/search/word/javi/%E9%80%A3%20%23kanji) nghĩa là gì. Nếu bạn học [茶](https://mazii.net/vi-VN/search/word/javi/%E8%8C%B6%20%23kanji) như một từ vựng, bạn sẽ biết nó nghĩa là *trà*. Vì vậy nếu bạn bắt gặp từ [紅茶](https://mazii.net/vi-VN/search/word/javi/%E7%B4%85%E8%8C%B6) và [抹茶](https://mazii.net/vi-VN/search/word/javi/%E6%8A%B9%E8%8C%B6) bạn có thể sẽ đoán được rằng chúng cũng là một loại *trà* nào đó.
+Trong phần này mình sẽ nói về cả hai phần, âm Hán Việt tương ứng (kiểu như 連 là LIÊN) và ý nghĩa của Kanji đó (âm Hán Việt là "LIÊN" có nghĩa là "tiếp tục").
 
-Thêm vào đó, người Nhật sẽ mô tả 連 tương đương với "[連勝](https://mazii.net/vi-VN/search/word/javi/%E9%80%A3%E5%8B%9D)の連" hoặc "[連射](https://mazii.net/vi-VN/search/word/javi/%E9%80%A3%E5%B0%84)の連" v.v. chứ không phải là phần nghĩa mà bạn đã học.
+Việc học âm Hán Việt hay nghĩa của từ sẽ có ích khi đoán nghĩa của một số từ vựng nhất định nữa. Ví dụ như từ 態度（たいど）có nghĩa là "THÁI(態) ĐỘ(度)", một số từ khác 治安（ちあん）có nghĩa là "TRỊ (治) AN (安)", 制度（せいど）có nghĩa là "CHẾ (制) ĐỘ (度)", 指示（しじ）có nghĩa là "CHỈ (指) THỊ (示)". Tuy nhiên, cũng sẽ có trường hợp mà nghĩa không giống, ví dụ như từ 微妙 (VI DIỆU) nhưng lại có nghĩa là はっきりととらえられないほど細かく，複雑で難しい・こと（さま）。(Ý đại khái là những thứ không thể nói rõ ràng). Nói chung là dùng để đoán nghĩa thôi, chứ vẫn nên dùng từ điển, nhất là từ điển đơn ngữ để đảm bảo nghĩa chuẩn nhaaa :smile:!
 
-Tóm tắt: Khá hữu ích khi mới bắt đầu học, nhưng không thực sự cần thiết.
+Học nghĩa của "Kanji" sẽ có ích khi bản thân chữ Kanji đó là một từ vựng riêng, ví dụ như [麓](https://mazii.net/vi-VN/search/word/javi/%E9%BA%93)、[源](https://mazii.net/vi-VN/search/word/javi/%E6%BA%90)、[力](https://mazii.net/vi-VN/search/word/javi/%E5%8A%9B) .v.v. Tuy nhiên, đó có thể được coi là học một *từ vựng* chứ không phải là một *Kanji*. Hơn nữa, việc học ý nghĩa của Kanji **cũng có ích** cho những từ như [連続](https://mazii.net/vi-VN/search/word/javi/%E9%80%A3%E7%B6%9A), từ nghĩa của Hán Tự 連 (LIÊN, có nghĩa là liên tục) thì bạn có thể đoán được nghĩa của từ.
+
+Tuy vậy, khi bạn giỏi Tiếng Nhật hơn thì việc ghi nhớ âm Hán Việt hay nghĩa của Kanji đó sẽ dần dần không còn nhiều giá trị nữa. Khi đó thì, kể cả khi bạn chưa bao giờ học nghĩa Kanji, bạn vẫn sẽ biết được [連](https://mazii.net/vi-VN/search/word/javi/%E9%80%A3%20%23kanji) nghĩa là gì. Nếu bạn học [茶](https://mazii.net/vi-VN/search/word/javi/%E8%8C%B6%20%23kanji) như một từ vựng, bạn sẽ biết nó nghĩa là *trà*. Vì vậy nếu bạn bắt gặp từ [紅茶](https://mazii.net/vi-VN/search/word/javi/%E7%B4%85%E8%8C%B6) và [抹茶](https://mazii.net/vi-VN/search/word/javi/%E6%8A%B9%E8%8C%B6) bạn có thể sẽ đoán được rằng chúng cũng là một loại *trà* nào đó.
+
+Thêm vào đó, người Nhật sẽ mô tả 連 tương đương với "[連勝](https://mazii.net/vi-VN/search/word/javi/%E9%80%A3%E5%8B%9D)の連" hoặc "[連射](https://mazii.net/vi-VN/search/word/javi/%E9%80%A3%E5%B0%84)の連" v.v. Nó giống như kiểu người Việt khi giải thích từ Hán Việt vậy, kiểu như từ "Ơn huệ" thì từ "Ơn" kiểu như trong từ "Biết ơn" (Không biết ví dụ có ổn không ;-;).
+
+Tóm lại là: Tương đối hữu ích, nhưng không bắt buộc.
 
 ### Bỏ việc chỉ học cách đọc Kanji
 

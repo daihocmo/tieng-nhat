@@ -2,15 +2,7 @@
 !!! info "Nhắc nhỏ"
 	Đây là hướng dẫn dành cho người học trung cấp
 
-Ghi chú từ người dịch: 
-
-- Ở đây khi dùng "quá trình đơn ngữ hóa" để chỉ việc học Tiếng Nhật bằng Tiếng Nhật. Ví dụ như việc sử dụng từ điển Nhật - Nhật thay vì Nhật - Việt (Có thể là Mazii) như bạn dùng thông thường.
-- Từ "mine" ở đây là động từ Tiếng Anh, có nghĩa là "Đào" trong "đào câu" - sentence mining. Mình xin phép giữ nguyên bản gốc.
-
-Hướng dẫn này sẽ giải thích quá trình đơn ngữ hóa và tại sao bạn nên làm vậy, các cách khác nhau để truy cập và làm quen với việc sử dụng từ điển đơn ngữ. 
-
-Hướng dẫn này tương đối **dài**. Nhưng nó vẫn rất đơn giản, chỉ là ban đầu có cảm giác dài thôi.
-
+Hướng dẫn này sẽ giải thích quá trình đơn ngữ hóa và tại sao bạn nên làm vậy, các cách khác nhau để truy cập và làm quen với việc sử dụng từ điển đơn ngữ.
 
 ### Quá trình đơn ngữ hóa là gì
 
@@ -69,13 +61,6 @@ Hai lý do:
 -   Một niềm tin sâu sắc rằng “từ vựng từ điển” (Dictionary vocabulary) tồn tại.
 
 **Thực tế thì:** “Từ vựng từ điển” = những từ bạn không biết vì bạn không đọc đủ nhiều.
-
-### Sử dụng Morphman để hỗ trợ quá trình đơn ngữ hóa
-
-KHÔNG.
-
-Morphman là một add-on trong Anki tự động lựa ra những từ nào cần thêm vào Anki. Và nó là một thất bại thảm hại. Đừng để một chương trình máy tính giúp bạn quyết định nên thêm gì vào Anki. Thêm nữa, hầu hết những gì Morphman thêm cho bạn sẽ trông kiểu như thế này: “フゥ…”, “(♪～)”, “あっ…” vì vậy trừ khi bạn thực sự muốn điều đó, bạn nên tránh sử dụng Morphman.  
-Nếu bạn thực sự cần một hướng dẫn sentence mining thì, chỉ cần mine từng từ một sau khi bạn đã đọc/xem nó. Tức là, khi bạn đang tra cứu, chắc chắn bạn sẽ có thể nhớ được một số thứ nhưng lại quên những thứ khác, vì vậy khi bạn quay lại và đọc/xem lại, bạn sẽ mine được tất cả những từ mà bạn không nhớ được trong lần đầu tiên. Bạn có thể sẽ nghĩ: “Có lẽ mình không cần những từ đó”. Sai. Bạn cần mọi từ xuất hiện trong quá trình Immersion của mình.
 
 ## Yomitan - Một cách tốt hơn để chuyển qua đơn ngữ.
 
@@ -224,7 +209,7 @@ Kotobank: <https://kotobank.jp/> (Dùng デジタル大辞泉 and 精選版 日�
 
 Google: Tìm “[từ cần tìm] 意味” e.g. “侮る 意味” (Dùng 岩波国語辞典)
 
-### Các lựa chọn ngoại tuyến thay thế 
+### Các lựa chọn ngoại tuyến thay thế
 
 Bạn sẽ học Tiếng Nhật trong một thời gian dài nên có thể Internet của bạn sẽ mất vào thời điểm bạn đang thực hiện Immersion trong nihongo! Rơi vào tình thế khó rồi phải không? Không!
 
@@ -260,7 +245,7 @@ Có một số cách để làm quen với từ điển đơn ngữ. Mình sẽ 
 
 Chủ yếu trong cộng đồng AJATT, có lời khuyên như này:
 
-### Hướng tiếp cận “Vứt bỏ từ điển song ngữ mãi mãi và bắt đầu sử dụng từ điển đơn ngữ luôn” 
+### Hướng tiếp cận “Vứt bỏ từ điển song ngữ mãi mãi và bắt đầu sử dụng từ điển đơn ngữ luôn”
 
 Đây là điều mà Khatzumoto từ AJATT gợi ý.
 

@@ -5,7 +5,7 @@
 ## Trước khi bắt đầu học
 
 !!! info "Gợi ý"
-	Bạn nên đọc bài [Trước khi bắt đầu học](https://daihocmo.github.io/ngoai-ngu/truoc-khi-bat-dau/) từ trang [Tự luyện ngoại ngữ](https://daihocmo.github.io/ngoai-ngu) để có cái nhìn tổng quan về phương pháp học ngoại ngữ. Bạn hoàn toàn có thể bỏ qua và đọc luôn phần hướng dẫn này. Bạn cũng có thể đọc [bản dịch Tiếng Việt của TheMoeWay](https://thu-tram.github.io/tmw-vi/).
+	Bạn nên đọc bài [Hướng dẫn tự học ngoại ngữ](https://daihocmo.github.io/ngoai-ngu/guide/) từ trang [Tự luyện ngoại ngữ](https://daihocmo.github.io/ngoai-ngu) để có cái nhìn tổng quan về phương pháp học ngoại ngữ. Bạn hoàn toàn có thể bỏ qua và đọc luôn phần hướng dẫn này. Bạn cũng có thể đọc [bản dịch Tiếng Việt của TheMoeWay](https://thu-tram.github.io/tmw-vi/).
 
 Đi du lịch Nhật để nói chuyện với người Nhật, xem anime không phụ đề, đọc manga và light novel bằng Tiếng Nhật đều yêu cầu bạn phải... _học Tiếng Nhật_. 
 

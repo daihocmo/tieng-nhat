@@ -1,18 +1,14 @@
 # 30 ngày Tiếng Nhật (UsagiSpoon)
 
-Giúp mọi người học Tiếng Nhật từ đầu thông qua Immersion.
-
-Cần thực hiện theo thứ tự. Đa phần các quyết định đã được đưa ra cho bạn.
-
-Trong bảng thói quen học 30 ngày này, mỗi ngày đều có những nhiệm vụ bạn cần phải làm.
+Đây là một bảng thói quen giúp mọi người học Tiếng Nhật từ đầu thông qua Immersion. Bạn cần thực hiện theo thứ tự. Đa phần các quyết định đã được đưa ra cho bạn.
 
 Cuối lộ trình 30 ngày này bạn sẽ:
 
-- Hiểu về các mẫu ngữ pháp Tiếng Nhật phổ biến nhất
+- Hiểu về các mẫu ngữ pháp Tiếng Nhật phổ biến nhất.
 - Vốn từ vựng ít nhất 500 từ.
-- Hiểu các câu cơ bản trong Anime slice-of-life.
+- Hiểu các câu cơ bản trong anime đời thường.
 - Có thể đọc Hiragana, Katakana và một số Kanji phổ biến.
-- Nền tảng tốt để tiếp tục tự học Tiếng Nhật.
+- Xây dựng được nền tảng tốt để tiếp tục tự học Tiếng Nhật.
 
 Bạn cần:
 
@@ -45,16 +41,12 @@ Nhấn vào "show/hide options"  rồi nhấn vào "check all" để chọn tấ
 Nếu cần đồng hồ bấm giờ thì: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/)  
 
 ## Ngày 2
+
 ### Giai đoạn: Xây dựng môi trường Tiếng Nhật ngay tại nhà
 
-Thực hành trên trang này [https://gohoneko.neocities.org/learn/Kana.html](https://gohoneko.neocities.org/learn/Kana.html) trong 10 phút.  
-Hẹn giờ tại đây: [https://www.online-stopwatch.com/timer/10 Minutes](https://www.online-stopwatch.com/timer/10minutes/)
+Thực hành Kana trên trang này [https://gohoneko.neocities.org/learn/Kana.html](https://gohoneko.neocities.org/learn/Kana.html) trong 10 phút. Hãy chọn tất cả Kana.
 
-Cần chọn tất cả Kana.
-
-Đưa Tiếng Nhật vào cuộc sống xung quanh là phần quan trọng nhất của phương pháp Immersion.
-
-Tìm nội dung mà mình thích và biến việc tiêu thụ nội dung đó thành thói quen. Có thể bắt đầu với Anime đời thường (slice of life)
+Biến Tiếng Nhật thành một phần trong cuộc sống của bản thân là phần quan trọng nhất của phương pháp Immersion. Tìm nội dung mà mình thích và biến việc tiêu thụ nội dung đó thành thói quen. Có thể bắt đầu với Anime đời thường (slice of life)
  
 Có rất nhiều Anime có Tiếng Nhật đơn giản.
 
@@ -80,18 +72,15 @@ Byousoku 5 Centimeter
 Kiniro Mosaic  
 New Game  
 
-
 Xem [Khu Anime](https://learnjapanese.moe/resources/#anime) để tìm thêm Anime. Nên tải Anime về máy để có thể dễ dàng xem.
 
 **Q: Nếu mình muốn xem thứ gì đó mình thấy hay**
 
 A: Immersion là việc dành thời gian cho nội dung mà bạn thích. Vì vậy, đừng giới hạn bản thân trong những gợi ý trên.
 
-**Nhiệm vụ của bạn:**
+**Nhiệm vụ của bạn:** bạn hãy thử imersion lần đầu tiên với phương pháp subtitle tutor (Thuật ngữ để chỉ việc học thông qua phụ đề ở ngôn ngữ bạn đã biết khi học ngôn ngữ đích, sẽ được giải thích thêm ở bên dưới).
 
-Mình muốn bạn thử Immersion lần đầu tiên với phương pháp subtitle tutor (Thuật ngữ để chỉ việc học thông qua phụ đề ở ngôn ngữ bạn đã biết khi học ngôn ngữ đích).
-
-Phương pháp: xem một tập Anime có phụ đề (Ngôn ngữ bạn biết), sau đó xem lại mà không dùng phụ đề. Sau đó, hãy nghe tập Anime đấy trong lúc làm việc khác (tai nghe không dây sẽ dễ dùng hơn).
+Phương pháp: xem một tập Anime có phụ đề (Tiếng Việt), sau đó xem lại mà không dùng phụ đề. Sau khi hoàn thành, hãy nghe tập Anime đấy trong lúc làm việc khác (tai nghe không dây sẽ dễ dùng hơn).
 
 Quy trình cơ bản:
 
@@ -101,34 +90,22 @@ Quy trình cơ bản:
     - Rồi = Nghe trong khi làm việc khác. 
     - Chưa = Quay lại bước 1.
 
-Về cơ bản, bằng cách xem tập phim có phụ đề trước, bạn đã tăng khả năng hiểu input của mình.
+Về cơ bản, bằng cách xem tập phim có phụ đề trước, bạn đã tăng khả năng hiểu input của mình. Khi xem Anime không phụ đề, đừng quá lo lắng nếu bạn không hiểu mấy hoặc không hiểu gì. Tập trung vào âm điệu, cách nói và bất cứ thứ gì mà bạn có thể hiểu được.
 
-Khi xem Anime không phụ đề, đừng quá lo lắng nếu bạn không hiểu.
-
-Tập trung vào âm điệu, cách nói và bất cứ thứ gì mà bạn có thể hiểu được.
-
-Để có thể hiểu được Tiếng Nhật là một kỹ năng cần rất nhiều thời gian.
-
-Nhưng tất cả đều bắt đầu bằng việc nghe thuần (raw listening) và cố gắng làm cho việc nghe đó trở nên comprehensible (dễ hiểu).
-
-Phương pháp subtitle tutor chỉ để cung cấp ngữ cảnh cho phần mà bạn đang nghe.
-
-Bạn cũng nên nghe lại tập phim trong lúc làm việc khác.
-
-Bằng cách đó, bạn sẽ lấp đầy khoảng lặng (trong lúc làm việc khác) bằng Tiếng Nhật.
+Để có thể hiểu được Tiếng Nhật sẽ cần rất nhiều thời gian. Nhưng tất cả đều bắt đầu bằng việc nghe thuần (raw listening) và cố gắng làm cho việc nghe đó trở nên comprehensible (dễ hiểu). Phương pháp subtitle tutor chỉ để cung cấp ngữ cảnh cho phần mà bạn đang nghe. Bạn cũng nên nghe lại tập phim trong lúc làm việc khác. Bằng cách đó, bạn sẽ lấp đầy khoảng lặng (trong lúc làm việc khác) bằng Tiếng Nhật.
 
 Ghi chú nhỏ: 
 
-- Listening "khi làm việc khác" = **passive Immersion**.  
-- Listening "tập trung hoàn toàn" = **active Immersion**. 
+- Listening "khi làm việc khác" = **passive immersion**.  
+- Listening "tập trung hoàn toàn" = **active immersion**. 
 
 **Q: Tại sao phải Immersion trước khi học ngữ pháp hoặc từ vựng?**
 
 A: Một số bạn có thể thắc mắc tại sao mình lại muốn bạn immerse trong khi không biết ngữ pháp hay bất cứ thứ gì. Và đó là vì nghe là mấu chốt của việc học một ngôn ngữ. Người bản xứ rất giỏi ngôn ngữ của họ nhờ vào môi trường của họ (ngôn ngữ luôn ở đó bất kể nơi họ đi) và bằng cách tái tạo lại môi trường đấy, bạn có thể đạt được kết quả tương tự. Nghe nhiều ngay cả khi bạn không hiểu sẽ giúp bạn học từ mới trong Tiếng Nhật dễ dàng hơn và giúp có một cảm nhận sâu sắc hơn về ngôn ngữ.
 
-**Q: Hoàn thành tập đầu tiên rồi thì nên làm gì giờ?**
+**Q: Hoàn thành tập đầu tiên rồi thì nên làm gì tiếp theo?**
 
-A: Coi như việc Immersion trong ngày đã xong. Nhưng nếu muốn xem thêm (quá được luôn) thì bạn có thể để xúc xắc quyết định số lượng tập thay bạn.
+A: Coi như việc Immersion trong ngày đã xong. Nhưng nếu muốn xem thêm (quá được luôn) thì bạn có thể để xúc xắc quyết định số lượng tập.
 
 [Lắc xúc xắc](https://www.google.com/search?q=roll+a+4+sided+dice)
 
@@ -139,63 +116,48 @@ Việc học ngữ pháp sẽ được bắt đầu từ ngày mai.
 ### Giai đoạn: Bắt đầu học ngữ pháp
 
 Thực hành trên trang này [https://gohoneko.neocities.org/learn/Kana.html](https://gohoneko.neocities.org/learn/Kana.html) trong 10 phút.  
-Hẹn giờ tại đây: [https://www.online-stopwatch.com/timer/10 Minutes](https://www.online-stopwatch.com/timer/10minutes/)
 
 Bây giờ sẽ là lúc bắt đầu học ngữ pháp.
 
-Bạn không cần phải drill, chọn các mẫu ngữ pháp nhất định hay bất cứ cái gì khác. Những thứ sẽ được học dưới đây đều cực kỳ phổ biến và sẽ được cải thiện dần thông qua quá trình học tập hàng ngày.
+Bạn không cần phải cày - chọn các mẫu ngữ pháp nhất định hay bất cứ cái gì khác. Những thứ sẽ được học dưới đây đều cực kỳ phổ biến và sẽ được cải thiện dần thông qua quá trình học tập hàng ngày.
 
-Đây là hướng dẫn ngữ pháp **Cure Dolly's Organic Japanese** (Tiếng Nhật "hữu cơ" của Cure Dolly).
+Đây là hướng dẫn ngữ pháp **Cure Dolly's Organic Japanese** (Tiếng Nhật "hữu cơ" của Cure Dolly):
 
-Danh sách phát trên YouTube: [https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)  
+- Danh sách phát trên YouTube: [https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)  
+- Cho những người thích đọc: [Cure Dolly fan-made textbook](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)!
 
-Cho những người thích đọc: [Cure Dolly fan-made textbook](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)!
+(Hiện tại vẫn chưa có một hướng dẫn Tiếng Việt nào tương ứng với Cure Dolly)
 
-Tất cả những gì bạn cần làm là **xem bài giảng** và **ghi chú lại**
+Nhiệm vụ của bạn là **xem bài giảng** và **ghi chú lại**. **Nên bật phụ đề cho các video của Cure Dolly.**. 
 
-**Nên bật phụ đề cho các video của Cure Dolly.**
-
-***Xem 3 video mỗi ngày***
-
-Dự kiến sẽ xong toàn bộ khóa học của Cure Dolly trong khoảng hơn 30 ngày.
+Nếu bạn ***xem 3 video mỗi ngày***, dự kiến sẽ xong toàn bộ khóa học của Cure Dolly trong khoảng hơn 30 ngày.
 
 ***Ghi chú.***
 
 **Q: Nên ghi gì vào?**
 
-A: Những gì bạn thấy cần
-
-Hãy dựa vào trực giác của bản thân và ghi lại những gì mình thấy cần.
-
-Nếu Cure Dolly nói [X] có nghĩa là [Y] thì có thể bạn sẽ muốn ghi chú lại.
-
-Ghi chú không cần quá chi tiết và chỉ đơn giản là viết cho mình đọc.
+A: Những gì bạn thấy cần. Nếu Cure Dolly nói [X] có nghĩa là [Y] thì có thể bạn sẽ muốn ghi chú lại. Ghi chú không cần quá chi tiết.
 
 **Q: Tại sao phải ghi chú nếu (mình) có thể tự nhớ được**
 
-A: Ghi lại để có thể xem lại khi cần. (Từ khóa: khi **cần**)
+A: Ghi lại để có thể xem lại khi cần. (Từ khóa: khi **cần**). Về cơ bản, bạn đang tạo phiên bản mini từ những video bài giảng trên. Vì vậy, nếu lỡ *quên* gì, chỉ cần xem lại ghi chú.
 
-Về cơ bản, bạn đang tạo phiên bản mini từ những video bài giảng trên. Vì vậy, nếu lỡ *quên* gì, chỉ cần xem lại ghi chú.
+**Q: Không ghi có được không?**
 
-**Q: Không ghi có được không?**  
-A: Được. Điều này phụ thuộc vào bạn
+A: Được.
 
 ### Giai đoạn: Vừa học xong bài ngữ pháp đầu tiên
-Sau khi xem 3 video Cure Dolly đầu tiên, **việc học ngữ pháp ngày hôm nay coi như đã xong.**
-
-Đã đến lúc tiếp tục Immersion.
+Sau khi xem 3 video Cure Dolly đầu tiên, **việc học ngữ pháp ngày hôm nay đã xong.** Đã đến lúc tiếp tục Immersion.
 
 [Đổ xúc xắc 4 mặt](https://www.google.com/search?q=roll+a+4+sided+dice)
 
 **Q: Có cần áp dụng phương pháp subtitle tutor không?**
 
-A: Nó **không bắt buộc** và chỉ đơn thuần là một cách để làm cho việc Immersion trở nên vui hơn lúc đầu.
+A: Nó **không bắt buộc** và chỉ đơn giản là một cách để làm cho việc Immersion trở nên vui hơn lúc đầu.
 
 **Q: Cần làm gì nếu liên tục nghe thấy một từ và muốn biết nghĩa từ đó?**
 
-A: Bạn có thể sử dụng [Jisho.org](https://jisho.org/) để tìm kiếm từ này. 
-
-Có khả năng bạn đã nghe nhầm nên không tìm được từ.
+A: Bạn có thể sử dụng [Mazii](https://mazii.net/) để tìm kiếm từ này. Có khả năng bạn đã nghe nhầm nên không tìm được từ.
 
 ## Ngày 4
 ### Giai đoạn: Học Kanji và từ mới: sử dụng Anki lần đầu.
@@ -209,10 +171,7 @@ Việc hôm nay là:
 - Cài đặt bộ gõ Tiếng Nhật trên máy tính.
 - Thực hiện việc Immersion  hàng ngày.
 
-
 Thực hành Kana trên trang này  [https://gohoneko.neocities.org/learn/Kana.html](https://gohoneko.neocities.org/learn/Kana.html) trong 10 phút.
-
-[Hẹn giờ 10 phút](https://www.online-stopwatch.com/timer/10minutes/)
 
 Sau đó, hãy học các phần ngữ pháp như hàng ngày. **3 video của Cure Dolly** !
 
@@ -220,73 +179,11 @@ Sau khi học xong thì cài đặt Anki.
 
 Đầu tiên hãy xem video này: [https://www.youtube.com/watch?v=UDUITtA1jJI](https://www.youtube.com/watch?v=UDUITtA1jJI)  
 
-Giờ thì tải Anki.
+Giờ thì tải Anki. Bạn có thể tải Anki bằng cách truy cập trang chủ ([tại đây](https://apps.ankiweb.net/)) và bấm vào Download. Nó sẽ tự di chuyển xuống phần "Download". Nhấp vào tùy chọn đầu tiên.
 
-Bạn có thể tải Anki bằng cách truy cập trang chủ ([tại đây](https://apps.ankiweb.net/)) và bấm vào Download. Nó sẽ tự di chuyển xuống phần "Download". Nhấp vào tùy chọn đầu tiên.
+Tải xuống bộ thẻ cần dùng [tại đây](https://github.com/donkuri/Kaishi). Bạn hãy kéo xuống dưới ở mục Translation sẽ có chữ **Vietnamese**, bạn bấm vào đó và chọn tải tệp có đuôi `.apkg` là xong.
 
-Tải xuống bộ thẻ cần dùng [tại đây](https://github.com/donkuri/Kaishi/releases) (tệp `.apkg`)
-
-Khi bạn mở Anki lần đầu tiên, bạn sẽ thấy cửa sổ chọn ngôn ngữ, bạn chọn ngôn ngữ nào cũng được.
-
-Vào **Tools** trên thanh trên cùng và chọn **Preferences (Ctrl+P)**.
-
-Và đổi **Learn ahead limit** thành `900`.
-
-Bây giờ hãy chọn Close.
-
-Trong Anki, có 3 button ở cuối cửa sổ. Chọn **Import File** để thêm bộ thẻ mình đã tải. Sau khi chọn, nó sẽ mở cửa sổ chọn tập tin.
-
-Chọn bộ thẻ mà mình đã tải.
-
-Khi nào xong thì nó hiện cái hộp toàn chữ, bấm Ok là xong
-
-Số màu xanh da trời đó là số lượng thẻ mới bạn sẽ học trong một ngày. 20 thẻ mỗi ngày là mặc định và 20 thẻ có thể là quá nhiều hoặc quá ít. Bạn có thể muốn giảm số lượng thẻ nếu cảm thấy quá khó để hoàn thành 'Reviews' trong Anki.
-
-Nhấp vào biểu tượng bánh răng bên cạnh bộ thẻ *Kaishi 1,5k*.
-
-Bấm vào *Options*.
-
-Thay đổi **Maximum reviews/day** thành `9999`. Đồng nghĩa với không có giới hạn.
-
-Mặc định là 200 và số thẻ phải ôn tập sẽ không nhiều tới mức vậy nếu bạn ôn hàng ngày. Đó là một cách kể giải quyết giới hạn ôn tập của bạn.
-
-Bạn cũng cần thay đổi **Learning steps** thành `1m 5m 10m`.
-
-Thay đổi **Insertion order** , thành **Sequential (oldest cards first)**
-
-Trong phần **Lapses**, thay đổi *Relearning Steps* thành `10m`.
-
-Trong phần **Thứ tự hiển thị** , thay đổi *Display Order* thành **Show before reviews**.
-
-Bây giờ hãy bấm *Save*.
-
-Bạn nên tải thêm tiện ích bổ sung cho Anki tên là *Speed Focus Mode* (Anki addons). 
-
-Nhấp vào *Tools* ở đầu Anki và chọn *Add-ons*.
-
-Nhấp vào **Get Add-ons...**.
-
-Paste mã này vào ô code: `1046608507 `và nhấn **OK**.
-
-Bạn cần khởi động lại Anki. Đóng cửa sổ ứng dụng Anki và mở lại.
-
-Nhấp vào biểu tượng bánh răng bên cạnh bộ thẻ *Kaishi 1,5k*.
-
-Giữ phím ++shift++ và chọn *Options*.
-
-Một menu kiểu khác với một đoạn chữ màu đỏ sẽ hiện lên (Nếu không, hãy giữ ++shift++ khi nhấn vào *Options*).  
-
-Trong tab *General*, có một số cài đặt bạn cần thay đổi.
-
-Đổi *Automatically play alert* thành `15` seconds.  
-
-Đổi *Automatically show answer* thành `30` seconds.  
-
-Đổi *Automatically rate 'again'* thành `180` seconds. 
-
-Bây giờ chúng ta hãy bắt đầu học bộ thẻ.
-
-Khi chọn tên bộ thẻ, bạn sẽ có thể bắt đầu học bằng cách chọn *Học ngay*
+Cài đặt Anki các thứ rồi thêm (Import) bộ thẻ mới tải là xong. Khi chọn tên bộ thẻ, bạn sẽ có thể bắt đầu học bằng cách chọn *Học ngay* (Nếu chọn Tiếng Anh thì là "Study Now")
 
 Điều đầu tiên bạn sẽ thấy là một thẻ giải thích. Hãy xóa cái này.
 
@@ -390,11 +287,7 @@ Con số **màu xanh lá** là phần **ôn tập**. Hãy luôn ôn tập hàng 
 
 Gợi ý: Nếu không ôn tập kịp được, hãy giảm lượng thẻ mới hàng ngày xuống.
 
-Sau khi hoàn thành xong phần Anki trong ngày, hãy học ngữ pháp.
-
-**3 video của Cure Dolly**
-
-Sau đó là Immersion hàng ngày.
+Sau khi hoàn thành xong phần Anki trong ngày, hãy học ngữ pháp - **3 video của Cure Dolly**. Sau đó là Immersion hàng ngày.
 
 **Q: Hôm nay cày bao nhiêu tập???**
 A: [Roll a 4-sided dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
@@ -409,15 +302,9 @@ Một chữ là thầy, nửa chữ cũng là thầy.
 
 ### Giai đoạn: Luyện đọc lần đầu: phụ đề Tiếng Nhật
 
-Hôm nay sẽ bắt đầu luyện đọc!
+Hôm nay sẽ bắt đầu luyện đọc! Sẽ tương đối khó nhưng đừng quá căng thẳng nếu không hiểu! Như đã nói ở trên, một chữ là thầy, nửa chữ cũng là thầy. Dù chỉ là một chút nhưng vẫn sẽ có giá trị.
 
-Tương đối khó nhằn.
-
-Đừng quá căng thẳng nếu không hiểu!
-
-Như đã nói ở trên, một chữ là thầy, nửa chữ cũng là thầy. Dù chỉ là một chút nhưng vẫn sẽ có giá trị
-
-Luyện tập Kana trong 10 phút [trên đây](https://gohoneko.neocities.org/learn/Kana.html). Bấm vào để [Hẹn giờ 10 phút](https://www.online-stopwatch.com/timer/10minutes/)
+Luyện tập Kana trong 10 phút [trên đây](https://gohoneko.neocities.org/learn/Kana.html). 
 
 Sau đó, hoàn thành Anki hàng ngày.
 
@@ -427,11 +314,7 @@ Xong ngữ pháp là bắt đầu luyện đọc.
 
 Nội dung đọc đầu tiên sẽ là Anime có phụ đề Tiếng Nhật.
 
-Đầu tiên, cần có Yomitan, bấm vào [liên kết này](https://daihocmo.github.io/ngoai-ngu/yomitan/) để đọc cách cài đặt.
-
-Sau đó cài đặt asbplayer, có một hướng dẫn cách cài đặt asbplayer khá hay bằng Tiếng Việt mà bạn có thể đọc thông qua [liên kết này]()
-
-Hãy tìm tệp phụ đề cho Anime mà mình muốn xem.
+Đầu tiên, cần cài đặt Yomitan và asbplayer. Hãy tìm tệp phụ đề cho Anime mà mình muốn xem.
 
 Thử Love Live (2013).  
 

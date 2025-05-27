@@ -115,11 +115,9 @@ Một phần được lấy từ [Resources của TheMoeWay](http://learnjapanes
 - [Condense your own audio](https://ercanserteli.com/condenser/)
 
 ### Mining
+
 - [※ AnimeCards](https://animecards.site/)
 - **[Anime cards in under 10 seconds with MPV script](https://youtu.be/M4t7HYS73ZQ)**
-- [stegatxins0's super fast mining guide](https://rentry.co/mining)
-- [Xelieu's lazy Anki guide](https://xelieu.github.io/jp-lazy-guide/)
-- [Aquafina's Advanced Anki Template (Now maintained by Arbyste)](https://arbyste.github.io/jp-mining-note/)
 
 ### Từ điển
 
