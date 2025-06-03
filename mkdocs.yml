@@ -1,5 +1,5 @@
 site_name: Tiếng Nhật - Khu học mở
-site_description: Một hướng dẫn tự học Tiếng Nhật thông qua Comprehensible Input và Immersion, hoàn toàn miễn phí.
+site_description: Một hướng dẫn tự học Tiếng Nhật thông qua Comprehensible Input và Immersion. Là bản dịch Tiếng Việt cho trang TheMoeWay.
 site_author: duykhanh471  
 site_url: https://daihocmo.github.io
 repo_url: https://github.com/daihocmo/tieng-nhat
@@ -8,21 +8,22 @@ repo_name: Đóng góp chỉnh sửa trang
 nav:
   - 'Trang chủ': 'index.md'
   - 'Hướng dẫn': 
-    - 'Hướng dẫn chính': 'guide.md'
+    - 'Hướng dẫn tự học Tiếng Nhật': 'guide.md'
     - '30 ngày Tiếng Nhật': 'routine.md'
+    - 'Nói Tiếng Nhật': 'speaking.md'
     - 'Học Kanji': 'kanji.md'
+    - 'Các mẹo và chiến thuật đọc Tiếng Nhật': 'readingtips.md'
     - 'Hướng dẫn đơn ngữ': 'monolingual.md'
-    - 'Tự học JLPT N5-N1': 'jlpt.md'
-    - 'Thiết lập môi trường học': 'setup.md'
     - 'Câu hỏi thường gặp': 'faq.md'
-  - 'Học Tiếng Nhật thông qua':
-    - 'Anime': 'animejp.md'
-    - 'Light Novel': 'novel.md'
+    - 'Tiếng Nhật trong Anime': 'animejp.md'
     - 'Visual Novel': 'vn.md'
-    - 'Manga': 'manga.md'
-    - 'Comprehensible Input': 'input.md'
   - 'Tài nguyên học': 
     - 'Tổng hợp': 'resources.md'
+  - 'Các bài viết khác':
+    - 'Tự học JLPT N5-N1': 'jlpt.md'
+    - 'Thiết lập môi trường học': 'setup.md'
+    - 'Comprehensible Input': 'input.md'
+    - 'Light Novel': 'novel.md'
 
       
 theme:

@@ -2,10 +2,80 @@
 
 ![](img/welcome_nunko.png)
 
-## Trước khi bắt đầu học
+## 1.1 Nhiều người học ngoại ngữ "thất bại" do đâu?
 
-!!! info "Gợi ý"
-	Bạn nên đọc bài [Hướng dẫn tự học ngoại ngữ](https://daihocmo.github.io/ngoai-ngu/guide/) từ trang [Tự luyện ngoại ngữ](https://daihocmo.github.io/ngoai-ngu) để có cái nhìn tổng quan về phương pháp học ngoại ngữ. Bạn hoàn toàn có thể bỏ qua và đọc luôn phần hướng dẫn này. Bạn cũng có thể đọc [bản dịch Tiếng Việt của TheMoeWay](https://thu-tram.github.io/tmw-vi/).
+Hiện nay có rất nhiều người đã bắt đầu học các ngoại ngữ khác nhau vì những mục tiêu khác nhau. Dù vậy, không ít người sau nhiều năm học vẫn không thể đạt được mục tiêu ấy. Do việc học ngoại ngữ quá khó? Hay do chưa đủ chăm?
+
+Phương pháp học tạo ra sự khác biệt rất lớn trong khả năng và tốc độ tiến bộ ngoại ngữ của bạn. Khó có thể đạt được những mục tiêu như vậy chỉ với các phương pháp học ngoại ngữ "truyền thống". Nhiều người "thất bại" vì thiếu vào một phần quan trọng, **Immersion**, trong quá trình học tập. **Immersion** để chỉ việc nghe hoặc đọc nội dung của người bản ngữ dành cho người bản ngữ. 
+
+## 1.2 Vấn đề của phương pháp học truyền thống
+
+![study_wakaranai_boy](img/study_wakaranai_boy.png){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
+
+Học ngoại ngữ theo phương pháp "truyền thống" thì thường sẽ kiểu như này:
+
+-   Học bảng chữ cái (nếu cần)
+-   Học các câu cơ bản như câu chào hỏi, tự giới thiệu.
+-   Học cấu trúc ngữ pháp và từ vựng cơ bản.
+-   Nghĩ ra câu bằng cách trò chuyện với giáo viên hoặc bạn học hoặc bằng cách viết.
+-   Dịch các câu ví dụ từ Tiếng Việt sang ngôn ngữ đích (TL - Target Language) và ngược lại.
+-   Tra cứu thêm tài liệu về cấu trúc ngữ pháp và từ vựng trong sách giáo khoa hoặc xem video YouTube
+-   Thực hành hội thoại sử dụng kiến thức đã học.
+-   Tích lũy thêm nhiều cấu trúc từ vựng và ngữ pháp và lấy số lượng làm thước đo cho sự tiến bộ của bản thân
+- Giai đoạn cuối: Cố nói và viết để rèn luyện khả năng ngoại ngữ
+
+Bản thân việc học như này hoàn toàn được, nhưng chưa đủ để giúp bạn đạt được trình độ cao. Vấn đề là những người học thuộc nhóm trên không tương tác với ngôn ngữ thực tế.
+
+Lấy bơi lội làm ví dụ: Bạn không thể chỉ mãi ở hồ dành cho trẻ con, đeo phao và hy vọng rằng mình sẽ thành thạo kỹ thuật bơi trong cái hồ đó trước khi bước sang hồ lớn. Làm vậy sẽ không bao giờ khiến bạn trở thành một người biết bơi thực thụ. Cũng giống như bạn không thể trở thành vận động viên bơi lội chỉ bằng cách học lý thuyết và luyện động tác trên cạn, mà không bao giờ nhảy xuống nước thật.
+
+Một ví dụ dễ liên hệ hơn: game đối kháng. Bạn sẽ không thể chơi giỏi chỉ bằng cách luyện với máy hoặc tập trong chế độ huấn luyện cả ngày. Muốn giỏi, bạn phải bước vào trận đấu thực sự – chơi với người thật, chấp nhận rằng mình có thể thua tơi tả. Đó mới là “chơi thật”.
+
+<div style="border: 4px solid #333; padding: 10px; margin: 10px 0; border-radius: 10px; font-size: 30px; font-weight: bold; text-align: center;">
+  Điều quan trọng là: phải học cách bước tiếp
+</div>
+
+Người mới học thường mắc một lỗi là cố gắng học tài liệu cho đến khi hiểu hết mới thôi và không thực hiện Immersion vì chưa cảm thấy thoải mái hay "sẵn sàng". Tuy nhiên, cần ngừng sử dụng tài liệu cho người mới học càng sớm càng tốt vì trên thực tế, bạn sẽ không bao giờ cảm thấy sẵn sàng nếu không bắt đầu tiếp xúc với ngôn ngữ thực tế và làm quen với nó.
+
+Chủ nghĩa cầu toàn có thể là con dao hai lưỡi trong việc học ngôn ngữ. Tốn quá nhiều thời gian và công sức mà không đạt được nhiều kết quả, cố ghi nhớ từng chi tiết nhỏ nhất của những thứ không thực sự quan trọng trong cả quá trình học dài đấy.
+
+Học một ngôn ngữ giống như leo núi vậy. Bạn có thể cố gắng leo mà không dùng đến bất kỳ công cụ hỗ trợ nào – và dù sẽ rất vất vả, nếu kiên trì, bạn vẫn có thể đến đích. Việc học theo cách truyền thống giống như đang bện một sợi dây thừng để việc leo núi dễ hơn. Nhưng bạn không thể chỉ ngồi đó bện dây mãi – đến một lúc nào đó, bạn phải bắt đầu leo.
+
+Dù bạn có làm ra bao nhiêu dây đi nữa, thì việc leo núi vẫn sẽ khó khăn và tốn thời gian. Không có đường tắt – bạn phải thực sự bắt tay vào *làm*.
+
+## 1.3 Độ rộng của ngôn ngữ
+
+Nó vượt xa hoàn toàn những giới hạn của việc học trong lớp hay qua các ứng dụng kiểu “x có nghĩa là y” hay “x dùng để y”. Nếu bạn muốn thật sự giỏi một ngôn ngữ, bạn cần một lượng trải nghiệm khổng lồ – đọc và nghe những gì người bản xứ thật sự nói, thật sự viết.
+
+Và thường thì rất khó để hiểu tại sao họ lại dùng *câu đó* trong *tình huống kia*, hay *từ này* thay vì *từ kia*. Điều đó tạo nên một rào cản lớn cho người học – bởi vì bạn không thể chỉ học mỗi ngữ pháp và từ vựng mà mong nói được như người bản xứ.
+
+Để thành thạo một ngôn ngữ ở cấp độ cao cần một số lượng thời gian lớn để **đọc** và **nghe** nội dung ngôn ngữ mục tiêu và từ đó hình thành lên _trải nghiệm ngôn ngữ_. Nếu không có những trải nghiệm cần thiết, việc cố gắng tự tạo câu ở ngôn ngữ mục tiêu thường khiến cho cách diễn đạt trở lên thiếu tự nhiên hoặc khó hiểu. Thêm nữa, việc không hiểu hoặc chưa hiểu rõ cách người bản ngữ sử dụng ngôn ngữ của họ khiến việc hiểu họ trở nên khó khăn hơn rất nhiều do không quen với cách diễn đạt bên ngoài phạm vi của tài liệu học tập.
+
+Đây là lý do tại sao trong việc học ngoại ngữ cần có **"Immersion" - đọc và nghe những gì người bản ngữ viết và nói.**
+
+Học ngôn ngữ là một quá trình ghi nhớ các thành phần trong vô thức thông qua Comprehensible Input. Điều này có nghĩa là, khi bạn hiểu điều gì đó (comprehensible) trong quá trình Immersion, bộ não của bạn sẽ vô thức lưu mẫu (pattern) đó vào để có thể sử dụng trong tương lai.
+
+Tại sao lại không nói về "biết ngữ pháp" hay "nhớ từ vựng"? Bởi đây không phải là cách xử lý ngôn ngữ tự nhiên.
+
+## 1.4 Chấp nhận cảm giác khó chịu và mù mờ
+
+![moyamoya](img/moyamoya_woman.png){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
+
+Trong việc học ngôn ngữ hay trong bất cứ lĩnh vực nào đòi hỏi kỹ năng, bạn sẽ luôn gặp khó khăn trong một thời gian dài cho đến khi bạn tiến bộ hơn. Như đã nói ở trên, nhiều người học (mình cũng đã từng như vậy) cứ cố gắng học thật tốt một thứ gì đó trước khi sử dụng thực tế.
+
+Một người học có thể gặp vấn đề khi cố học một cấu trúc ngữ pháp nào đó quá lâu và không chuyển sang những nội dung khác mà họ nên học.
+
+<div style="text-align: center; font-weight:bold">
+<h3>↑ Đây là điều chúng ta cần tránh</h3 >  </div>
+
+Cần phải học cách chấp nhận sự mù mờ khi học một ngôn ngữ, biết buông bỏ và bắt tay vào làm những gì chúng ta thực sự cần làm. Điều này hoàn toàn khác so với cách học ở trường lớp, nơi được tuyên dương dựa trên thành tích học và được xếp loại thông qua các tiêu chí hoặc các kỳ thi. 
+
+Những người học ở trên dễ cảm thấy nản vì không hiểu được tất cả hoặc phần nhiều khi tương tác với ngôn ngữ thực tế, cho dù đó là một bộ phim truyền hình, hay một quyển sách hoặc thậm chí chỉ là một cuộc hội thoại bình thường với người bản ngữ. Việc tiếp tục như vậy khi bạn hiểu rất ít nghe có vẻ không hợp lí, nhưng như đã nói ở các phần trước, học một ngôn ngữ cũng giống như nhảy vào hố sâu bất tận vậy. Không dễ dàng gì để có thể hiểu hết quyển tiểu thuyết hay một bộ phim (dài tập) đó ngay lần đầu. Cần tới lần thứ ba, thứ tư, thứ năm và thậm chí thứ sáu để có thể học được điều gì đó.
+
+Điều khiến việc học ngôn ngữ trở nên quá khác biệt so với các môn học ở trường là nó dựa trên việc sử dụng ngôn ngữ một cách tự nhiên và thực tế, thứ mà tài liệu học tập không thể truyền tải được. Vì vậy, cách duy nhất để làm quen với mọi thứ là chấp nhận sự mù mờ (low comprehension), vì càng tương tác với ngôn ngữ nhiều thì sẽ càng tiến bộ hơn.
+
+Chúng ta không *chỉ* thực hiện Immersion mà không làm gì khác. Cũng cần học những thứ như ngữ pháp và từ vựng. Đồng thời, sử dụng từ điển để học từ trong quá trình Immersion.
+
+## N
 
 Đi du lịch Nhật để nói chuyện với người Nhật, xem anime không phụ đề, đọc manga và light novel bằng Tiếng Nhật đều yêu cầu bạn phải... _học Tiếng Nhật_. 
 

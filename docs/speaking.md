@@ -1,10 +1,6 @@
 # Nói Tiếng Nhật
 
-!!! info "Ghi chú phần dịch"
-	"Ceiling": Mức giới hạn hoặc mức trần.
-
-
-*Input là cốt lõi của việc nói ngoại ngữ tốt.* *Output chỉ là phụ.*
+*Input là cốt lõi của việc nói ngoại ngữ tốt. Output chỉ là phụ.*
 
 Khi nói đến việc học ngoại ngữ, chúng ta thường nghĩ: "Để giỏi hơn thì cần nói nhiều hơn”. Trên thực tế, điều này không đúng. 
 
@@ -35,6 +31,7 @@ Hãy vượt qua nó và đi tiếp, nó không phải là một vấn đề qu�
 Sử dụng Tiếng Nhật thường xuyên, bất kể là bạn sử dụng Tiếng Nhật để trò chuyện với ai, là một điều cần thiết để cải thiện sự chủ động trong việc sử dụng vốn từ. Miễn là bạn vẫn thực hành Immersion đều đặn, sẽ không quá vấn đề khi nói chuyện với người khác. 
 
 ### Các liên kết khác
+
 [Hướng dẫn chính](guide.md) 
 
 [Bài viết ở trang Antimoon](http://www.antimoon.com/other/myths-speaking.htm)
