@@ -17,6 +17,8 @@ nav:
     - 'Câu hỏi thường gặp': 'faq.md'
     - 'Tiếng Nhật trong Anime': 'animejp.md'
     - 'Visual Novel': 'vn.md'
+  - 'Yomitan':
+    - 'Hướng dẫn cài đặt Yomitan': 'yomitan.md'
   - 'Tài nguyên học': 
     - 'Tổng hợp': 'resources.md'
   - 'Các bài viết khác':
