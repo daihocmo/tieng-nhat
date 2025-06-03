@@ -311,42 +311,30 @@ Mình đã hình thành các khái niệm trong đầu một cách có ý thức
 
 Đây chỉ là một cách nói hoa mỹ, *“Điều này có nghĩa là [x] và không cần phải đọc từng từ này. mình sẽ ghi nhớ/ghi nhớ trong đầu rằng mình có thể đọc nó dưới dạng một “hình dạng” để hiểu ý nghĩa của nó thay vì đọc từng chữ”*
 
-#### **Q:** Không subvocalization = không hiểu?
+#### **Hỏi:** Không subvocalization = không hiểu?
 
 subvocalization = đọc trong đầu, đọc mà không phát ra thành tiếng
 
-Theo kinh nghiệm của mình, khi những từ/câu bạn chọn không phát âm thành tiếng không quen thuộc với bạn (tức là bạn không thể hiểu chúng chỉ bằng cách nhìn lướt qua.) (Một ví dụ mà những người đọc có kinh nghiệm nên hiểu mà không cần đọc từng từ làなければならない) thì cuối cùng bạn sẽ không hiểu nó thực sự đang nói gì.
+Theo kinh nghiệm của mình, khi những từ/câu bạn chọn không phát âm thành tiếng không quen thuộc với bạn (tức là bạn không thể hiểu chúng chỉ bằng cách nhìn lướt qua. Một ví dụ mà những người đọc có kinh nghiệm nên hiểu mà không cần đọc từng từ là なければならない) thì bạn có thể sẽ không hiểu nó thực sự đang nói gì.
 
-Subvocalizing là một kỹ thuật đọc hữu ích và hầu hết mọi người đều làm điều đó; nếu bạn đọc nhiều, khả năng subvocalization của bạn sẽ nhanh hơn.
+Subvocalizing là một kỹ thuật đọc hữu ích và hầu hết mọi người đều làm vậy; nếu bạn đọc nhiều, khả năng subvocalization của bạn sẽ nhanh hơn.
 
-Vì vậy, đừng ngừng subvocalization vì bạn nghĩ điều đó đang làm bạn chậm lại. Không phải vậy. Điều duy nhất làm bạn chậm lại là: Bạn lo lắng quá nhiều về tốc độ và số lượng ký tự, thực tế là bạn chưa đọc đủ và thực tế là bạn sẽ không thể đọc văn bản nhanh như chớp. bằng ngôn ngữ mà về cơ bản bạn không có nhiều kinh nghiệm so với ngôn ngữ bản xứ.
+Vì vậy, đừng ngừng subvocalization bởi vì bạn nghĩ điều đó đang làm bạn chậm lại. Không phải vậy. Điều duy nhất làm bạn chậm lại là: Bạn lo lắng quá nhiều về tốc độ và số lượng ký tự, thực tế là bạn chưa đọc đủ và bạn sẽ không thể đọc văn bản nhanh như chớp, bằng ngôn ngữ mà bạn đang học chứ không phải là tiếng mẹ đẻ của bạn.
 
-Đọc nhiều hơn là mấu chốt của việc tăng tốc độ đọc, vì vậy đừng quên!
+<h3><strong>Đọc nhiều hơn là mấu chốt của việc tăng tốc độ đọc, vì vậy đừng quên.</strong></h3>
 
-### Mình không thể đọc được. Mình không phải là người đọc nhưng lại là một chú bé đần/người mắc adhd/có khả năng nhớ kém và việc đọc nằm ngoài tầm với của mình.
+### Mình không thể đọc được. Mình không phải là người đọc mà là một chú bé đần/người mắc adhd/có khả năng nhớ kém và việc đọc nằm ngoài tầm với của mình.
 
 <h2><strong>KỆ BẠN.</strong></h2>  
 
-Và mình đã phải đối mặt với tất cả cho đến khi mình nhận ra tất cả những gì bạn cần là một cuốn sách đủ hay.
-
-Và timeboxing (hộp thời gian).
+Và mình đã phải đối mặt với tất cả cho đến khi mình nhận ra tất cả những gì bạn cần là một cuốn sách đủ hay, và timeboxing.
 
 ### NHƯNG mình phải đọc BAO NHIÊU???
 
-Đó là một câu hỏi ngớ ngẩn vì bạn không bao giờ ngừng đọc vì bạn luôn có thể cải thiện.
+Đó là một câu hỏi ngớ ngẩn vì bạn không bao giờ ngừng đọc bởi bạn luôn có thể cải thiện.
 
-Nhưng bạn có thể hỏi bạn cần đọc bao nhiêu để thực sự thành thạo?
-
-Mình không biết con số chính xác, nhưng sau 300 cuốn tiểu thuyết, bạn sẽ trở nên khá giỏi đấy.
-
-Nếu bạn thực hiện mining toàn bộ 30 đến 40 cuốn tiểu thuyết và sử dụng từ điển đơn ngữ, bạn sẽ có vốn từ vựng rất lớn và sẽ hiểu được hơn rất nhiều khi nghe, v.v.
+Nhưng bạn có thể hỏi bạn cần đọc bao nhiêu để thực sự thành thạo? Mình không biết con số chính xác, nhưng sau 300 cuốn tiểu thuyết, bạn sẽ trở nên khá giỏi đấy. Nếu bạn thực hiện mining toàn bộ 30 đến 40 cuốn tiểu thuyết và sử dụng từ điển đơn ngữ, bạn sẽ có vốn từ vựng rất lớn và sẽ hiểu được hơn rất nhiều khi nghe, v.v.
 
 Nhưng biết được từ chỉ là bước khởi đầu để trở thành một người đọc thành thạo.
 
 Dù sao đi nữa, hãy ngừng lo lắng về việc bạn cần đọc bao nhiêu vì sẽ rất lãng phí thì giờ khi cố tính xem bạn cần đọc bao nhiêu cuốn sách, đến lúc con mắt của bạn không còn có thể nhìn vào văn bản được nữa.
-
-## Góc vô liêm sỉ
- 
-Mình làm mọi thứ miễn phí (và có ý định tiếp tục làm mọi thứ miễn phí), và vẫn mong rằng có ai đó sẽ đăng kí Patreon của mình.
-
-[:fontawesome-brands-patreon: パトロンになる](https://www.patreon.com/shoui){: .md-button }

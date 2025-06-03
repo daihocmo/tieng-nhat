@@ -1,8 +1,6 @@
 # Một hướng dẫn học Tiếng Nhật
 
-*Nếu bạn không cần đọc phần mở đầu, hãy đến luôn phần **2.1 Cách để học Tiếng Nhật**.*
-
-![](img/welcome_nunko.png)
+*Nếu bạn không cần đọc phần mở đầu, hãy đến luôn phần **[2.1 Cách để học Tiếng Nhật](#21-cach-hoc-tieng-nhat)**.*
 
 ## 1.1 Nhiều người học ngoại ngữ "thất bại" do đâu?
 

@@ -1,5 +1,7 @@
 # 30 ngày Tiếng Nhật (UsagiSpoon)
 
+![](img/welcome_nunko.png)
+
 Đây là một bảng thói quen giúp mọi người học Tiếng Nhật từ đầu thông qua Immersion. Bạn cần thực hiện theo thứ tự. Đa phần các quyết định đã được đưa ra cho bạn.
 
 Cuối lộ trình 30 ngày này bạn sẽ:
@@ -306,11 +308,7 @@ Hôm nay sẽ bắt đầu luyện đọc! Sẽ tương đối khó nhưng đừ
 
 Luyện tập Kana trong 10 phút [trên đây](https://gohoneko.neocities.org/learn/Kana.html). 
 
-Sau đó, hoàn thành Anki hàng ngày.
-
-Xong Anki học ngữ pháp, 3 video Cure Dolly.
-
-Xong ngữ pháp là bắt đầu luyện đọc.
+Sau đó, hoàn thành Anki hàng ngày. Xong Anki học ngữ pháp, 3 video Cure Dolly. Xong ngữ pháp là bắt đầu luyện đọc.
 
 Nội dung đọc đầu tiên sẽ là Anime có phụ đề Tiếng Nhật.
 
@@ -354,13 +352,11 @@ Tuy nhiên, các câu viết bằng Kana giúp bạn dễ dàng phân biệt đ�
 
 Trang này [https://killergerbah.github.io/asbplayer/](https://killergerbah.github.io/asbplayer/) có thể hiển thị phụ đề trong một danh sách, giúp dễ dàng quay lại câu thoại mà mình đã bỏ lỡ. Nó chỉ hoạt động nếu được mở trước khi thêm phụ đề vào.
 
-**Có thể “đọc” Anime và đó là điều nên làm.**
+**Có thể “đọc” anime và đó là điều nên làm.**
 
 Thói quen cần thực hiện?
 
-**Hãy xem** Anime có phụ đề Tiếng Nhật trước.
-
-Sau đó chỉ tập trung vào **việc đọc** phụ đề.
+**Hãy xem** Anime có phụ đề Tiếng Nhật trước. Sau đó chỉ tập trung vào **việc đọc** phụ đề.
 
 **Q: Nên tra cứu bao nhiêu từ?**
 
@@ -368,13 +364,11 @@ A: Thử sử dụng xúc xắc 20 mặt cho mỗi tập phim.
 
 [Click here for 20-sided dice](https://www.google.com/search?q=roll+a+20+sided+dice)  
 
-Sau khi tra cứu hết số lượt thì hãy *xem* phần còn lại với phụ đề Nhật vậy thôi.
-
-Nếu bắt gặp từ gì muốn tra thì hãy tra từ đó.
+Sau khi tra cứu hết số lượt thì hãy *xem* phần còn lại với phụ đề Nhật vậy thôi. Nếu bắt gặp từ gì muốn tra thì hãy tra từ đó.
 
 **Q: Khi xem với phụ đề Nhật, có nên cố gắng đọc mọi thứ trên màn hình không?**
 
-Trả lời: Không. Chỉ nên tra đúng số từ mà mình đã xúc xắc và sau đó xem phần còn lại của tập phim mà không tra từ hoặc dừng lại để đọc hay làm gì khác, nhưng nên tập trung vào cách phát âm Kana, v.v.
+Trả lời: Không. Chỉ nên tra đúng số từ mà mình đã xúc xắc và sau đó xem phần còn lại của tập phim mà không tra từ hoặc dừng lại để đọc hay làm gì khác, nhưng nên tập trung vào cách phát âm, v.v.
 
 **Q: Nếu cần tra cứu hoặc đọc nội dung nào đó, có cần tạm dừng video không?**
 
@@ -384,13 +378,11 @@ Trả lời: Không. Chỉ nên tra đúng số từ mà mình đã xúc xắc v
 
 A: Để có thể “thực hành đọc”.
 
-Khi xem Anime, là đang nửa đọc nửa nghe.
-
-Khi loại bỏ phần âm thanh và chỉ đọc phụ đề, thì nó tương đương với việc đọc.
+Khi xem Anime, là đang nửa đọc nửa nghe. Khi loại bỏ phần âm thanh và chỉ đọc phụ đề, thì nó tương đương với việc đọc.
 
 **Q: Xúc xắc có quyết định số lượng từ mình tra cứu khi xem Anime hoặc khi đọc phụ?**
 
-A: [Đổ thêm một viên xúc xắc 20 mặt nữa](https://www.google.com/search?q=roll+a+20+sided+dice) khi bạn "đọc Anime".
+A: [Đổ thêm một viên xúc xắc 20 mặt nữa](https://www.google.com/search?q=roll+a+20+sided+dice) khi bạn "đọc anime".
 
 **Q: Nên đọc bao nhiêu tập?**
 
@@ -402,77 +394,41 @@ A: Tóm gọn là: Không. Comprehension là một quá trình cần thời gian
 
 Câu trả lời dài hơn:
 
-Có rất nhiều thứ không thể được hiểu nếu chỉ sử dụng từ điển.
+Có rất nhiều thứ không thể được hiểu nếu chỉ sử dụng từ điển. Có nhiều yếu tố. Có những yếu tố hiển nhiên như từ vựng và ngữ pháp. Nhưng cũng có những thứ ít rõ ràng hơn, chẳng hạn như ngữ cảnh (context) mà đoạn ngôn ngữ đó thường được sử dụng, từ đó thể hiện nghĩa của nó.
 
-Có nhiều yếu tố.
+Học từ vựng và ngữ pháp sẽ tăng khả năng hiểu của bạn. Nhưng việc hiểu cách sử dụng từ vựng và ngữ pháp trong ngữ cảnh sẽ làm tăng thêm nhiều khả hiểu của bạn về một câu. Điều này đặc biệt hiệu quả nếu những câu đó chỉ có một từ ngữ mà bạn không hiểu.
 
-Có những yếu tố hiển nhiên như từ vựng và ngữ pháp.
-
-Nhưng cũng có những thứ ít rõ ràng hơn, chẳng hạn như ngữ cảnh (context) mà đoạn ngôn ngữ đó thường được sử dụng, từ đó thể hiện nghĩa của nó.
-
-Học từ vựng và ngữ pháp sẽ tăng khả năng hiểu của bạn.
-
-Nhưng việc hiểu cách sử dụng từ vựng và ngữ pháp trong ngữ cảnh sẽ làm tăng thêm nhiều khả hiểu của bạn về một câu.
-
-Điều này đặc biệt hiệu quả nếu những câu đó chỉ có một từ ngữ mà bạn không hiểu.
-
-Tuy nhiên, điều này không hiệu quả cho lắm đối với những câu khó.
-
-Có quá nhiều thứ lạ với bạn.
-
-Điều tốt nhất có thể làm với những câu khó là tra từ có trong đó.
-
-Có thể sẽ là chưa đủ để hiểu câu *đó* vào thời điểm *đó* nhưng nó sẽ giúp mình sau này. 
+Tuy nhiên, điều này không hiệu quả cho lắm đối với những câu khó. Có quá nhiều thứ lạ với bạn. Điều tốt nhất có thể làm với những câu khó là tra từ có trong đó. Có thể sẽ là chưa đủ để hiểu câu *đó* vào thời điểm *đó* nhưng nó sẽ giúp mình sau này. 
 
 Càng học và Immersion nhiều hơn (hiểu các thứ trong ngữ cảnh), khả năng hiểu Tiếng Nhật sẽ càng tăng lên.
 
 **Q: Có cần đổi Anime mình đang "đọc" sang Anime mình đã xem lần cuối không?**
 
-Không. Nên đọc cùng một Anime cho đến khi đọc hết.
-
-Nhưng bạn không nhất thiết phải luôn sử dụng cùng một thứ nếu nó không còn khiến bạn thấy thoải mái nữa.
+Không. Nên đọc cùng một Anime cho đến khi đọc hết. Nhưng bạn không nhất thiết phải luôn sử dụng cùng một thứ nếu nó không còn khiến bạn thấy thoải mái nữa.
 
 **Q: Làm thế nào để có thể nhớ được những từ mình đã tra cứu?**
 
-A: Đơn giản là "sự lặp lại". Càng đọc nhiều sẽ càng nhớ được nhiều từ hơn.
-
-Nói cách khác, đừng bận tâm đến những từ vựng đang tra bây giờ.
-
-Nhìn lại thêm nhiều lần nữa cũng không phải là cách hiệu quả.
+A: Đơn giản là "sự lặp lại". Càng đọc nhiều sẽ càng nhớ được nhiều từ hơn. Nói cách khác, đừng bận tâm đến những từ vựng đang tra bây giờ. Nhìn lại thêm nhiều lần nữa cũng không phải là cách hiệu quả.
 
 Điều thực sự nên làm là: Nhìn vào nghĩa từ, cách đọc. Sau đó tiếp tục chuyển qua cái khác.
 
 **Q: Làm cách nào để biết một từ bắt đầu và kết thúc ở đâu? Tiếng Nhật không có dấu cách!**
 
-A: Câu trả lời đơn giản là, khá khó với người mới bắt đầu.
-
-Nhưng khả năng nhận biết điều này sẽ trở nên tốt hơn theo thời gian.
-
-Rốt cuộc, việc học ngôn ngữ chỉ là nhận dạng các mẫu (pattern recognition).
+A: Câu trả lời đơn giản là, khá khó với người mới bắt đầu. Nhưng khả năng nhận biết điều này sẽ trở nên tốt hơn theo thời gian. Rốt cuộc, việc học ngôn ngữ chỉ là nhận dạng các mẫu (pattern recognition).
 
 Yomitan có thể hỗ trợ bạn phân biệt từ bắt đầu ở đâu và kết thúc ở đâu với độ chính xác lên tới 90%.
 
 **Q: Bây giờ mình có thể "nhìn ra được" Tiếng Nhật, mình có thể thử dịch nó trong đầu không?**
 
-A: Khá khó để trả lời câu này
+A: Khá khó để trả lời câu này bởi luôn có những thứ không thể diễn đạt giữa hai ngôn ngữ. Cách suy nghĩ giữa hai ngôn ngữ vốn đã rất khác.
 
-Luôn có những thứ không thể diễn đạt giữa hai ngôn ngữ.
-
-Cách suy nghĩ giữa hai ngôn ngữ vốn đã rất khác.
-
-Đó là lý do chính tại sao phương pháp này (và những phương pháp tương tự) có xu hướng khuyên bạn không nên cố gắng dịch phần Immersion của mình.
-
-Vì Tiếng Nhật không phải là Tiếng Anh hay Tiếng Việt.
-
-Tiếng Nhật là Tiếng Nhật.
+Đó là lý do chính tại sao phương pháp này (và những phương pháp tương tự) có xu hướng khuyên bạn không nên cố gắng dịch phần immersion của mình. Vì Tiếng Nhật không phải là Tiếng Anh hay Tiếng Việt. Tiếng Nhật là Tiếng Nhật.
 
 Dù vậy nhưng bạn có thể thực hiện một số kiểu "dịch nôm na", trong đó chỉ cần cố gắng ghép một số ý nghĩa cơ bản lại với nhau.
 
 *Thực sự là không cần dịch luôn?*
 
-Không phải lúc nào cũng vậy, sẽ có những điều bạn không hiểu được do nhiều yếu tố. (Thiếu kiến thức về: nghĩa của từ, nghĩa của từ khó hiểu nếu chỉ đọc từ từ điển, cách sử dụng ngữ pháp, cách sử dụng ngữ pháp nâng cao, ngữ cảnh, cách sử dụng từ đó trong phạm vi ngôn ngữ rộng hơn, v.v.)
-
-Sẽ khá mệt khi phải dịch liên tục nên hãy thực hiện có chừng mực.
+Không phải lúc nào cũng vậy, sẽ có những điều bạn không hiểu được do nhiều yếu tố (Thiếu kiến thức về: nghĩa của từ, nghĩa của từ khó hiểu nếu chỉ đọc từ từ điển, cách sử dụng ngữ pháp, cách sử dụng ngữ pháp nâng cao, ngữ cảnh, cách sử dụng từ đó trong phạm vi ngôn ngữ rộng hơn, v.v.). Sẽ khá mệt khi phải dịch liên tục nên hãy thực hiện có chừng mực.
 
 **Q: Mình nên xem bao nhiêu tập có phụ đề Tiếng Nhật để chuyển qua xem không có phụ đề?**
 
@@ -494,11 +450,7 @@ Raw:
 
 **Q: Còn subtitle tutor thì sao?**
 
-A: Bạn không nên làm điều đó quá nhiều.
-
-Mục đích duy nhất là cung cấp ngữ cảnh cho video.
-
-Sẽ rất chán khi phải xem cùng một tập hai lần.
+A: Bạn không nên làm điều đó quá nhiều. Mục đích duy nhất là để cung cấp ngữ cảnh cho video. Sẽ rất chán khi phải xem cùng một tập hai lần.
 
 Không xem tập phim bằng Tiếng Nhật sau khi bạn xem nó có phụ đề Tiếng Anh thì chẳng có ích lợi gì.
 
@@ -566,7 +518,7 @@ Ví dụ: 将 = 丬+爫+寸
 
 Bạn nên sử dụng bộ thẻ Anki “Recognition Remembering the Kanji 450”.
 
-[Download it here](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)  
+[Tải xuống tại đây](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)  
 
 Mục đích của bộ thẻ là giúp bạn dần dần có khả năng nhận dạng Kanji như sự kết hợp giữa các bộ phận nhất quán.
 
@@ -717,9 +669,7 @@ Tra **25** từ trong bài luyện đọc Anime với phụ đề Tiếng Nhật
 
 Chào mừng đồng chí đã đến cửa ải tiếp theo
 
-Giai đoạn mới bắt đầu luôn là phần khó nhất khi học bất kỳ ngôn ngữ nào và mọi thứ sẽ chỉ trở nên dễ dàng hơn khi bạn học lâu hơn và nhiều hơn.
-
-Với nhiều thời gian dành cho việc thực hiện các phương pháp phù hợp, bạn chắc chắn sẽ tiến bộ.
+Giai đoạn mới bắt đầu luôn là phần khó nhất khi học bất kỳ ngôn ngữ nào và mọi thứ sẽ chỉ trở nên dễ dàng hơn khi bạn học lâu hơn và nhiều hơn. Với nhiều thời gian dành cho việc thực hiện các phương pháp phù hợp, bạn chắc chắn sẽ tiến bộ.
 
 Bạn có thể nghi ngờ về tác dụng thực sự của phương pháp này, sau đây sẽ là giải giải thích.
 
@@ -741,27 +691,13 @@ Khi khả năng nghe thuần (raw listening Immersion) của bạn đã trở n�
  
 Từ hôm nay cho đến ngày 30. Mình muốn bạn thử thách bản thân đọc 100 trang của manga よつばと!.
 
-よつばと! là một bộ manga về cuộc sống đời thường siu hay và có furigana (Kana hiện trên chữ Kanji).
+よつばと! là một bộ manga về cuộc sống đời thường siu hay và có furigana (Kana hiện trên chữ Kanji). Rất khó tra từ trên Manga vì về cơ bản nó là văn bản trên hình ảnh. Nhưng có rất nhiều công cụ giúp quá trình này trở nên dễ dàng hơn. Có một công cụ tên là *mokuro* có thể biến manga thành trang HTML. Các bong bóng hội thoại sẽ chuyển thành văn bản mà có thể sử dụng được Yomitan, giống như một trang bình thường!
 
-Rất khó tra từ trên Manga vì về cơ bản nó là văn bản trên hình ảnh.
+よつばと! có một số cách viết từ không chuẩn, điều mà khiến cho việc sử dụng từ điển trở nên khó khăn. Chẳng hạn như そう được viết là そー. Chữ “ー” này không phải là Kanji 一 (NHẤT). Nó chỉ là một dấu kéo dài nguyên âm. Còn được gọi là “長音” (ちょうおん). Chữ Kanji này giúp kéo dài âm. とー sẽ là とう. びー sẽ là びい. vân vân.
 
-Nhưng có rất nhiều công cụ giúp quá trình này trở nên dễ dàng hơn.
+Có một công cụ hỗ trợ việc đọc Yotsubato khi gặp những từ oái ăm như trên. **Tất cả những gì bạn cần là tải tệp .zip này về: [(Tải xuống tại đây)](https://mega.nz/file/JRxmAZyA#qfHSC-gjBxkumlELYrP6oIz3-p_dZka0Dgg4q1eTbEo)**  
 
-Có một công cụ tên là *mokuro* có thể biến manga thành trang HTML.
-
-Các bong bóng hội thoại sẽ chuyển thành văn bản mà có thể sử dụng được Yomitan, giống như một trang bình thường!
-
-よつばと! có một số cách viết từ không chuẩn, điều mà khiến cho việc sử dụng từ điển trở nên khó khăn. Chẳng hạn như そう được viết là そー
-
-Chữ “ー” này không phải là Kanji 一 (NHẤT). Nó chỉ là một dấu kéo dài nguyên âm.
-
-Được gọi là “長音” (ちょうおん). Chữ Kanji này giúp kéo dài âm. とー sẽ là とう. びー sẽ là びい. vân vân.
-
-Có một công cụ hỗ trợ việc đọc Yotsubato khi gặp những từ oái ăm như trên.
-
-**Tất cả những gì bạn cần là tải tệp .zip này về: [(Tải xuống tại đây)](https://mega.nz/file/JRxmAZyA#qfHSC-gjBxkumlELYrP6oIz3-p_dZka0Dgg4q1eTbEo)**  
-
-*Ghi chú: Có lỗi đánh máy trong phần hỗ trợ  đọc: おいてくぞ  thực ra phải là おいていくぞ, chứ không phải là おいておくぞ*
+*Ghi chú: Có lỗi đánh máy trong phần hỗ trợ đọc: おいてくぞ  thực ra phải là おいていくぞ, chứ không phải là おいておくぞ*
 
 Manga hiển thị ở dạng văn bản dọc. Điều này có nghĩa là văn bản được đọc từ phải sang trái và đọc từ trên xuống dưới (Từ góc trên bên phải trở xuống)
 
@@ -769,13 +705,7 @@ Manga hiển thị ở dạng văn bản dọc. Điều này có nghĩa là văn
 
 Như mọi khi, bạn sẽ cần chạy Anki và hoàn thành các bài ngữ pháp hàng ngày.
 
-Việc Immersion sẽ trở nên... phức tạp hơn một chút.
-
-Bạn sẽ cần phải cân bằng giữa việc đọc bộ Manga trên và việc immerse như thường lệ.
-
-Dồn mọi thứ vào cùng một ngày có lẽ hơi quá khó với bạn
-
-Có thể luyện đọc bằng _Yotsubato!_ thay vì đọc phụ đề Tiếng Nhật. Không nhất thiết phải đọc phụ đề nếu mình không muốn.
+Việc immersion sẽ trở nên... phức tạp hơn một chút. Bạn sẽ cần phải cân bằng giữa việc đọc bộ Manga trên và việc immerse như thường lệ. Việc dồn mọi thứ vào cùng một ngày có lẽ hơi quá khó với bạn. Vậy nên bạn có thể luyện đọc bằng _Yotsubato!_ thay vì đọc phụ đề Tiếng Nhật. Không nhất thiết phải đọc phụ đề nếu mình không muốn.
 
 **Mẹo tra từ: Trang tìm kiếm Yomitan**
 
@@ -807,9 +737,7 @@ Và khi đọc đủ, bạn sẽ có thể quay lại những câu khó trước
 
 Pomodoro: Tập trung vào một nhiệm vụ trong một khoảng thời gian nhất định (thường là 25 phút) cho đến khi đồng hồ reo, sau đó nghỉ ngơi trong 5 phút. Hết 5 phút lại quay lại tập trung tiếp.
 
-Sử dụng trang Pomodoro này: [https://pomofocus.io/](https://pomofocus.io/)    
-
-Bạn nên giảm thời gian xuống còn 15 phút nếu bạn thấy 25 phút quá dài.
+Sử dụng trang Pomodoro này: [https://pomofocus.io/](https://pomofocus.io/). Bạn nên giảm thời gian xuống còn 15 phút nếu bạn thấy 25 phút quá dài.
 
 **Xúc xắc 20 mặt**
 
@@ -821,17 +749,13 @@ Hoặc bạn có thể sử dụng xúc xắc 20 mặt để quyết định xem
 
 #### Đọc lướt/Bỏ qua
 
-Việc đọc ở đây không phải là đọc hết nội dung trong sách.
-
-Bạn cần học cách bỏ qua và đọc lướt những thứ bạn không quan tâm/khiến bạn thấy phiền, v.v.
-
-Luôn có thể quay lại phần "khiến bạn thấy phiền" đó sau khi đã đọc xong những đoạn hay (Nếu bạn muốn).
+Việc đọc ở đây không phải là đọc hết nội dung trong sách. Bạn cần học cách bỏ qua và đọc lướt những thứ bạn không quan tâm/khiến bạn thấy phiền, v.v. Luôn có thể quay lại phần "khiến bạn thấy phiền" đó sau khi đã đọc xong những đoạn hay (Nếu bạn muốn).
 
 #### Nghỉ giải lao!
 
 Hãy nghỉ giải lao nếu thấy mệt.
 
-## Ngày 15 đến ngày 30: Học Tiếng Nhật hàng ngày và Immersion [悪戦苦闘](https://jisho.org/word/%E6%82%AA%E6%88%A6%E8%8B%A6%E9%97%98)!
+## Ngày 15 đến ngày 30: Học Tiếng Nhật hàng ngày và immersion [悪戦苦闘](https://jisho.org/word/%E6%82%AA%E6%88%A6%E8%8B%A6%E9%97%98)!
 
 Cho đến ngày thứ 30, những gì cần làm bao gồm:
 
@@ -842,11 +766,10 @@ Cho đến ngày thứ 30, những gì cần làm bao gồm:
 Chỉ có vậy thôi và sẽ tiếp tục trong vài tuần tới.
 
 **Q: Trong thời gian này mình có thể đọc và xem những thứ khác mà không được đề cập trong đây không?**
+
 Được, vì đấy mới chính là những gì mà phương pháp này hướng tới.
 
-Đọc những gì bạn quan tâm!
-
-Xem những gì bạn quan tâm!
+Đọc những gì bạn quan tâm! Xem những gì bạn quan tâm!
 
 Hướng dẫn học này (UsagiSpoon) chỉ thay bạn quyết định một số phần.
 

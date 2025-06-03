@@ -1,8 +1,5 @@
 # Tiếng Nhật trong Anime
 
-!!! info "Nguồn"
-    Bài viết là bản dịch Tiếng Việt cho bài [Anime Japanese](http://learnjapanese.moe/animejp/) được viết bởi shoui.
-
 ![LoveLive! Muse](img/muse1_crop.jpg)
 
 Có khá nhiều người cho rằng không nên học Tiếng Nhật thông qua Anime vì không ai nói Tiếng Nhật như vậy cả. Nhưng trên thực tế thì điều này không đúng. Hiểu nhầm này bắt nguồn từ việc nếu bạn học Tiếng Nhật thông qua Anime thì bạn sẽ nghĩ là "おい、てめぇなにやってんだ！コラァ！" và "ちっ、オラぁ一番強ぇんだぜ", "コラァ！何ブツブツ言ってんだ？打っ殺すぞ！" là những cấu trúc tự nhiên (Những câu này rất bất lịch sự), suy nghĩ này cũng không đúng nữa. Vì không phải Anime nào cũng sở hữu những đoạn hội thoại tự nhiên, có những bộ sẽ tự nhiên hơn những bộ khác, có bộ thì nam tính hơn hay có bộ thì nữ tính hơn. Lấy ví dụ thế này, "Kimi no Na wa." nghe sẽ tự nhiên hơn "Dragon Ball Z". Và "Love Live!" nghe sẽ *nhật* hơn so với "Kill la Kill". Hay ở các bộ như "Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunousen", mỗi nhân vật lại có một kiểu nói khác nhau. Một số nhân vật nói giống như một bộ Anime thực thụ, còn những nhân vật khác lại nói Tiếng Nhật rất tự nhiên. Bây giờ bạn hãy thử nghĩ xem: "Tiếng Nhật *chuẩn* là cái gì?"

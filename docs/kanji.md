@@ -1,8 +1,5 @@
 # Học Hán tự (Kanji)
 
-!!! info "Nguồn"
-    Bài viết là bản dịch Tiếng Việt cho bài [Learning Kanji](http://learnjapanese.moe/kanji/) được viết bởi shoui. Đã được viết lại đôi chút cho người học Việt.
-
 Khi mọi người nói "học Kanji" thì nó nghe khá là *vô lý*. Bạn không thể chỉ **học** một chữ Kanji vì Kanji có rất nhiều các phần cấu thành nên nó và không thể chỉ đơn giản nói là "Mình đã học chữ Kanji [gì đó]". Nó kiểu như: "Mình học một cái xe", "Mình học chơi game", hoặc thậm chí "Mình học Tiếng Nhật" chẳng hạn. Ý bạn là gì khi nói "Mình học Kanji?"
 
 Trang này sẽ trình bày mức độ hữu ích của việc học Kanji đơn lẻ, đó là điều mà hầu hết mọi người làm và nghĩ đến khi họ nói "học Kanji". Tất cả chúng ta đều nên biết rằng việc học Kanji về lâu về dài sẽ là Kanji với từ vựng. 

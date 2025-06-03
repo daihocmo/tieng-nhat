@@ -1,9 +1,4 @@
-# Light Novel/Web Novel
-
-!!! info "Nguồn"
-    Viết bởi shoui, [Reading](https://github.com/shoui520/shoui520.github.io/blob/master/docs/reading.md)
-
-Mình gộp chung vào và thành một bài về đọc Tiếng Nhật.
+# Light Novel/Web Novel/Manga
 
 Đọc tiếng Nhật là ***CỰC KỲ QUAN TRỌNG***. Việc bạn học đọc là điều bắt buộc. Nhiều người hay hỏi: “Tôi có thể học tiếng Nhật mà không cần học đọc được không?” – Câu trả lời là: được, nếu bạn chấp nhận không hiểu nổi ngữ pháp cơ bản và sau nhiều năm học vẫn chỉ nhớ lèo tèo vài từ vựng.
 
