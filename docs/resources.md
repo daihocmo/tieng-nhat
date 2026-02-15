@@ -15,20 +15,19 @@ Trang của mình chỉ tổng hợp một phần nhỏ các tài nguyên mà m�
 
 ### Kanji
 
+- [**※ Kanji theo bộ đủ 3 quyển**](https://archive.org/details/kanji-theo-bo-full-3q) (*[hoặc tải trên Drive](https://drive.google.com/file/d/1D86Ak5mzuiD2DSRnvzf4jNXZHCWjJqVz/view)*) - Tự học 2136 Hán tự Tiếng Nhật (Nhớ đọc kĩ phương pháp học Kanji ở những trang đầu).
 - [KanjiGuess](https://leb2.github.io/kanji-guess/) - Trang trò chơi đoán cách đọc của Kanji và đo lượng từ vựng mình biết ước tính
-- [Neko Kanji](https://thu-tram.github.io/doc-kanji/) - Kiểm tra cách đọc của từ vựng JLPT có Kanji.
-- [Kanken](https://ankiweb.net/shared/info/1833474130) - Bộ thẻ Kanken để học viết Kanji (Tiếng Anh)
 
 ### Từ vựng
 
-- [Kaishi 1.5k](https://github.com/thu-tram/kaishi-vi/releases)
+- [**※ Kaishi 1.5k (Nhật - Việt)**](https://github.com/thu-tram/kaishi-vi/releases)
 
 ### Ngữ pháp
 
-- [Cure Dolly script](https://kellenok.github.io/cure-script/) - Trang tổng hợp ngữ pháp Cure Dolly
+- [**※ Yokubi**](https://thu-tram.github.io/yokubi-vi/) - Tự học ngữ pháp Tiếng Nhật cơ bản.
 - [NihongoKyoshi JLPT grammar](https://nihongokyoshi-net.com/jlpt-grammars/) - Học ngữ pháp JLPT bằng Tiếng Nhật, tránh bị hiểu sai khi dịch song ngữ.
 - **[※ NihongoKyoshi Anki Deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view?usp=sharing)** - Học ngữ pháp JLPT bằng Tiếng Nhật, tránh bị hiểu sai khi dịch song ngữ, bộ thẻ Anki.
-- [Lan-Don's Japanese Conjugation Drill](https://landonjpginn.github.io/jp-verb-quiz/conjugation/drill.html)
+- [JLPT N1 文法 - nihongonomori](https://archive.org/details/jlpt-n1-bunpou-nihongonomori)
 
 ### JLPT
 
@@ -38,8 +37,6 @@ Trang của mình chỉ tổng hợp một phần nhỏ các tài nguyên mà m�
 - [JTest4You](https://japanesetest4you.com/). Thi thử JLPT.
 - [毎日のんびり日本語教師](https://nihongonosensei.net/).
 - [The JLPT Study Page](https://www.jlptstudy.net/). Đủ các thứ cái về thi JLPT từ N5 đến N2.
-- [Tổng hợp các nguồn tự học tiếng Nhật miễn phí](https://spiderum.com/bai-dang/Tong-hop-cac-nguon-tu-hoc-tieng-Nhat-mien-phi-cbo)
-
 
 ## Nội dung Tiếng Nhật
 
@@ -65,6 +62,7 @@ Một phần được lấy từ [Resources của TheMoeWay](http://learnjapanes
 -  [**Japanese Media Recommendation Spreadsheet**](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/) - Gợi ý hàng đầu
 
 ### Tiểu thuyết, văn học (Các nội dung đọc nói chung)
+
 - [Syosetsu Web Novels](https://yomou.syosetu.com/) - Đọc web-novel, hai trang dưới cũng tương tự.
 - [Kakuyomu](https://kakuyomu.jp/)
 - [Hameln](https://syosetu.org/)

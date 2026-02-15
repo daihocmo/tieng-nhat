@@ -15,28 +15,24 @@ Sau khi cài xong nó sẽ mở một tab mới, bạn đóng trang đó lại v
 
 ## Tải từ điển
 
-Khi bạn mới cài Yomitan lần đầu, bạn sẽ cần cài từ điển để có thể sử dụng được Yomitan.
+Khi bạn mới cài Yomitan lần đầu, bạn sẽ cần cài từ điển để có thể sử dụng được Yomitan. Những tệp này sử dụng phần mở rộng `.zip` (file extension) và **bạn không cần phải giải nén nó ra.**
 
-Những tệp này sử dụng phần mở rộng `.zip` (file extension) và **bạn không cần phải giải nén nó ra.**
-  
-### Từ điển Nhật - Anh
+### Từ vựng
 
-Gợi ý từ người dịch: Bạn nên tải cả bộ Nhật - Anh ở dưới để bao quát lượng từ hơn và có thêm nhiều cái hay nữa.
+- [Mazii Nhật - Việt](https://yomitan-vi.github.io/mazii-yomitan/)
+- Các từ điển Nhật - Việt khác như JaViDic hoặc Suge: [Tải trong Kho từ điển Nhật - Việt cho Yomitan](https://yomitan-vi.github.io/tu-dien-nhat-viet-yomitan)
 
-Bạn có thể tải bộ từ điển từ tác giả gốc của bài viết này: [Bộ sưu tập từ điển Yomitan của Shoui](https://learnjapanese.link/dictionaries). Một số đường dẫn cho các từ điển khác bao gồm:
+### Kanji
 
 - [KanjiDictVN](https://github.com/trungnt2910/KanjiDictVN/releases)
-- [Mazii Nhật - Việt](https://github.com/PainterHalver/mazii_to_yomichan/releases/)
 
-Tải từ điển trong các thư mục tương ứng (Bilingual - Từ điển song ngữ Nhật - Anh, Kanji, Grammar .etc.) 
+### Những từ điển khác
 
-Bạn nên cài đặt các từ điển sau (theo shoui):
+Bạn nên cài đặt các từ điển sau từ [Bộ sưu tập từ điển Yomitan của Shoui](https://learnjapanese.link/dictionaries):
 
-- `Bilingual/[Bilingual] Jitendex (Recommended).zip`  
-- `Mazii Nhật - Việt.zip`
-- `Kanji/[Kanji] KanjiDictVN.zip`  
-- `Grammar/Dictionary of Japanese Grammar.zip`  
 - `Pitch Accent/アクセント辞典v2 (Recommended).zip`
+
+*Bạn nên tải cả bộ Nhật - Anh (JMDict) để tăng độ bao phủ (coverage) của từ điển nghen.*
 
 ## Cài đặt từ điển và sử dụng cơ bản
   
@@ -44,14 +40,7 @@ Bạn nên cài đặt các từ điển sau (theo shoui):
 2. Bấm vào ![cog](img/yomitan-cog.png) icon để mở cài đặt.  
 3. Chọn "Dictionaries" ở thanh sidebar bên trái rồi chọn "Configure installed and enabled dictionaries…"  
 4. Bấm vào nút "Import" ở bên dưới.  
-5. Giờ là lúc chọn các từ điển để import vào trong Yomitan
-
-    - `Bilingual/[Bilingual] Jitendex (Recommended).zip`  
-    - `Mazii Nhật - Việt.zip`
-    - `Kanji/[Kanji] KanjiDictVN.zip`  
-    - `Grammar/Dictionary of Japanese Grammar.zip`  
-    - `Pitch Accent/アクセント辞典v2 (Recommended).zip`
-
+5. Giờ là lúc chọn các từ điển để import vào trong Yomitan.
 6. Đợi các từ điển được thêm vào. Sẽ mất một lúc (Mình làm trên Firefox thấy lâu hơn so với bên Chromium)
 7. Sau khi hoàn tất, bạn có thể kiểm tra Yomitan bằng cách giữ phím ++shift++ và di chuột qua văn bản Tiếng Nhật. Thử di chuột vào cái này xem: 日本語. Nó sẽ hiện một pop-up box hiển thị các định nghĩa được chia theo từ điển.
 ![Yomitan Demo](img/yomidemo1.png) 
@@ -71,8 +60,6 @@ Có thể chỉnh kích cỡ Pop-up trong cài đặt và cả giao diện tối
 **新和英** (Shinwaei) Từ điển Nhật-Anh được làm cho người Nhật, có nhiều câu ví dụ
 
 **KANJIDIC** Từ điển Kanji.
-
-**Dictionary of Japanese Grammar**, or 日本語文法辞典(全集) - từ điển ngữ pháp
 
 **アクセント辞典v2** Tra thông tin Pitch Accent
 
@@ -100,7 +87,4 @@ Người-bản-ngữ-chắc-cũng-không-biết: 80,000+
 
 ## Server audio ngoại tuyến (Nhiều audio hơn mặc định)
 
-[Đọc hướng dẫn tại đây](https://github.com/themoeway/local-audio-yomichan)  
-
-!!! info "Nhắc nhỏ"
-    Phần còn lại của bài viết sẽ không được dịch nên bạn cần đọc ở trang gốc bằng Tiếng Anh
+[Đọc hướng dẫn tại đây](https://github.com/themoeway/local-audio-yomichan)
