@@ -28,4 +28,4 @@ Sẽ khá bực mình khi phải nghe những người khác nói rằng Anime k
 
 PS: Anime bạn xem phải là **phụ đề Nhật** hoặc **không có phụ đề** nha. Có nhiều người nói rằng họ xem Anime có phụ đề dịch và học vẫn không biết Tiếng Nhật và điều đó không sai. Nhưng mà, chúng ta xem không có phụ đề dịch, xem không phụ đề hoặc ít nhất là phụ đề Nhật.
 
-Have fun immersing! :smile:
+*Ghi chú cá nhân:* Dù vậy, mình không gợi ý bạn học Tiếng Nhật hoàn toàn (hoặc phần lớn) thông qua Anime. Vì đơn giản là, để có thể nói được Tiếng Nhật như người Nhật, bạn cần phải nghe *rất nhiều* các cuộc hội thoại bằng Tiếng Nhật tự nhiên, không phải những nội dung được lên kịch bản từ trước như phim hay là ANIME (*organic* và *unscripted*). Bạn có thể tìm hiểu thêm trong video: [DON’T Learn Japanese From Anime](https://www.youtube.com/watch?v=8G4mcapKG24). Nên nói chung là: Đừng giới hạn bạn chỉ trong Anime.

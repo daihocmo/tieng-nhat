@@ -8,27 +8,26 @@ repo_name: Đóng góp chỉnh sửa trang
 nav:
   - 'Trang chủ': 'index.md'
   - 'Hướng dẫn': 
-    - 'Hướng dẫn tự học Tiếng Nhật': 'guide.md'
-    - '30 ngày Tiếng Nhật': 'routine.md'
+    - 'Tự học Tiếng Nhật': 'guide.md'
+    - '30 ngày học Tiếng Nhật': 'routine.md'
     - 'Nghe Tiếng Nhật': 'listening.md'
     - 'Nói Tiếng Nhật': 'speaking.md'
-    - 'Học Kanji': 'kanji.md'
+    - 'Đọc Tiếng Nhật': 'reading.md'
+    - 'Kanji (Hán tự)': 'kanji.md'
     - 'Các mẹo và chiến thuật đọc Tiếng Nhật': 'readingtips.md'
-    - 'Hướng dẫn đơn ngữ': 'monolingual.md'
+    - 'Đơn ngữ (Monolingual)': 'monolingual.md'
     - 'Câu hỏi thường gặp': 'faq.md'
     - 'Tiếng Nhật trong Anime': 'animejp.md'
+    - 'Sửa lỗi phông chữ Tiếng Nhật & Gõ Tiếng Nhật': 'font-va-ime.md'
+  - 'Đại khái là về':
+    - 'Comprehensible Input': 'input.md'
     - 'Visual Novel': 'vn.md'
-  - 'Yomitan':
-    - 'Hướng dẫn cài đặt Yomitan': 'yomitan.md'
+    - 'Manga / Light Novel / Web Novel': 'novel.md'
   - 'Tài nguyên học': 
     - 'Tổng hợp': 'resources.md'
-  - 'Các bài viết khác':
-    - 'Tự học JLPT N5-N1': 'jlpt.md'
-    - 'Thiết lập môi trường học': 'setup.md'
-    - 'Comprehensible Input': 'input.md'
-    - 'Light Novel': 'novel.md'
-
-      
+  - 'Yomitan':
+    - 'Hướng dẫn cài đặt Yomitan': 'yomitan.md'
+    
 theme:
   palette:
     # Palette toggle for light mode

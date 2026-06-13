@@ -3,6 +3,8 @@
 ## Yomitan là gì?
 Yomitan là một extension (tiện ích mở rộng) trên trình duyệt (Chrome, Chromium-based hoặc Firefox) cho phép bạn tra cứu các từ Tiếng Nhật cả nghĩa lẫn cách đọc trên trang web một cách dễ dàng.
 
+Nếu bạn thấy khó hiểu quá thì có thể xem hướng dẫn trên Youtube: [Cách cài đặt Yomitan cho Tiếng Nhật](https://www.youtube.com/watch?v=D2-CX5G4FkY)
+
 ## Bắt đầu
 Yomitan có thể tải ở trên cả Chromium và Firefox.
 
@@ -21,6 +23,7 @@ Khi bạn mới cài Yomitan lần đầu, bạn sẽ cần cài từ điển đ
 
 - [Mazii Nhật - Việt](https://yomitan-vi.github.io/mazii-yomitan/)
 - Các từ điển Nhật - Việt khác như JaViDic hoặc Suge: [Tải trong Kho từ điển Nhật - Việt cho Yomitan](https://yomitan-vi.github.io/tu-dien-nhat-viet-yomitan)
+- [JMDict](https://github.com/yomidevs/jmdict-yomitan/releases/latest/download/JMdict_english.zip) - Từ điển Nhật - Anh, nhưng có số lượng từ vựng rất lớn.
 
 ### Kanji
 
@@ -31,8 +34,6 @@ Khi bạn mới cài Yomitan lần đầu, bạn sẽ cần cài từ điển đ
 Bạn nên cài đặt các từ điển sau từ [Bộ sưu tập từ điển Yomitan của Shoui](https://learnjapanese.link/dictionaries):
 
 - `Pitch Accent/アクセント辞典v2 (Recommended).zip`
-
-*Bạn nên tải cả bộ Nhật - Anh (JMDict) để tăng độ bao phủ (coverage) của từ điển nghen.*
 
 ## Cài đặt từ điển và sử dụng cơ bản
   

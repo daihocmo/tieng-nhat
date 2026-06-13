@@ -4,7 +4,7 @@
 
 Dĩ nhiên, đọc tiếng Nhật lúc đầu sẽ rất khó – đầy rẫy những chữ Hán nhìn là muốn bỏ cuộc. Nhưng đó là chuyện bình thường. Lúc đầu bao giờ cũng thấy mệt, bạn chỉ cần vượt qua giai đoạn đó, rồi dần dần sẽ đọc tốt hơn, tự tin hơn. Nếu bạn đang tự hỏi “Ủa rồi tra nghĩa mấy từ này kiểu gì?”, thì cứ yên tâm – có những công cụ hỗ trợ bạn rất hiệu quả.
 
-Trước khi bước vào đọc thực sự, bạn nên học xong một bộ từ vựng Anki sẵn có (chẳng hạn như Kaishi 1.5k) và một giáo trình ngữ pháp cơ bản như của Tae Kim hay Cure Dolly – như vậy khi đọc sẽ đỡ đau đầu hơn vì bạn đã quen nhiều từ. Ngoài ra, bạn nên có trải nghiệm nghe tiếng Nhật trước đó, vì:
+Trước khi bước vào đọc thực sự, bạn nên học xong một bộ từ vựng Anki sẵn có (chẳng hạn như Kaishi 1.5k) và một giáo trình ngữ pháp cơ bản – như vậy khi đọc sẽ đỡ đau đầu hơn vì bạn đã quen nhiều từ. Ngoài ra, bạn nên có trải nghiệm nghe tiếng Nhật trước đó, vì:
 
 1. Nó giúp bạn tránh phát âm sai về lâu dài
 2. Nó giúp bạn dễ hiểu cấu trúc câu hơn khi đọc.
