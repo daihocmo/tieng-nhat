@@ -7,6 +7,8 @@ Trang của mình chỉ tổng hợp một phần nhỏ các tài nguyên mà m�
 
 ## Học Tiếng Nhật
 
+Làm thế nào để ghi nhớ Từ vựng, Kanji, Ngữ pháp hay gì đấy sau khi mình đã học? Có rất nhiều phương pháp để ghi nhớ và cá nhân mình gợi ý bạn sử dụng Anki (Anki ép bạn phải nhớ lại phần kiến thức bạn đã học (Active Recall - Gợi nhớ một cách chủ động), cũng như là lặp đi lặp lại ngắt quãng để bạn có thể ghi nhớ lâu hơn (Spaced Repetition)).
+
 ### Kana
 
 Bạn học qua cái này thông qua một video bất kì rồi luyện tập nhiều là được ấy. Không cần luyện viết trên giấy hay gì đâu.
@@ -47,9 +49,16 @@ Học ngữ pháp **rất quan trọng**.
     - [Tổng hợp ngữ pháp N3](https://www.youtube.com/watch?v=59TvtS7IEj0)
     - [Tổng hợp Ngữ pháp N2](https://www.youtube.com/watch?v=xDNHl2zuK7k)
 - [NihongoKyoshi JLPT grammar](https://nihongokyoshi-net.com/jlpt-grammars/) - Học ngữ pháp JLPT bằng Tiếng Nhật, tránh bị hiểu sai khi dịch song ngữ.
-- **[※ NihongoKyoshi Anki Deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view?usp=sharing)** - Học ngữ pháp JLPT bằng Tiếng Nhật, tránh bị hiểu sai khi dịch song ngữ, bộ thẻ Anki.
 - [N2_文法 - ゆき先生](https://www.youtube.com/playlist?list=PLmfiO-Jszu_gFC2RxFwQJqBvG17gGlSD3) hoặc [N2文法 grammar VS của nihongonomori](https://www.youtube.com/playlist?list=PLINFE8v4DOhvV5tJT77oF92vIwLLl6wAA)
 - [JLPT N1 文法 - nihongonomori](https://archive.org/details/jlpt-n1-bunpou-nihongonomori)
+- [日本語文型バンク](https://www2.ninjal.ac.jp/bunkeibank/) - Cơ sở dữ liệu mẫu câu tiếng Nhật của Viện Quốc ngữ Nhật Bản (NINJAL).
+- [庭三郎の現代日本語文法概説](https://niwasaburoo.amebaownd.com/) - Tài liệu ngữ pháp tiếng Nhật được viết hoàn toàn bằng tiếng Nhật, giải thích chi tiết nhiều hiện tượng ngữ pháp từ góc nhìn của người bản xứ.
+- [国語の文法](https://www.kokugobunpou.com/#gsc.tab=0) - Website về ngữ pháp tiếng Nhật theo chương trình giáo dục tại Nhật, giúp hiểu cách người Nhật phân tích và giảng dạy ngữ pháp.
+- **[※ NihongoKyoshi Anki Deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view?usp=sharing)** - Học ngữ pháp JLPT bằng Tiếng Nhật, tránh bị hiểu sai khi dịch song ngữ, bộ thẻ Anki.
+
+### Trọng âm cao độ (Pitch Accent)
+
+- [Yudai Sensei](https://www.youtube.com/@yudaisensei2020) - Kênh YouTube của giáo viên người Nhật chia sẻ về Pitch Accent, cách phát âm tự nhiên và tầm quan trọng của ngữ điệu trong giao tiếp.
 
 ### JLPT
 
@@ -62,14 +71,23 @@ Học ngữ pháp **rất quan trọng**.
 - [毎日のんびり日本語教師](https://nihongonosensei.net/).
 - [The JLPT Study Page](https://www.jlptstudy.net/). Đủ các thứ cái về thi JLPT từ N5 đến N2.
 
+### Mấy cái linh tinh khác
+
+- [Numbers](https://langpractice.com/japanese) - Công cụ luyện nghe và nhận biết các con số trong tiếng Nhật, giúp cải thiện khả năng phản xạ với số đếm và cách đọc số.
+
 ## Nội dung Tiếng Nhật
 
 Một phần được lấy từ [Resources của TheMoeWay](http://learnjapanese.moe/resources/), đã chọn lọc lại cho phù hợp với người học Việt.
 
+### Tổng hợp
+
+- [Japanese Media Recommendations](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit?gid=1999205540#gid=1999205540) - Bảng tổng hợp anime, manga, light novel, game và nhiều nội dung tiếng Nhật khác, kèm đánh giá độ khó (bởi kuri).
+- [Learn Natively](https://learnnatively.com/) - Nền tảng tổng hợp sách, manga, anime và các nội dung tiếng Nhật được phân loại theo độ khó, giúp bạn dễ dàng chọn tài liệu phù hợp với trình độ.
+
 ### Anime
+
 - [Ani-One Asia](https://www.youtube.com/@AniOneAsia) - Xem Anime trên Youtube có thể tắt phụ đề.
 - [Animelon](https://animelon.com/) - Trang xem Anime học Tiếng Nhật
-- [**Japanese Media Recommendation Spreadsheet**](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/) - Gợi ý hàng đầu
 - [Danh sách gợi ý JPDB - Anime](https://jpdb.io/anime-difficulty-list)
 
 ### Phim & J-Drama
@@ -79,11 +97,6 @@ Một phần được lấy từ [Resources của TheMoeWay](http://learnjapanes
 - [Japanese Live TV Streams 3](https://tver.jp/)- Dùng [VPN](https://learnjapanese.moe/resources/#vpns-japan-location-specific).
 - [ABEMA](https://abema.tv/) - Cần VPN
 - [Search on bilibili](https://www.bilibili.com/) - Có thể có nội dung Nhật trên này
-- [**Japanese Media Recommendation Spreadsheet**](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/) - Gợi ý hàng đầu
-
-### Manga
-
--  [**Japanese Media Recommendation Spreadsheet**](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/) - Gợi ý hàng đầu
 
 ### Tiểu thuyết, văn học (Các nội dung đọc nói chung)
 
@@ -96,16 +109,13 @@ Một phần được lấy từ [Resources của TheMoeWay](http://learnjapanes
 - [JPDB - Web Novel Difficulty List](https://jpdb.io/web-novel-difficulty-list)
 - [JPDB - Novel Difficulty List](https://jpdb.io/novel-difficulty-list)
 
-### Audiobooks & Podcasts
+### Sách nói & Podcasts
 
-- [Podcast Republic](https://www.podcastrepublic.net/)
 - [睡眠用ひろゆき](https://www.youtube.com/@kiriyuki_hiroyuki/videos)
 - [Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0).
-- [Audiobook Collection](https://onedrive.live.com/?authkey=%21ACiYIpTlxCBAtvU&id=12E15D07EB9B7E28%212087&cid=12E15D07EB9B7E28) - Nhiều sách nói hơn nữa
 
 ### Visual Novel
 
--  [**Japanese Media Recommendation Spreadsheet**](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/) - Gợi ý hàng đầu
 - [anacreondjt](https://anacreondjt.gitlab.io/vn-chart/)
 - [Chronopolize](https://docs.google.com/spreadsheets/d/18vCgQHhBNBeRJdcTcyUi2Atq-nAapQW--33qrwl5Yfw/edit#gid=0)
 - [Một danh sách gợi ý VN khác trên Google Docs](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub#id.cwlxotz70k6z)
@@ -120,13 +130,10 @@ Một phần được lấy từ [Resources của TheMoeWay](http://learnjapanes
 - [Japanese Movie Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles)
 - **[Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)**
 
-### Tìm câu ví dụ
+### Câu ví dụ
 
-- [Immersion Kit](https://www.immersionkit.com/) - Tìm từ Anime, Game các thứ
-- [Youglish](https://youglish.com/japanese) - Tìm trên Youtube
-- [Massif](https://massif.la/) - Tra câu trên Syosetu
-- [Yourei.jp](http://yourei.jp/) - Cũng được
-- [SentenceSearch](https://sentencesearch.neocities.org/)
+- [massif.la](https://massif.la/ja) - Công cụ tổng hợp câu ví dụ tiếng Nhật từ nhiều nguồn khác nhau, hỗ trợ tra cứu cách sử dụng từ và ngữ pháp trong ngữ cảnh thực tế.
+- [Nadeshiko](https://nadeshiko.co/ja/) - Công cụ tìm kiếm câu ví dụ sử dụng dữ liệu từ anime, phim ảnh và nhiều nguồn hội thoại tự nhiên khác. Đồng thời cung cấp API cho nhà phát triển.
 
 ### Condensed Audio
 
@@ -174,3 +181,9 @@ Một phần được lấy từ [Resources của TheMoeWay](http://learnjapanes
 ### Ứng dụng cho máy tính
 
 - **[※ Anki (Windows, Mac and Linux)](https://apps.ankiweb.net/)**
+
+## Output
+
+Output là kỹ năng tạo ra tiếng Nhật, bao gồm nói và viết (không nhất thiết chỉ giới hạn ở việc nói hoặc viết theo nghĩa đen).
+
+- [Learning to Output](https://morg.systems/Learning-to-Output) - Hướng dẫn về cách bắt đầu luyện Output một cách hiệu quả, bao gồm thời điểm nên luyện, phương pháp thực hành và những điều cần lưu ý. Được viết bởi Morg.

@@ -1,7 +1,7 @@
 site_name: Tiếng Nhật - Khu học mở
-site_description: Một hướng dẫn tự học Tiếng Nhật thông qua Comprehensible Input và Immersion. Là bản dịch Tiếng Việt cho trang TheMoeWay.
+site_description: Một hướng dẫn tự học Tiếng Nhật thông qua Nội dung dễ hiểu (Comprehensible Input) và Immersion. Là bản dịch Tiếng Việt cho trang TheMoeWay.
 site_author: duykhanh471  
-site_url: https://daihocmo.github.io
+site_url: https://daihocmo.github.io/tieng-nhat
 repo_url: https://github.com/daihocmo/tieng-nhat
 repo_name: Đóng góp chỉnh sửa trang
 
@@ -20,12 +20,11 @@ nav:
     - 'Tiếng Nhật trong Anime': 'animejp.md'
     - 'Sửa lỗi phông chữ Tiếng Nhật & Gõ Tiếng Nhật': 'font-va-ime.md'
   - 'Đại khái là về':
-    - 'Comprehensible Input': 'input.md'
+    - 'Nội dung dễ hiểu': 'input.md'
     - 'Visual Novel': 'vn.md'
     - 'Manga / Light Novel / Web Novel': 'novel.md'
-  - 'Tài nguyên học': 
+  - 'Tài nguyên': 
     - 'Tổng hợp': 'resources.md'
-  - 'Yomitan':
     - 'Hướng dẫn cài đặt Yomitan': 'yomitan.md'
     
 theme:
