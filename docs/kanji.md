@@ -1,7 +1,5 @@
 # Học Hán tự (Kanji)
 
-Đại khái là bàn về tư duy học Kanji, nếu bạn muốn học cách học Kanji thực tế thì đọc: [Hướng dẫn cách tự học Kanji](hockanji.md)
-
 ### Học âm Hán Việt tương ứng & nghĩa - Tương đối hữu ích
 
 Trong phần này mình sẽ nói về cả hai phần, âm Hán Việt tương ứng (kiểu như 連 là LIÊN) và ý nghĩa của Kanji đó (âm Hán Việt là "LIÊN" có nghĩa là "tiếp tục").

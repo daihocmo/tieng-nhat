@@ -19,7 +19,7 @@ Bạn học qua cái này thông qua một video bất kì rồi luyện tập n
 ### Kanji
 
 Ghi chú: Đọc nhiều là cách tốt nhất để học Kanji. Hoặc có thể hiểu đơn giản bạn nên học Kanji thông qua việc học cách đọc từ vựng nhiều hơn.  
-Hoặc bạn cũng có thể đọc: [Hướng dẫn tự học Kanji](hockanji.md)
+Hoặc bạn cũng có thể đọc: [Hướng dẫn tự học Kanji]()
 
 - [**※ Kanji theo bộ đủ 3 quyển**](https://archive.org/details/kanji-theo-bo-full-3q) (*[hoặc tải trên Drive](https://drive.google.com/file/d/1D86Ak5mzuiD2DSRnvzf4jNXZHCWjJqVz/view)*) - Tự học 2136 Hán tự Tiếng Nhật (Nhớ đọc kĩ phương pháp học Kanji ở những trang đầu).
 - [KanjiGuess](https://leb2.github.io/kanji-guess/) - Trang trò chơi đoán cách đọc của Kanji và đo lượng từ vựng mình biết ước tính
@@ -55,14 +55,16 @@ Học ngữ pháp **rất quan trọng**.
 - [庭三郎の現代日本語文法概説](https://niwasaburoo.amebaownd.com/) - Tài liệu ngữ pháp tiếng Nhật được viết hoàn toàn bằng tiếng Nhật, giải thích chi tiết nhiều hiện tượng ngữ pháp từ góc nhìn của người bản xứ.
 - [国語の文法](https://www.kokugobunpou.com/#gsc.tab=0) - Website về ngữ pháp tiếng Nhật theo chương trình giáo dục tại Nhật, giúp hiểu cách người Nhật phân tích và giảng dạy ngữ pháp.
 - **[※ NihongoKyoshi Anki Deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view?usp=sharing)** - Học ngữ pháp JLPT bằng Tiếng Nhật, tránh bị hiểu sai khi dịch song ngữ, bộ thẻ Anki.
+- [Luyện tập chia động từ](https://thu-tram.github.io/chia-dong-tu-tieng-nhat/conjugation/drill.html)
 
 ### Trọng âm cao độ (Pitch Accent)
 
 - [Yudai Sensei](https://www.youtube.com/@yudaisensei2020) - Kênh YouTube của giáo viên người Nhật chia sẻ về Pitch Accent, cách phát âm tự nhiên và tầm quan trọng của ngữ điệu trong giao tiếp.
+- [Kiểm tra phân biệt trọng âm cao độ (Pitch Accent) qua cặp từ](https://thu-tram.github.io/minimal-pairs/) - Luyện tập phân biệt Pitch Accent. Đây là bản dịch Tiếng Việt cho trang [Minimal Pairs](https://kuuuube.github.io/minimal-pairs/) của kuuuube.
 
 ### JLPT
 
-**Ghi chú:** Cách để thi JLPT được điểm cao là luyện đề nhiều. Bạn cũng có thể học thêm từ vựng có thể sẽ xuất hiện nhiều trong JLPT thông qua bộ Tango. Bạn cũng có thể đọc [hướng dẫn tự học JLPT của cá nhân mình (duykhanh471)](jlpt.md)
+**Ghi chú:** Cách để thi JLPT được điểm cao là luyện đề nhiều. Bạn cũng có thể học thêm từ vựng có thể sẽ xuất hiện nhiều trong JLPT thông qua bộ Tango. Bạn cũng có thể đọc [hướng dẫn tự học JLPT của cá nhân mình (duykhanh471)](https://duyk471.github.io/huong-dan/tu-hoc/jlpt.html)
 
 - [dethitiengnhat](https://dethitiengnhat.com/en/): Khu lưu trữ đề thi Tiếng Nhật các năm
 - [JLPT Grammar List](https://jlptgrammarlist.neocities.org/): Tổng hợp ngữ pháp JLPT
