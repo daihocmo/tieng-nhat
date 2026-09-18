@@ -1,5 +1,8 @@
 ### Visual Novel là gì?
 
+!!! info "Nguồn hướng dẫn"
+    Đây là bản dịch của [Visual Novel Guide](https://learnjapanese.moe/vn) được viết bởi shoui. Mọi người nên đọc bản gốc bằng Tiếng Anh nếu có thể.
+
 Visual Novel (thường được viết tắt là **VN**) là sự kết hợp giữa tiểu thuyết và trò chơi. Hầu hết các VN đều có hoạt họa giống Anime và thường có lồng tiếng, nhạc nền với hiệu ứng âm thanh. Trong suốt trò chơi, người chơi có thể được đưa ra các lựa chọn, điều này sẽ ảnh hưởng đến cách câu chuyện sẽ diễn ra, vì vậy nếu bạn chơi lần thứ hai, với các lựa chọn khác nhau, bạn có thể sẽ trải nghiệm một cốt truyện hoàn toàn khác.
 
 ![Image](img/vn1.jpg)

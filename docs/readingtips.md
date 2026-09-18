@@ -1,5 +1,8 @@
 # Mẹo và chiến lược cho việc đọc
 
+!!! info "Nguồn hướng dẫn"
+    Đây là bản dịch của [Reading Techniques and Strategies](https://learnjapanese.moe/readingtips/) được viết bởi shoui. Mọi người nên đọc bản gốc bằng Tiếng Anh nếu có thể.
+
 Hướng dẫn bắt đầu thực sự về việc đọc
 
 Để giỏi Tiếng Nhật hơn, đọc sách gần như là cách hiệu quả nhất. 
@@ -30,7 +33,7 @@ Dễ tiếp cận hơn tiểu thuyết thông thường, có độ khó phù h�
 
 Xem [hướng dẫn về Visual Novel của mình](vn.md) để tìm hiểu cách học Tiếng Nhật bằng Visual Novel.
 
-### Yomitan + Textractor + Texthooker page  
+### Yomitan + Textractor + Texthooker page
 
 Bộ ba thần thánh dành cho những người thích Visual Novel.
 
@@ -50,7 +53,7 @@ Và đó là chiến lược mà mình khuyên mọi người nên thực hiện
 
 Dù sao đi nữa, đây là một chiến lược đọc cấp "Chúa tể" vì thông qua Anime, bạn đã có ngữ cảnh trong đầu rồi nâng lên thành i+1, tăng hiệu quả trong việc học ngôn ngữ. Light Novel sẽ có nhiều volume, tốt cho người học vì việc làm quen với phong cách viết của một tác giả sẽ dễ dàng hơn so với việc đọc của một tác giả khác.
 
-### Yomitan, Itazuraneko, EPUBs+ッツ Reader  
+### Yomitan, Itazuraneko, EPUBs+ッツ Reader
 
 Bộ ba thần thánh dành cho những người thích đọc tiểu thuyết, Light Novel, web novel bằng Tiếng Nhật.
 
@@ -71,7 +74,7 @@ Tuy vậy, chúng vẫn tốt cho việc luyện đọc và rõ ràng là bạn 
   
 Bộ ba thần thánh cho những người thích manga.
 
-### Pomodoro / Timeboxing  
+### Pomodoro / Timeboxing
 
 Đây là một chiến lược "God tier" khác mà mình muốn giới thiệu.
 
@@ -199,7 +202,7 @@ Khi bạn đọc nhiều hơn, bạn sẽ hiểu nhiều hơn.
 
 Trả lời: Không. Cần có chuyên môn để đọc nhanh hơn.
 
-### Nayamigoto về sự hiểu (Comprehension) Loại 1 
+### Nayamigoto về sự hiểu (Comprehension) Loại 1
 
 Loại 1: “mình đã nhìn vào câu/đoạn văn/từ này rất lâu và không hiểu nổi nó có nghĩa gì.”
 

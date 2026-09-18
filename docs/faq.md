@@ -1,8 +1,11 @@
 # FAQ về Tiếng Nhật
 
-Chào mừng bạn đến với trang FAQ Tiếng Nhật. Một FAQ khá đầy đủ về Tiếng Nhật.
+Chào mừng bạn đến với trang FAQ Tiếng Nhật. Một FAQ khá đầy đủ về Tiếng Nhật. Cho ai chưa biết thì FAQ có nghĩa là "câu hỏi thường gặp". Chí ít thì đống câu hỏi này là của mấy bạn bên các cộng đồng học bằng Tiếng Anh.
 
 Do phần FAQ rất dài nên hãy sử dụng thanh tìm kiếm hoặc ++ctrl+f++ để tìm nội dung bạn muốn biết. 
+
+!!! info "Nguồn của FAQ"
+    Đây là bản dịch của [Japanese FAQ](https://learnjapanese.moe/faq/) được viết bởi shoui.
 
 ### FAQ này được viết ra để làm gì?
 
@@ -32,7 +35,7 @@ Bạn nên hoàn thành Anki vào buổi sáng. (Càng sớm càng tốt)
 ### Mình nên dành bao lâu cho Anki?
 Không nên dành quá 1 giờ mỗi ngày. Ưu tiên thời gian cho Immersion, không phải thẻ Anki. Anki chỉ để hỗ trợ cho việc Immersion. 
 
-### Về ngữ pháp thì nên chọn Tae Kim hay Cure Dolly? 
+### Về ngữ pháp thì nên chọn Tae Kim hay Cure Dolly?
 Học thứ mà bạn thấy hợp
 
 ### Bạn mình JLPT N3 bảo mình.... Blah blah blah blah
@@ -62,7 +65,7 @@ Sử dụng bộ từ điển Yomitan trong bộ sưu tập của mình (Tác gi
 ### Học bộ thủ Kanji có hữu ích không?
 Bạn không cần chúng nhưng nếu Kanji vẫn trông giống như những nét vẽ nguệch ngoạc đối với bạn sau nhiều tháng đọc thì bạn có thể sử dụng bộ thẻ RRTK 450.
 
-### Mình thấy một từ/Kanji nhất định (khi không sử dụng SRS) thì cực kỳ khó nhớ. 
+### Mình thấy một từ/Kanji nhất định (khi không sử dụng SRS) thì cực kỳ khó nhớ.
 Đọc nhiều hơn. Nghe nhiều hơn. Bạn không nhất thiết phải tin mình nếu bạn không muốn nhưng rồi cuối cùng bạn cũng sẽ nhớ được nếu thực hành Immersion nhiều hơn thôi. Mình đã nghĩ là mình không thể nhớ nổi 蝸牛[かたつむり] cho dù mình có tra bao nhiêu lần đi nữa. Sau khoảng 80 lần tra, mình đã có thể nhớ được. Hoặc bạn có thể làm thẻ Anki.
 
 ### Mình đang cố học ngữ pháp nhưng mình luôn quên mất các cấu trúc ngữ pháp và không hiểu các cấu trúc ngữ pháp.
@@ -127,7 +130,7 @@ Kiểm tra card type và các mục trong đấy cẩn thận.
 Không, JLPT rất hạn chế. Chỉ cần học những gì bạn gặp được trong quá trình Immersion.
 Bạn đang học Tiếng Nhật chỉ để đi thi thôi à?  
 
-### Mình chưa sẵn sàng để xem Anime hay bất cứ thứ gì không có phụ đề... điều đó dành cho những người học ở trình độ cao như JLPT N1!  
+### Mình chưa sẵn sàng để xem Anime hay bất cứ thứ gì không có phụ đề... điều đó dành cho những người học ở trình độ cao như JLPT N1!
 Không bao giờ là quá sớm để xem Anime mà không có phụ đề. Dù gì thì bạn cũng cần phải xem Anime không có phụ đề để có thể hiểu Anime tốt hơn.
 
 ### Reddit
@@ -136,7 +139,7 @@ Không, đừng, tránh xa nó ra, họ luôn than phiền về việc học Ti�
 ### Mình không có thời gian học Tiếng Nhật
 Bạn có thể có nhiều thời gian hơn bạn nghĩ. Đừng chơi game nữa. Đừng lướt Reddit nữa. Dậy sớm. Hoàn thành Anki vào sáng sớm. Đừng nói chuyện trên Discord nữa. Đừng tiêu thụ nội dung bằng tiếng Anh nữa. Hoặc nếu bạn thực sự không có thời gian thay vì là “thà làm việc khác còn hơn” thì bạn hãy cố gắng học thêm dù chỉ là một chút Tiếng Nhật trong ngày, không nhiều nhưng có còn hơn không.
 
-### Mình nghe "ga" mà như "nga" hoặc gì đó?   
+### Mình nghe "ga" mà như "nga" hoặc gì đó?
 [鼻濁音](https://youtu.be/xpzpbuFHVVU) 
 
 ### Mình đang thực hiện Active Immersion (Immersion vào ngôn ngữ một cách chủ động), bạn (shoui) nói là tập trung vào xem họ đang nói gì. Bạn giải thích chi tiết hơn được không?
@@ -329,7 +332,7 @@ Một câu kinh điển. Bạn chỉ cần nhớ ý chính của định nghĩa.
 
 Có thể bạn đang cảm thấy loạn, nhưng ban đầu có thể sẽ rất khó nhưng dần dần bạn cũng sẽ quen với  nó thôi.
 
-### Chấm điểm cho thẻ câu  
+### Chấm điểm cho thẻ câu
 Nếu bạn đang làm thẻ câu thì mình sẽ hướng dẫn bạn trong quá trình ôn tập.
 Hãy nghĩ lại về những tấm thẻ song ngữ, bạn sẽ chấm điểm thế nào? Bạn có thể đã biết là câu phía trước là câu bạn cần hiểu, còn mặt sau là từ cùng với cách đọc và định nghĩa của nó là cần thiết để hiểu câu. 
 Quá trình ôn tập thẻ câu trông như này: Bạn đọc câu, hiện mặt sau thẻ, đọc phần định nghĩa ở mặt sau thẻ, nếu định nghĩa mặt sau giúp bạn hiểu câu hơn thì chấm là Fail (Chưa được). Nếu không, chấm Good (Đạt). Nói cách khác, bạn xếp loại thẻ là "Đạt" nếu không cần thông tin bổ sung (định nghĩa) trên thẻ để hiểu câu. Về cơ bản thì điều này cũng giống việc ôn tập thẻ đơn ngữ.

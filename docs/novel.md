@@ -1,8 +1,11 @@
 # Light Novel/Web Novel/Manga
 
-Đọc tiếng Nhật là ***CỰC KỲ QUAN TRỌNG***. Việc bạn học đọc là điều bắt buộc. Nhiều người hay hỏi: “Tôi có thể học tiếng Nhật mà không cần học đọc được không?” – Câu trả lời là: được, nếu bạn chấp nhận không hiểu nổi ngữ pháp cơ bản và sau nhiều năm học vẫn chỉ nhớ lèo tèo vài từ vựng.
+!!! info "Nguồn hướng dẫn"
+    Đây là bản dịch của [Getting into Reading](https://github.com/shoui520/shoui520.github.io/blob/master/docs/reading.md) được viết bởi shoui. Mọi người nên đọc bản gốc bằng Tiếng Anh nếu có thể.
 
-Dĩ nhiên, đọc tiếng Nhật lúc đầu sẽ rất khó – đầy rẫy những chữ Hán nhìn là muốn bỏ cuộc. Nhưng đó là chuyện bình thường. Lúc đầu bao giờ cũng thấy mệt, bạn chỉ cần vượt qua giai đoạn đó, rồi dần dần sẽ đọc tốt hơn, tự tin hơn. Nếu bạn đang tự hỏi “Ủa rồi tra nghĩa mấy từ này kiểu gì?”, thì cứ yên tâm – có những công cụ hỗ trợ bạn rất hiệu quả.
+Đọc tiếng Nhật đóng một vai trọ ***CỰC KỲ QUAN TRỌNG*** trong quá trình học Tiếng Nhật. Việc học đọc là bắt buộc. Nhiều người hay hỏi: “Mình có thể học tiếng Nhật mà không cần học đọc được không?” – thì câu trả lời là: cũng được, nếu bạn chấp nhận không hiểu nổi ngữ pháp cơ bản và sau nhiều năm học vẫn chỉ nhớ lèo tèo vài từ vựng.
+
+Dĩ nhiên, việc đọc tiếng Nhật lúc đầu sẽ rất khó – đầy rẫy những chữ Hán nhìn là muốn bỏ cuộc. Nhưng đó là chuyện bình thường. Lúc đầu bao giờ cũng thấy mệt, bạn chỉ cần vượt qua giai đoạn đó, rồi dần dần sẽ đọc tốt hơn, tự tin hơn. Nếu bạn đang tự hỏi “Ủa rồi tra nghĩa mấy từ này kiểu gì?”, thì cứ yên tâm – có những công cụ hỗ trợ bạn rất hiệu quả.
 
 Trước khi bước vào đọc thực sự, bạn nên học xong một bộ từ vựng Anki sẵn có (chẳng hạn như Kaishi 1.5k) và một giáo trình ngữ pháp cơ bản – như vậy khi đọc sẽ đỡ đau đầu hơn vì bạn đã quen nhiều từ. Ngoài ra, bạn nên có trải nghiệm nghe tiếng Nhật trước đó, vì:
 

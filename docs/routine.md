@@ -1,5 +1,8 @@
 # 30 ngày Tiếng Nhật (UsagiSpoon)
 
+!!! info "Nguồn hướng dẫn"
+    Đây là bản dịch của [30 Day Japanese (UsagiSpoon)](https://learnjapanese.moe/routine) được viết bởi shoui.
+
 ![](img/welcome_nunko.png)
 
 Đây là một bảng thói quen giúp mọi người học Tiếng Nhật từ đầu thông qua Immersion. Bạn cần thực hiện theo thứ tự. Đa phần các quyết định đã được đưa ra cho bạn.

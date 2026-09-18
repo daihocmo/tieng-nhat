@@ -1,5 +1,8 @@
 # Hướng dẫn cài đặt Yomitan
 
+!!! info "Nguồn hướng dẫn"
+    Đây là bản dịch của [Yomitan Setup Tutorial](https://learnjapanese.moe/yomichan) được viết bởi shoui.
+
 ## Yomitan là gì?
 Yomitan là một extension (tiện ích mở rộng) trên trình duyệt (Chrome, Chromium-based hoặc Firefox) cho phép bạn tra cứu các từ Tiếng Nhật cả nghĩa lẫn cách đọc trên trang web một cách dễ dàng.
 

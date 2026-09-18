@@ -1,5 +1,8 @@
 # Học Hán tự (Kanji)
 
+!!! info "Nguồn hướng dẫn"
+    Đây là bản dịch của [Learning Kanji](https://learnjapanese.moe/kanji/) được viết bởi shoui. Đây không hoàn toàn là bản dịch 1-1 với bản gốc vì mình đã viết lại tương đối để phù hợp hơn với người học Tiếng Nhật bằng Tiếng Việt.
+
 ### Học âm Hán Việt tương ứng & nghĩa - Tương đối hữu ích
 
 Trong phần này mình sẽ nói về cả hai phần, âm Hán Việt tương ứng (kiểu như 連 là LIÊN) và ý nghĩa của Kanji đó (âm Hán Việt là "LIÊN" có nghĩa là "tiếp tục").

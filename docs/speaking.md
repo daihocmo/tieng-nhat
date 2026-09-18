@@ -1,5 +1,8 @@
 # Nói Tiếng Nhật
 
+!!! info "Nguồn hướng dẫn"
+    Đây là bản dịch của [Speaking Japanese](https://learnjapanese.moe/speaking) được viết bởi shoui. Mọi người nên đọc bản gốc bằng Tiếng Anh nếu có thể.
+
 *Input là yếu tố quan trọng nhất để có thể nói ngoại ngữ tốt. Output chỉ là phụ.*
 
 Khi nói đến việc học ngoại ngữ, chúng ta thường nghĩ: "Để giỏi hơn thì cần nói nhiều hơn”. Trên thực tế, điều này không đúng. 

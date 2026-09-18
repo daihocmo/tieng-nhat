@@ -2,6 +2,9 @@
 
 *Nếu bạn không cần đọc phần mở đầu, hãy đến luôn phần **[2.1 Cách để học Tiếng Nhật](#21-cach-hoc-tieng-nhat)**.*
 
+!!! info "Nguồn hướng dẫn"
+    Đây là bản dịch của [Japanese Guide](https://learnjapanese.moe/guide/) được viết bởi shoui. Mọi người nên đọc bản gốc bằng Tiếng Anh nếu có thể (và bài [the shoui method](https://learnjapanese.moe/shouimethod/) nữa).
+
 ## 1.1 Nhiều người học ngoại ngữ "thất bại" do đâu?
 
 Có một số lượng không nhỏ những người bắt đầu học Tiếng Nhật để có thể trải nghiệm nội dung bằng Tiếng Nhật hoặc để có thể nói Tiếng Nhật trôi chảy và một số các mục tiêu khác. Dù vậy, không ít người sau nhiều năm học vẫn không thể đạt được mục tiêu ấy. Do việc học ngoại ngữ quá khó? Hay do chưa đủ chăm?
@@ -104,10 +107,7 @@ Quá trình học tập mở đầu bao gồm bao gồm:
 
 ## 2.2 Hiragana và Katakana
 
-<figure>
-  <img src="/img/kana3.png" style="display: block; margin: 0 auto;" / alt="HIRAGANA AND KATAKANA IN SCRIPTS">
-  <figcaption>"Hiragana" và "Katakana"</figcaption>
-</figure> 
+![](img/kana3.png)
 
 *Hiragana* và *Katakana* là hai phần của hệ thống viết trong Tiếng Nhật với phần thứ ba là *Kanji* (Kanji)
 
@@ -327,7 +327,7 @@ Chọn những gì bạn thích. Media thực sự khá giải trí vì nhiều 
 
 Chọn bất cứ nội dung gì bạn muốn. Nó có thể là Anime, phim, J-Drama, tiểu thuyết, light novel, manga, visual novel, game hoặc YouTube. Chỉ cần bạn thích bất cứ thứ gì bạn chọn cho việc immersion của bản thân là được.
 
-### Cách để thực hiện Listening Immersion 
+### Cách để thực hiện Listening Immersion
 
 Chúng ta không muốn suy nghĩ quá nhiều về mọi thứ khi đang nghe. Thả mình theo dòng chảy (flow) cho đến khi bạn nghe thấy thứ mà bạn muốn tra.
 
@@ -362,7 +362,7 @@ Bạn có thể bắt đầu giảm thời lượng nghe xuống theo tỷ lệ 
  
 Đây là một cách tiếp cận rất tệ. Cần thực hiện mỗi thứ một chút.
 
-### Cách làm đúng 
+### Cách làm đúng
 
 Khi bạn vẫn đang học Kana, bạn nên thử bằng xem thứ gì đó bằng Tiếng Nhật mà không có phụ đề để xây dựng tinh thần immersion. Nó có thể là bất cứ điều gì bạn thích và bạn không cần phải hiểu bất cứ điều gì.
 
