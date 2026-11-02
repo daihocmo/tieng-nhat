@@ -39,9 +39,9 @@ Sau đó xem video này: [https://www.youtube.com/watch?v=_wZHqOghvSs](https://w
 
 Đây là một video của JapanesePod. Có lẽ đây nên là video duy nhất bạn nên xem từ kênh này.
 
-Bây giờ, hãy vào trang này. [https://gohoneko.neocities.org/learn/Kana.html](https://gohoneko.neocities.org/learn/Kana.html)  
+Bây giờ, hãy vào trang này. [https://kanadash.com/?hiragana=all&katakana=all](https://kanadash.com/?hiragana=all&katakana=all)  
 
-Nhấn vào "show/hide options"  rồi nhấn vào "check all" để chọn tất cả các mục. Sau đó bắt đầu kiểm tra, nhập romaji chính xác vào hộp văn bản. Đây là cách ôn Kana. (Thời lượng 10 phút)
+Tất cả Kana đã được chọn sẵn. Chọn chế độ "Infinite" rồi nhấn "Start", sau đó nhập romaji chính xác vào hộp văn bản. Đây là cách ôn Kana. (Thời lượng 10 phút)
 
 Nếu cần đồng hồ bấm giờ thì: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/)  
 
@@ -49,7 +49,7 @@ Nếu cần đồng hồ bấm giờ thì: [https://www.online-stopwatch.com/tim
 
 ### Giai đoạn: Xây dựng môi trường Tiếng Nhật ngay tại nhà
 
-Thực hành Kana trên trang này [https://gohoneko.neocities.org/learn/Kana.html](https://gohoneko.neocities.org/learn/Kana.html) trong 10 phút. Hãy chọn tất cả Kana.
+Thực hành Kana trên trang này [https://kanadash.com/?hiragana=all&katakana=all](https://kanadash.com/?hiragana=all&katakana=all) trong 10 phút. Hãy chọn tất cả Kana.
 
 Biến Tiếng Nhật thành một phần trong cuộc sống của bản thân là phần quan trọng nhất của phương pháp Immersion. Tìm nội dung mà mình thích và biến việc tiêu thụ nội dung đó thành thói quen. Có thể bắt đầu với Anime đời thường (slice of life)
  
@@ -120,7 +120,7 @@ Việc học ngữ pháp sẽ được bắt đầu từ ngày mai.
 
 ### Giai đoạn: Bắt đầu học ngữ pháp
 
-Thực hành trên trang này [https://gohoneko.neocities.org/learn/Kana.html](https://gohoneko.neocities.org/learn/Kana.html) trong 10 phút.  
+Thực hành trên trang này [https://kanadash.com/?hiragana=all&katakana=all](https://kanadash.com/?hiragana=all&katakana=all) trong 10 phút.  
 
 Bây giờ sẽ là lúc bắt đầu học ngữ pháp.
 
@@ -176,7 +176,7 @@ Việc hôm nay là:
 - Cài đặt bộ gõ Tiếng Nhật trên máy tính.
 - Thực hiện việc Immersion  hàng ngày.
 
-Thực hành Kana trên trang này  [https://gohoneko.neocities.org/learn/Kana.html](https://gohoneko.neocities.org/learn/Kana.html) trong 10 phút.
+Thực hành Kana trên trang này  [https://kanadash.com/?hiragana=all&katakana=all](https://kanadash.com/?hiragana=all&katakana=all) trong 10 phút.
 
 Sau đó, hãy học các phần ngữ pháp như hàng ngày. **3 video của Cure Dolly** !
 
@@ -284,7 +284,7 @@ Sau khi xong, đây là những chức năng hữu ích nhất.
 Đã đến lúc Immersion hàng ngày và hãy tự chọn số tập Anime. Nếu không thì: [Xúc sắc](https://www.google.com/search?q=roll+a+4+sided+dice)   
 
 ## Ngày 5
-Vào trang [https://gohoneko.neocities.org/learn/Kana.html](https://gohoneko.neocities.org/learn/Kana.html) và luyện tập Kana trong 10 phút [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/).  
+Vào trang [https://kanadash.com/?hiragana=all&katakana=all](https://kanadash.com/?hiragana=all&katakana=all) và luyện tập Kana trong 10 phút [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/).  
 
 Chạy Anki cho ngày hôm nay. Việc sử dụng Anki mới đầu sẽ khá mệt nhưng càng dùng thì càng dễ thành thói quen. Hãy nhìn vào khu bộ thẻ, có số xanh da trời và cả số màu xanh lá bên cạnh bộ thẻ từ vựng.
 
@@ -309,7 +309,7 @@ Một chữ là thầy, nửa chữ cũng là thầy.
 
 Hôm nay sẽ bắt đầu luyện đọc! Sẽ tương đối khó nhưng đừng quá căng thẳng nếu không hiểu! Như đã nói ở trên, một chữ là thầy, nửa chữ cũng là thầy. Dù chỉ là một chút nhưng vẫn sẽ có giá trị.
 
-Luyện tập Kana trong 10 phút [trên đây](https://gohoneko.neocities.org/learn/Kana.html). 
+Luyện tập Kana trong 10 phút [trên đây](https://kanadash.com/?hiragana=all&katakana=all). 
 
 Sau đó, hoàn thành Anki hàng ngày. Xong Anki học ngữ pháp, 3 video Cure Dolly. Xong ngữ pháp là bắt đầu luyện đọc.
 

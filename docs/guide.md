@@ -168,15 +168,15 @@ Sử dụng biểu đồ này để:
 #### Bước 3 - Cày
 Làm xong bước số 2 thì chơi "game" này để ôn tập
 
-<h3><a href="https://gohoneko.neocities.org/learn/kana" target="_blank">Game cày Kana</a></h3>
+<h3><a href="https://kanadash.com/?hiragana=main,dakuten" target="_blank">Game cày Kana</a></h3>
 
 <h4>Cách cày</h4>
 
-1.  Nhấp vào "show/hide options".
-2.  Nhấp vào "check all" cho *Hiragana*.
-3.  Bắt đầu kiểm tra *Hiragana* *phát âm* như thế nào.
-4.  Lặp lại cho đến khi cảm thấy tự tin về chủ đề này (có thể mất vài ngày hoặc vài tuần), sau đó thực hiện tương tự nhưng với tất cả "kết hợp Hiragana" cũng được chọn.
-5.  Lặp lại cho đến khi tự tin, sau đó thực hiện tương tự với bảng "Katakana" và sau đó nữa là "Katakana combinations".
+1.  Mở link trên, các hàng "Main" và "Dakuten" của *Hiragana* đã được chọn sẵn.
+2.  Nhấp vào "Start".
+3.  Bắt đầu kiểm tra *Hiragana* *phát âm* như thế nào: gõ romaji, đúng là tự chuyển sang chữ tiếp theo.
+4.  Lặp lại cho đến khi cảm thấy tự tin về chủ đề này (có thể mất vài ngày hoặc vài tuần), sau đó thực hiện tương tự nhưng với "Combination Kana" của *Hiragana* cũng được chọn ([link](https://kanadash.com/?hiragana=all)).
+5.  Lặp lại cho đến khi tự tin, sau đó thực hiện tương tự với *Katakana* ([link](https://kanadash.com/?katakana=main,dakuten)) và sau đó nữa là "Combination Kana" của *Katakana* ([link](https://kanadash.com/?katakana=all)).
 
 Toàn bộ quá trình này có thể mất tới 3 tuần đến một tháng tùy theo từng người. Đừng cảm thấy nản nếu phần học này của Tiếng Nhật mất thời gian, vì còn có những việc khác mà ta cần làm chẳng hạn như immersion ở cấp độ mới bắt đầu.
 
