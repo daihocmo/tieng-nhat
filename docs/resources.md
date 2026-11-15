@@ -72,6 +72,7 @@ Học ngữ pháp **rất quan trọng**.
 - [JTest4You](https://japanesetest4you.com/). Thi thử JLPT.
 - [毎日のんびり日本語教師](https://nihongonosensei.net/).
 - [The JLPT Study Page](https://www.jlptstudy.net/). Đủ các thứ cái về thi JLPT từ N5 đến N2.
+- [Nihongo to Japan](https://www.nihongotojapan.com/vi): Ngữ pháp JLPT N5–N1, hơn 10.000 câu luyện tập và khóa tự học miễn phí, có giao diện tiếng Việt.
 
 ### Mấy cái linh tinh khác
 
